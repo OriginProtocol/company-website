@@ -1,18 +1,22 @@
-
 msgid ""
 msgstr ""
-"Project-Id-Version:  originprotocolwebsite\n"
+"Project-Id-Version: originprotocolwebsite\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-03-17 11:39+0530\n"
-"PO-Revision-Date: 2020-12-18 16:18+0000\n"
+"PO-Revision-Date: 2021-06-21 23:55\n"
 "Last-Translator: \n"
-"Language: fr_FR\n"
 "Language-Team: French\n"
-"Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: originprotocolwebsite\n"
+"X-Crowdin-Project-ID: 308054\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/messages.pot\n"
+"X-Crowdin-File-ID: 72\n"
+"Language: fr_FR\n"
 
 #: config/strings_to_translate.py:4
 msgid "Technology Partners"
@@ -57,11 +61,9 @@ msgstr "Protocol Origin - À propos"
 
 #: templates/about.html:2 templates/extension-rewards.html:2
 #: templates/stayHomeStore.html:2 templates/swagStore.html:2
-msgid ""
-"Origin Protocol enables\n"
+msgid "Origin Protocol enables\n"
 "true peer-to-peer commerce."
-msgstr ""
-"Le protocole Origin permet\n"
+msgstr "Le protocole Origin permet\n"
 "un véritable commerce usager à usager."
 
 #: templates/about.html:12 templates/investors.html:13
@@ -71,7 +73,7 @@ msgstr "Quitter le mode plein écran"
 
 #: templates/about.html:28
 msgid "It’s time to bring crypto mainstream"
-msgstr ""
+msgstr "Il est le temps de faire intégrer les crypto-monnaies dans le grand public"
 
 #: templates/about.html:36 templates/investors.html:37
 #: templates/landing.html:30 templates/landing.html:152 templates/team.html:29
@@ -81,21 +83,20 @@ msgstr ""
 
 #: templates/about.html:44
 msgid "Origin enables decentralized commerce and finance"
-msgstr ""
+msgstr "Origin Protocol permet le commerce et les finances décentralisés"
 
 #: templates/about.html:47
-msgid ""
-"Origin is a fully distributed team. Our 800+ investors include top venture capitalists and\n"
+msgid "Origin is a fully distributed team. Our 800+ investors include top venture capitalists and\n"
 "      cryptocurrency funds all over the world."
-msgstr ""
+msgstr "Origin est une équipe entièrement distribuée. Nos 800+ investisseurs comprennent des capitalistes investisseurs de premier plan et des fonds de crypto-monnaies du monde entier."
 
 #: templates/about.html:49
 msgid "Origin Tokens (OGN) are held by over 30,000"
-msgstr ""
+msgstr "Les jetons Origin (OGN) sont détenus par plus de 30 000 personnes"
 
 #: templates/about.html:49
 msgid "token holders."
-msgstr ""
+msgstr "les détenteurs de jetons."
 
 #: templates/about.html:55 templates/landing.html:131
 msgid "Learn more about our team"
@@ -111,11 +112,11 @@ msgstr ""
 
 #: templates/about.html:80
 msgid "Centralized platforms for music and art often charge incredibly high fees, leaving the creators with a small fraction of the value generated and causing consumers to overpay for goods and experiences. Traditional payment processors also charge significant fees."
-msgstr ""
+msgstr "Les plateformes centralisées pour la musique et l'art facturent souvent des frais incroyablement élevés, laissant aux créateurs une petite fraction de la valeur générée et amenant les consommateurs à surpayer pour des biens et des expériences. Les processeurs de paiement traditionnels facturent également des frais importants."
 
 #: templates/about.html:83
 msgid "Decentralized commerce reduces the power of middlemen and their ability to charge egregious fees. Both buyers and sellers can share in the savings. With OUSD, Origin provides an alternative to high cost payment rails. Ordinary people and businesses can reduce costs and benefit from superior yields provided by OUSD."
-msgstr ""
+msgstr "Le commerce décentralisé réduit le pouvoir des intermédiaires et leur capacité à facturer des frais exorbitants. Les acheteurs et les vendeurs peuvent partager les économies réalisées. Avec OUSD, Origin propose une alternative aux rails de paiement coûteux. Les personnes et les entreprises ordinaires peuvent réduire leurs coûts et bénéficier des rendements supérieurs fournis par OUSD."
 
 #: templates/about.html:114
 msgid "Better Incentives"
@@ -123,26 +124,27 @@ msgstr ""
 
 #: templates/about.html:116
 msgid "Centralized platforms and financial institutions often have an antagonistic relationship with their customers. Fees are neccessary to make these companies successful. This creates a perverse relationship where customers have no stake in the success they help create."
-msgstr ""
+msgstr "Les plateformes centralisées et les institutions financières ont souvent une relation antagoniste avec leurs clients. Les frais sont nécessaires pour assurer le succès de ces entreprises. Cela crée une relation perverse où les clients n'ont aucun intérêt dans le succès qu'ils contribuent à créer."
 
 #: templates/about.html:119
 msgid "In contrast, Origin enables everyone to own a piece of the network. Fans and collectors can have a direct stake in the success of their favorite community with NFTs. Yield generated by OUSD is distributed fairly to all holders. Holders of Origin Tokens (OGN) can participate in governance to decide the future rules and direction of the network and also have a stake in the success of Origin’s products. When everyone owns a piece of the network, everyone is incentivized to help it grow and succeed."
-msgstr ""
+msgstr "In contrast, Origin enables everyone to own a piece of the network. Fans and collectors can have a direct stake in the success of their favorite community with NFTs. Yield generated by OUSD is distributed fairly to all holders. Holders of Origin Tokens (OGN) can participate in governance to decide the future rules and direction of the network and also have a stake in the success of Origin’s products. When everyone owns a piece of the network, everyone is incentivized to help it grow and succeed."
 
 #: templates/about.html:134
 msgid "Increased Access"
 msgstr ""
 
 #: templates/about.html:136
-msgid ""
-"2 billion people around the world are currently unbanked.\n"
+msgid "2 billion people around the world are currently unbanked.\n"
 "          They do not have checking accounts, credit cards, AliPay, or Apple\n"
 "          Pay."
-msgstr ""
+msgstr "2 milliards de personnes dans le monde sont actuellement non bancarisées.\n"
+"          Elles n'ont pas de compte courant, de carte de crédit, d'AliPay, ni d'Apple\n"
+"          Pay."
 
 #: templates/about.html:141
 msgid "With the advent of cryptocurrencies and the proliferation of inexpensive smartphones, now is the time to enable the unbanked to participate in decentralized commerce and finance. Anyone with a crypto wallet can participate in the NFT economy. Users from all over the world are now able to access a stable currency with superior yields in OUSD."
-msgstr ""
+msgstr "Avec l'avènement des crypto-monnaies et la prolifération des téléphones intelligents moins chers, le moment est arrivé de permettre aux personnes non bancarisées de participer au commerce et à la finance décentralisés. Toute personne possédant un portefeuille de crypto-monnaies peut participer à l'économie NFT. Les utilisateurs du monde entier peuvent désormais accéder à une monnaie stable avec des rendements supérieurs en OUSD."
 
 #: templates/about.html:172
 msgid "More Resilience"
@@ -154,17 +156,17 @@ msgstr ""
 
 #: templates/about.html:177
 msgid "Decentralized finance lets users take control of their money. They will be able to choose what assets to conduct business with and keep their savings in. Unlike in traditional centralized systems, funds cannot be seized and accounts cannot be shut down. DeFi is powered by smart contracts and code which minimizes the need for trust and limits human intervention and misadventure."
-msgstr ""
+msgstr "La finance décentralisée permet aux utilisateurs de prendre le contrôle de leur argent. Ils pourront choisir les ressources avec lesquelles ils feront des affaires et dans lesquelles ils conserveront leurs économies. Contrairement aux systèmes centralisés traditionnels, les fonds ne peuvent pas être saisis et les comptes ne peuvent pas être fermés. DeFi est alimenté par des contrats et des codes intelligents qui minimisent le besoin de confiance et limitent l'intervention humaine et la mésaventure."
 
 #: templates/about.html:186
 msgid "Origin in the Press"
 msgstr ""
 
 #: templates/about.html:293
-msgid ""
-"We have a large and growing community of developers and\n"
+msgid "We have a large and growing community of developers and\n"
 "      supporters"
-msgstr ""
+msgstr "Nous avons une communauté importante et croissante de développeurs et de\n"
+"      soutenneurs"
 
 #: templates/about.html:300
 msgid "Region-specific Channels"
@@ -180,68 +182,68 @@ msgstr "Politique d'utilisation acceptable du marché"
 
 #: templates/brave-dshop-pr.html:3 templates/brave-dshop-pr.html:5
 msgid "Origin Protocol - Brave Customer Story"
-msgstr ""
+msgstr "Origin Protocol - Brave Témoignage d'un client"
 
 #: templates/brave-dshop-pr.html:16
 msgid "Brave Customer Story"
-msgstr ""
+msgstr "Brave - Témoignage d'un client"
 
 #: templates/brave-dshop-pr.html:28
 msgid "SAN FRANCISCO/TAIPEI, March 11, 2021"
-msgstr ""
+msgstr "SAN FRANCISCO/TAIPEI, Le 11 Mars, 2021"
 
 #: templates/brave-dshop-pr.html:29
 msgid "Origin Protocol (Origin), a blockchain technology company developing decentralized commerce and finance (DeFi) applications, is pleased to be engaged by Brave Browser (Brave) in its switch from a centralized e-commerce platform to Origin’s decentralized Dshop platform. Working jointly with Brave, Origin enabled Brave to accept payments in its native token, BAT, for merchandise for the very first time. As part of the engagement, Origin also helped Brave sell its first ever non-fungible token (NFT) collection, which sold out in minutes."
-msgstr ""
+msgstr "Origin Protocol (Origin), une société de technologie blockchain qui développe des applications de commerce et de finance décentralisées (DeFi), est heureuse d'avoir été engagée par Brave Browser (Brave) dans son passage d'une plateforme de commerce électronique centralisée à la plateforme décentralisée Dshop d'Origin. En travaillant conjointement avec Brave, Origin a permis à Brave d'accepter pour la toute première fois des paiements en son jeton natif, BAT, pour des marchandises. Dans le cadre de cet engagement, Origin a également aidé Brave à vendre sa toute première collection de jetons non fongibles (NFT), qui s'est écoulée en quelques minutes."
 
 #: templates/brave-dshop-pr.html:30
 msgid "Adoption of decentralized technologies and cryptocurrency tokens are key to Brave’s mission and product offerings. Origin’s Dshop platform will enable Brave to better serve its BAT token holder community through increased cryptocurrency integration. Previously Brave’s merchandise store only accepted credit cards and was on a completely centralized platform."
-msgstr ""
+msgstr "L'adoption de technologies décentralisées et de jetons de crypto-monnaies est essentielle à la mission et à l'offre des produits Brave. La plateforme Dshop d'Origin permettra à Brave de mieux servir sa communauté de détenteurs de jetons BAT grâce à une intégration accrue des crypto-monnaies. Auparavant, le magasin de marchandises de Brave n'acceptait que les cartes de crédit et se trouvait sur une plateforme entièrement centralisée."
 
 #: templates/brave-dshop-pr.html:31
 msgid "Origin helped Brave switch from Shopify to the Dshop platform. The NFT integration to Dshop in collaboration with Brave led to a highly successful outcome for both parties. Brave sold all 30 NFTs, a result of a BAT token holder community campaign to create tokenized images of BAT memes, in just under two minutes. In addition, Brave continues to do brisk business through Dshop split between credit card payments and cryptocurrency payments."
-msgstr ""
+msgstr "Origin a aidé Brave à passer de Shopify à la plateforme Dshop. L'intégration des NFT à Dshop en collaboration avec Brave a abouti à un résultat très positif pour les deux parties. Brave a vendu l'ensemble des 30 NFT, résultat d'une campagne de la communauté des détenteurs de jetons BAT visant à créer des images tokenisées de mèmes BAT, en un peu moins de deux minutes. En outre, Brave continue de faire des affaires intenses par le biais de Dshop, réparties entre les paiements par carte de crédit et les paiements en crypto-monnaie."
 
 #: templates/brave-dshop-pr.html:32
 msgid "“We are delighted to be a strategic partner of Brave in support of their efforts to push forward decentralized technologies,” says Nick Poulden, technical lead for Dshop - Origin. “Working closely with Brave, we were able to provide a solution that served both their crypto native customers and BAT token holder community while also making it easy for non-crypto users to make purchases on their store. Brave wanted to signal to their token holders that they were committed to decentralized tech while still being able to serve their tens of millions of users who may be unfamiliar with it. Their previous platform could only serve the latter group. Brave’s first NFT collection sale was a smash success and we look forward to continuing a long-term, mutually rewarding relationship with them.”"
-msgstr ""
+msgstr "\"Nous sommes ravis d'être un partenaire stratégique de Brave pour soutenir leurs efforts visant à faire progresser les technologies décentralisées\", déclare Nick Poulden, responsable technique de Dshop - Origin. \"En travaillant en étroite collaboration avec Brave, nous avons pu fournir une solution qui servait à la fois leurs clients natifs de la crypto et la communauté des détenteurs de jetons BAT, tout en permettant aux utilisateurs non crypto d'effectuer facilement des achats sur leur boutique. Brave souhaitait signaler à ses détenteurs de jetons qu'il s'engageait en faveur des technologies décentralisées tout en étant en mesure de servir ses dizaines de millions d'utilisateurs qui ne sont pas familiers avec ces technologies. Leur précédente plateforme ne pouvait servir que ce dernier groupe. La première vente de collection NFT de Brave a été un succès retentissant et nous sommes impatients de poursuivre une relation à long terme et mutuellement enrichissante avec eux.\""
 
 #: templates/brave-dshop-pr.html:33
 msgid "About Origin Protocol"
-msgstr ""
+msgstr "À propos du Origin Protocol"
 
 #: templates/brave-dshop-pr.html:34
 msgid "Origin Protocol is a leading blockchain technology company founded in 2017 in San Francisco, CA. Origin’s focus is on building platforms that enable peer-to-peer commerce applications with a focus on NFTs and DeFi protocols and applications. We launched the Origin Dollar (OUSD) protocol in 2020 and conducted a record-breaking NFT auction in 2021. Origin Tokens (OGN) are listed on some of the largest exchanges in the world, including Binance Global and Huobi Global. <a href='/'>www.originprotocol.com</a>"
-msgstr ""
+msgstr "Origin Protocol est une société de technologie blockchain de premier plan fondée en 2017 à San Francisco, CA. Origin se concentre sur la construction de plateformes permettant des applications de commerce de pair à pair, en mettant l'accent sur les NFT et les protocoles et applications DeFi. Nous avons lancé le protocole Origin Dollar (OUSD) en 2020 et réalisé une vente aux enchères NFT record en 2021. Les tokens Origin (OGN) sont cotés sur certaines des plus grandes bourses du monde, notamment Binance Global et Huobi Global. <a href='/'>www.originprotocol.com</a>"
 
 #: templates/brave-dshop-pr.html:35
 msgid "Media Contact:"
-msgstr ""
+msgstr "Contact avec les médias :"
 
 #: templates/browser-extension.html:2 templates/browser-extension.html:3
 #: templates/browser-extension.html:15
 msgid "Origin Browser Extension"
-msgstr ""
+msgstr "Extension du navigateur Origin"
 
 #: templates/browser-extension.html:17
 msgid "Our browser extension is a playground where our most adventurous users can play around with prototypes of some of our wild and crazy ideas. You'll be among the first to see our new products and have the chance to offer feedback directly to the engineers who developed them."
-msgstr ""
+msgstr "Notre extension de navigateur est un terrain de jeu où nos utilisateurs les plus aventureux peuvent s'amuser avec les prototypes de certaines de nos idées les plus folles. Vous serez parmi les premiers à voir nos nouveaux produits et vous aurez l'occasion de donner votre avis directement aux ingénieurs qui les ont développés."
 
 #: templates/browser-extension.html:22
 msgid "Download for Chrome"
-msgstr ""
+msgstr "Téléchargement pour Chrome"
 
 #: templates/browser-extension.html:26
 msgid "Download for Firefox"
-msgstr ""
+msgstr "Téléchargement pour Firefox"
 
 #: templates/browser-extension.html:30
 msgid "Download for Brave"
-msgstr ""
+msgstr "Téléchargement pour Brave"
 
 #: templates/countdown-bar.html:8
 msgid "See the new OGN Token dashboard"
-msgstr ""
+msgstr "Voir le nouveau tableau de bord des Jetons OGN"
 
 #: templates/countdown-bar.html:13 templates/warning.html:24
 msgid "Go"
@@ -249,11 +251,11 @@ msgstr "Aller"
 
 #: templates/countdown-bar.html:18
 msgid "Buy now on"
-msgstr ""
+msgstr "Achetez de maintenant sur"
 
 #: templates/countdown-bar.html:24
 msgid "Subscribe to be the first to hear about important partnerships, exchange listings, and product launches."
-msgstr ""
+msgstr "Inscrivez-vous pour être le premier à être informé des partenariats importants, des listes d'échanges et des lancements de produits."
 
 #: templates/countdown-bar.html:26 templates/countdown-hero-banner.html:80
 msgid "Your email"
@@ -261,23 +263,23 @@ msgstr "Votre email"
 
 #: templates/countdown-hero-banner.html:33
 msgid "Origin Tokens (OGN) have launched!"
-msgstr ""
+msgstr "Les jetons Origin (OGN) ont été lancés !"
 
 #: templates/countdown-hero-banner.html:37 templates/tokens.html:5
 msgid "Origin Tokens (OGN) are launching soon!"
-msgstr ""
+msgstr "Les jetons Origin (OGN) seront bientôt lancés !"
 
 #: templates/countdown-hero-banner.html:53
 msgid "Buy OGN on Binance"
-msgstr ""
+msgstr "Achete-z en OGN sur Binance"
 
 #: templates/countdown-hero-banner.html:61
 msgid "Learn more"
-msgstr ""
+msgstr "Apprenez-en plus"
 
 #: templates/countdown-hero-banner.html:67
 msgid "Exclusively on"
-msgstr ""
+msgstr "En exclusivité sur"
 
 #: templates/countdown-hero-banner.html:72
 msgid "Subscribe to stay in touch."
@@ -443,157 +445,157 @@ msgstr "Entrer en contact"
 
 #: templates/dashboard.html:3
 msgid "Origin Protocol - Origin Token Dashboard"
-msgstr ""
+msgstr "Protocole d'origine - Tableau de bord des jetons d'origine"
 
 #: templates/dashboard.html:5 templates/dshop.html:5 templates/product.html:5
 msgid "Origin Protocol's platform powers true peer-to-peer marketplaces everywhere."
-msgstr ""
+msgstr "La plate-forme d'Origin Protocol alimente partout de véritables places de marché de pair à pair (peer to peer)."
 
 #: templates/dashboard.html:23
 msgid "Origin Token Dashboard"
-msgstr ""
+msgstr "Tableau de Bord des jetons OGN"
 
 #: templates/dashboard.html:30
 msgid "Price"
-msgstr ""
+msgstr "Prix"
 
 #: templates/dashboard.html:38 templates/ogn-token.html:29
 msgid "Market Cap"
-msgstr ""
+msgstr "Plafond du Marché"
 
 #: templates/dashboard.html:46 templates/ogn-token.html:22
 msgid "Circulating Supply"
-msgstr ""
+msgstr "Jetons à faire Circuler"
 
 #: templates/dashboard.html:57
 msgid "Total Supply"
-msgstr ""
+msgstr "Approvisionnement Total"
 
 #: templates/dashboard.html:73
 msgid "Token Unlock Schedule"
-msgstr ""
+msgstr "Calendrier de déverrouillage des jetons"
 
 #: templates/dashboard.html:75
 msgid "On January 4, 2020, we released our projected token release schedule. This can also be found in <a href='https://research.binance.com/projects/origin' target='_blank' rel='noreferrer noopener'>Binance's Research Report</a> on Origin. Note that actual circulating supply may differ from modeled circulating supply as time passes. It is our intention to decrease actual circulating supply when compared to modeled circulating supply whenever possible."
-msgstr ""
+msgstr "Le 4 janvier 2020, nous avons publié notre calendrier prévisionnel de libération des jetons. Celui-ci peut également être consulté dans <a href='https://research.binance.com/projects/origin' target='_blank' rel='noreferrer noopener'>Rapport de recherche de Binance</a> sur l'origine. Notez que l'offre en circulation réelle peut différer de l'offre en circulation modélisée au fil du temps. Nous avons l'intention de diminuer l'offre réelle en circulation par rapport à l'offre modélisée en circulation chaque fois que cela sera possible."
 
 #: templates/dashboard.html:79
 msgid "Modeled vs. actual token release schedule"
-msgstr ""
+msgstr "Calendrier de libération des jetons modélisé et réel"
 
 #: templates/dashboard.html:81
 #, python-format
 msgid "Currently, OGN's actual circulating supply is ogn_circulating_supply. Modeled circulating supply was projected at ogn_modeled_supply. The difference is ogn_supply_diff tokens (ogn_supply_diff_pct%%)."
-msgstr ""
+msgstr "Actuellement, l'offre circulante réelle de l'OGN est ogn_circulating_supply. L'approvisionnement en circulation modélisé a été projeté à ogn_modeled_supply. La différence est de ogn_supply_diff tokens (ogn_supply_diff_pct%%)."
 
 #: templates/dashboard.html:106
 msgid "Locked Tokens"
-msgstr ""
+msgstr "Jetons verrouillés"
 
 #: templates/dashboard.html:108
 msgid "Many of our investors and team members have voluntarily increased their lock-ups. Locked tokens include tokens that otherwise would have been released and entered the circulating supply."
-msgstr ""
+msgstr "Un grand nombre de nos investisseurs et des membres de notre équipe ont volontairement augmenté le nombre de leurs jetons verouillé. Les jetons verouillé comprennent des jetons qui, autrement, auraient été libérés et seraient entrés dans l'offre et en circulation."
 
 #: templates/dashboard.html:113
 msgid "Total number of tokens in investor and team lockups"
-msgstr ""
+msgstr "Nombre total de jetons dans les coffres des investisseurs et des équipes"
 
 #: templates/dashboard.html:123
 msgid "Total number of staked tokens"
-msgstr ""
+msgstr "Nombre total de jetons mis en circulation"
 
 #: templates/dashboard.html:133
 msgid "Total number of tokens founders have sold"
-msgstr ""
+msgstr "Nombre total de jetons que les fondateurs ont vendus"
 
 #: templates/dashboard.html:141
 msgid "Last updated "
-msgstr ""
+msgstr "Dernières mises à jour "
 
 #: templates/dashboard.html:145
 msgid "Staked amount by duration"
-msgstr ""
+msgstr "Montant verouillé selon la durée de temps"
 
 #: templates/dashboard.html:159
 msgid "Wallets excluded from circulating supply"
-msgstr ""
+msgstr "Portefeuilles exclus de l'offre en circulation"
 
 #: templates/dashboard.html:161
 msgid "Foundation Reserves"
-msgstr ""
+msgstr "Réserves de la Fondation"
 
 #: templates/dashboard.html:172
 msgid "Team Distribution"
-msgstr ""
+msgstr "Répartition aux équipes"
 
 #: templates/dashboard.html:183
 msgid "Investor Distribution"
-msgstr ""
+msgstr "Distribution aux investisseurs"
 
 #: templates/dashboard.html:194
 msgid "Distribution Staging"
-msgstr ""
+msgstr "Les Étapes de la Distribution"
 
 #: templates/dashboard.html:205
 msgid "Partnerships"
-msgstr ""
+msgstr "Partenariats"
 
 #: templates/dashboard.html:216
 msgid "Ecosystem Growth"
-msgstr ""
+msgstr "Croissance des écosystèmes"
 
 #: templates/dashboard.html:236
 msgid "Stake OGN on OUSD.com"
-msgstr ""
+msgstr "Tenez votre OGN sur OUSD.com"
 
 #: templates/dashboard.html:237 templates/stake-banner.html:7
 #, python-format
 msgid "Stake your OGN to earn up to 25%%"
-msgstr ""
+msgstr "Verrouillez votre OGN pour gagner jusqu'à 25 %%"
 
 #: templates/dashboard.html:240 templates/stake-banner.html:10
 msgid "Stake OGN now"
-msgstr ""
+msgstr "Verrouillez votre OGN à partir de maintenent"
 
 #: templates/dashboard.html:244
 msgid "Additional Token Metrics"
-msgstr ""
+msgstr "Informations supplémentaires sur les jetons"
 
 #: templates/dashboard.html:247
 msgid "Total number of unique wallets"
-msgstr ""
+msgstr "Nombre total de portefeuilles uniques"
 
 #: templates/dashboard.html:251
 msgid "Total number of presale investors"
-msgstr ""
+msgstr "Nombre total d'investisseurs en prévente"
 
 #: templates/dashboard.html:255
 msgid "Presale investor vesting schedule length"
-msgstr ""
+msgstr "Durée du calendrier d'acquisition des droits par les investisseurs en prévente"
 
 #: templates/dashboard.html:259
 msgid "Team vesting schedule length*"
-msgstr ""
+msgstr "Durée du programme 'Acquisition par l'équipe'*"
 
 #: templates/dashboard.html:263
 msgid "Average presale purchase size in USD"
-msgstr ""
+msgstr "Estimation du montant de l'achat en prévente en USD"
 
 #: templates/dashboard.html:267
 msgid "* Founders signed new 4 year vesting schedule on Jan 8 2020"
-msgstr ""
+msgstr "* Les fondateurs ont signé un nouveau calendrier d'acquisition des droits (veseting) sur 4 ans le 8 janvier 2020"
 
 #: templates/dashboard.html:274
 msgid "Centralized Exchanges"
-msgstr ""
+msgstr "Les échanges centralisés"
 
 #: templates/dashboard.html:342
 msgid "Decentralized Exchanges"
-msgstr ""
+msgstr "Les échanges décentralisés"
 
 #: templates/dashboard.html:372
 msgid "See more on Coinmarketcap >"
-msgstr ""
+msgstr "Voir plus sur Coinmarketcap >"
 
 #: templates/developers.html:2
 msgid "Origin Protocol - Developers"
@@ -601,7 +603,7 @@ msgstr "Origin Protocol - développeurs"
 
 #: templates/developers.html:3
 msgid "Origin Protocol's open-source codebase is being developed by a global network of contributors"
-msgstr ""
+msgstr "Le code source ouvert d'Origin Protocol est développé par un réseau mondial de contributeurs"
 
 #: templates/developers.html:13
 msgid "Our open-source codebase is being developed by a global network of contributors"
@@ -689,238 +691,238 @@ msgstr "Rejoignez-nous sur Discord"
 
 #: templates/dshop.html:3
 msgid "Origin Protocol - DShop"
-msgstr ""
+msgstr "Origin Protocol - Magasin Décentralisé"
 
 #: templates/dshop.html:23
 msgid "Create your free online store in minutes & harness the power of a decentralized platform"
-msgstr ""
+msgstr "Créez votre boutique en ligne gratuite en quelques minutes et exploitez la puissance d'une plateforme décentralisée"
 
 #: templates/dshop.html:24
 msgid "Run and grow your business with Dshop, a customizable and open-source e-commerce platform built on the decentralized web.  Get started for free and launch your store in a day."
-msgstr ""
+msgstr "Gérez et développez votre entreprise avec Dshop, une plateforme e-commerce personnalisable et open-source construite sur le web décentralisé.  Commencez gratuitement et lancez votre boutique seulement dans un jour."
 
 #: templates/dshop.html:30 templates/dshop.html:366
 msgid "Try it – it’s free"
-msgstr ""
+msgstr "Essayez-le - c'est gratuit"
 
 #: templates/dshop.html:44
 msgid "We’re here to support you–no matter what business you’re in"
-msgstr ""
+msgstr "Nous sommes là pour vous soutenir, quel que soit votre secteur d'activité"
 
 #: templates/dshop.html:45
 msgid "Create an ecommerce website backed by powerful tools that help you find customers and drive sales."
-msgstr ""
+msgstr "Créez un site de commerce électronique soutenu par des outils puissants qui vous aident à trouver des clients et à stimuler les ventes."
 
 #: templates/dshop.html:67
 msgid "A better way to do online commerce. Run your business on the new web."
-msgstr ""
+msgstr "Une meilleure façon de faire du commerce en ligne. Gérez votre entreprise sur le nouveau web."
 
 #: templates/dshop.html:73
 msgid "Multiple shops, 1 account"
-msgstr ""
+msgstr "Plusieurs boutiques, 1 seul compte"
 
 #: templates/dshop.html:74
 msgid "Launch a decentralised shop in a day - no commitments or long-term contracts."
-msgstr ""
+msgstr "Lancez une boutique décentralisée en un jour seulement - sans engagement ni contrat à long terme."
 
 #: templates/dshop.html:80
 msgid "Easy crypto payments"
-msgstr ""
+msgstr "Des paiements cryptos faciles"
 
 #: templates/dshop.html:81 templates/dshop.html:320
 msgid "Accept every way your customers want to pay.  Fast, secure payments with no extra fees."
-msgstr ""
+msgstr "Acceptez tous les modes de paiement de vos clients.  Des paiements rapides, sécurisés et sans frais supplémentaires."
 
 #: templates/dshop.html:87
 msgid "Secure, distributed data"
-msgstr ""
+msgstr "Données sécurisées et distribuées"
 
 #: templates/dshop.html:88
 msgid "Keep your data safe with IPFS, a resilient, censorship resistant system of file storage."
-msgstr ""
+msgstr "Protégez vos données avec IPFS, un système de stockage de fichiers résilient et résistant à la censure."
 
 #: templates/dshop.html:94
 msgid "Infinitely extensible"
-msgstr ""
+msgstr "Extensible à l'infini"
 
 #: templates/dshop.html:95
 msgid "Integrate with your favorite third party services or build your very own."
-msgstr ""
+msgstr "Intégrez vos services tiers préférés ou créez les vôtres."
 
 #: templates/dshop.html:101
 msgid "Work with all your existing tools"
-msgstr ""
+msgstr "Fonctionne avec tous vos outils existants"
 
 #: templates/dshop.html:102
 msgid "Explore integrations to speed up your workflow, or build your own custom integrations on our open source platform."
-msgstr ""
+msgstr "Explorez les intégrations pour accélérer votre flux de travail, ou créez vos propres intégrations personnalisées sur notre plateforme open source."
 
 #: templates/dshop.html:144
 msgid "…and many more on the way!"
-msgstr ""
+msgstr "... et bien d'autres encore !"
 
 #: templates/dshop.html:150
 msgid "Build on top of the world’s first decentralized e-commerce platform"
-msgstr ""
+msgstr "Construire sur la première plateforme de commerce électronique décentralisée au monde"
 
 #: templates/dshop.html:151
 msgid "Join our rapidly growing global community of developers and add your own features to our ever-expanding platform."
-msgstr ""
+msgstr "Rejoignez notre communauté mondiale de développeurs en pleine expansion et ajoutez vos propres fonctionnalités à notre plateforme en constante évolution."
 
 #: templates/dshop.html:167 templates/navbar-dshop.html:9
 #: templates/navbar-dshop.html:43
 msgid "Our Customers"
-msgstr ""
+msgstr "Nos clients"
 
 #: templates/dshop.html:169
 msgid "Meet the companies who are choosing Dshop to build and grow their decentralized online stores"
-msgstr ""
+msgstr "Rencontrez les entreprises qui choisissent Dshop pour faire créer et faire développer leurs boutiques décentralisées en ligne"
 
 #: templates/dshop.html:208 templates/dshop.html:333
 msgid "Here to help you succeed"
-msgstr ""
+msgstr "Ici pour vous aider à réussir"
 
 #: templates/dshop.html:210
 msgid "Speak with a real person when something’s not right. You can email our in-house support anytime, 24/7."
-msgstr ""
+msgstr "Parlez à une personne réelle lorsque quelque chose ne va pas. Vous pouvez envoyer un courriel à notre service d'assistance interne à tout moment, 24 heures sur 24 et 7 jours sur 7."
 
 #: templates/dshop.html:212 templates/dshop.html:344
 msgid "Still have more questions? Feel free to contact us."
-msgstr ""
+msgstr "Vous avez encore des questions ? N'hésitez pas à nous contacter."
 
 #: templates/dshop.html:215 templates/dshop.html:346
 msgid "Contact Us"
-msgstr ""
+msgstr "Contactez-nous"
 
 #: templates/dshop.html:222
 msgid "Dshop success stories"
-msgstr ""
+msgstr "Témoignages de réussite Dshop"
 
 #: templates/dshop.html:228
 msgid "“[With Dshop] we had a swift and easy experience establishing the Contentos online e-commerce store.”"
-msgstr ""
+msgstr "\"Avec Dshop, la mise en place de la boutique en ligne Contentos a été rapide et facile.\""
 
 #: templates/dshop.html:231
 msgid "- Jackie Lim , Senior B.D. Director, Contentos"
-msgstr ""
+msgstr "- Jackie Lim , dir. principale du B.D., Contentos"
 
 #: templates/dshop.html:243
 msgid "“We are thrilled to partner with Origin Protocol to launch the Ternio Dshop. They made the entire setup process easy and hands-off, and it has been exciting to see how they have applied the principles of blockchain and decentralization into the e-commerce space. Dshop provides the perfect platform for BlockCard users and our own team to purchase branded merchandise to promote our brand.”"
-msgstr ""
+msgstr "\"Nous sommes ravis de notre partenariat avec Origin Protocol pour le lancement de Ternio Dshop. Ils ont rendu l'ensemble du processus de configuration facile et sans intervention, et il a été passionnant de voir comment ils ont appliqué les principes de la blockchain et de la décentralisation dans l'espace de commerce électronique. Dshop fournit la plateforme parfaite pour les utilisateurs de la blockchain et notre propre équipe pour acheter des marchandises de marque afin de promouvoir notre marque.\""
 
 #: templates/dshop.html:255
 msgid "“Origin dshops are making blockchain-powered commerce accessible to thousands of people around the world. Kyber is glad to help facilitate liquidity for the Origin Token (OGN).”"
-msgstr ""
+msgstr "\"Les dshops Origin rendent le commerce alimenté par blockchain accessible à des milliers de personnes dans le monde. Kyber est heureux de contribuer à faciliter la liquidité du token Origin (OGN). \""
 
 #: templates/dshop.html:258
 msgid "- Shane Hong, Kyber Marketing"
-msgstr ""
+msgstr "- Shane Hong, Kyber Marketing"
 
 #: templates/dshop.html:274 templates/navbar-dshop.html:7
 #: templates/navbar-dshop.html:37
 msgid "Features & Benefits"
-msgstr ""
+msgstr "Fonctionnalités et avantages"
 
 #: templates/dshop.html:281
 msgid "Fast setup, no commitments"
-msgstr ""
+msgstr "Installation rapide, sans engagement"
 
 #: templates/dshop.html:284
 msgid "No commitments or long-term contracts."
-msgstr ""
+msgstr "Aucun engagement ni contrat à long terme."
 
 #: templates/dshop.html:292 templates/product.html:46
 msgid "Free to run"
-msgstr ""
+msgstr "Accès Libre"
 
 #: templates/dshop.html:295
 msgid "Dshop is free to run, and transaction fees are limited to crypto gas costs (typically a few cents per transaction)."
-msgstr ""
+msgstr "Le fonctionnement de Dshop est gratuit, et les frais de transaction sont limités au coût du gaz de crypto-monnaie (généralement quelques centimes par transaction)."
 
 #: templates/dshop.html:306
 msgid "Sell what you want"
-msgstr ""
+msgstr "Vendez ce que vous voulez"
 
 #: templates/dshop.html:309
 msgid "There are no restrictions on what you can sell, now or ever."
-msgstr ""
+msgstr "Il n'y a aucune restriction sur ce que vous pouvez vendre, maintenant ou jamais."
 
 #: templates/dshop.html:317
 msgid "Secure fiat and crypto payments"
-msgstr ""
+msgstr "Paiements sécurisés en fiat et en crypto"
 
 #: templates/dshop.html:335 templates/dshop.html:340
 msgid "Speak with a real person when something’s not right."
-msgstr ""
+msgstr "Parlez à une personne réelle lorsque quelque chose ne va pas."
 
 #: templates/dshop.html:337 templates/dshop.html:341
 msgid "You can email our in-house support anytime, 24/7."
-msgstr ""
+msgstr "Vous pouvez envoyer un courriel à notre service d'assistance interne à tout moment, 24 heures sur 24 et 7 jours sur 7."
 
 #: templates/dshop.html:360
 msgid "Ready to start selling today?"
-msgstr ""
+msgstr "Prêt à commencer à vendre aujourd'hui ?"
 
 #: templates/extension-rewards.html:1
 msgid "Origin Protocol - March Rewards"
-msgstr ""
+msgstr "Origin Protocol - Récompenses de Mars"
 
 #: templates/extension-rewards.html:162
 msgid "Download and use the Origin Browser Extension to Earn 15 OGN"
-msgstr ""
+msgstr "Téléchargez et utilisez l'extension du navigateur Origin Protocol pour gagner 15 OGN"
 
 #: templates/extension-rewards.html:163
 msgid "For this month’s Origin Rewards campaign, it’s all about our Origin Browser Extension. To celebrate the launch we have committed a total of 150,000 OGN to give away to our Origin community!"
-msgstr ""
+msgstr "Pour la campagne de récompenses d'Origin de ce mois-ci, il s'agit de l'extension du navigateur d'Origin. Pour célébrer son lancement, nous avons engagé un total de 150 000 OGN à distribuer à notre communauté Origin !"
 
 #: templates/extension-rewards.html:166
 msgid "Total Reward Pool"
-msgstr ""
+msgstr "Réserve totale de récompenses"
 
 #: templates/extension-rewards.html:171
 msgid "Origin Chrome Extension"
-msgstr ""
+msgstr "Extension Origin pour le Navigateur Chrome"
 
 #: templates/extension-rewards.html:174 templates/extension-rewards.html:183
 #: templates/extension-rewards.html:192
 msgid "Download"
-msgstr ""
+msgstr "Télécharger"
 
 #: templates/extension-rewards.html:180
 msgid "Origin Firefox Extension"
-msgstr ""
+msgstr "Extension Origin pour le Navigateur Firefox"
 
 #: templates/extension-rewards.html:189
 msgid "Origin Brave Extension"
-msgstr ""
+msgstr "Extension Origin pour le Navigateur Brave"
 
 #: templates/extension-rewards.html:198
 msgid "Rewards Details"
-msgstr ""
+msgstr "Détails sur les récompenses"
 
 #: templates/extension-rewards.html:201
 msgid "available on Chrome, Firefox and Brave"
-msgstr ""
+msgstr "disponible sur Chrome, Firefox et Brave"
 
 #: templates/extension-rewards.html:202
 msgid "account must have four profile verifications on shoporigin.com"
-msgstr ""
+msgstr "le compte doit avoir quatre vérifications de profil sur shoporigin.com"
 
 #: templates/extension-rewards.html:203
 msgid "extension must still be installed at the end of the month"
-msgstr ""
+msgstr "l'extension doit encore être installée à la fin du mois"
 
 #: templates/extension-rewards.html:204
 msgid "extension must be installed in a browser that is used throughout the month"
-msgstr ""
+msgstr "l'extension doit être installée dans un navigateur qui est utilisé tout au long du mois"
 
 #: templates/extension-rewards.html:205
 msgid "rewards is contingent on review of fraud and abuse"
-msgstr ""
+msgstr "les récompenses sont subordonnées à l'examen de la fraude et des abus"
 
 #: templates/extension-rewards.html:206
 msgid "read the"
-msgstr ""
+msgstr "lire le"
 
 #: templates/extension-rewards.html:206 templates/footer.html:27
 #: templates/footer.html:106 templates/privacy.html:16
@@ -930,15 +932,15 @@ msgstr "Politique de confidentialité"
 #: templates/extension-rewards.html:209 templates/stayHomeStore.html:330
 #: templates/swagStore.html:202
 msgid "Terms and Conditions"
-msgstr ""
+msgstr "Termes et Conditions"
 
 #: templates/extension-rewards.html:210
 msgid "Please note that Origin Rewards is currently available in most countries in the world. One notable exception is countries which are currently under U.S. sanctions like North Korea and Cuba. These restrictions go against our ideals and we’re truly sorry for anyone who is unable to participate as a result."
-msgstr ""
+msgstr "Veuillez noter que le programme Origin Rewards est actuellement disponible dans la plupart des pays du monde. Une exception notable concerne les pays qui font actuellement l'objet de sanctions de la part des États-Unis, comme la Corée du Nord et Cuba. Ces restrictions vont à l'encontre de nos idéaux et nous sommes sincèrement désolés pour tous ceux qui ne peuvent pas participer de ce fait."
 
 #: templates/extension-rewards.html:211
 msgid "Tokens earned in March will be distributed after the first week of April (subject to terms and conditions)."
-msgstr ""
+msgstr "Les jetons gagnés en mars seront distribués après la première semaine d'avril (sous réserve des conditions générales)."
 
 #: templates/flashes.html:4
 msgid "Buy or Sell on Origin"
@@ -963,15 +965,15 @@ msgstr ""
 
 #: templates/footer.html:18 templates/footer.html:97
 msgid "Copyright © "
-msgstr ""
+msgstr "Copyright © "
 
 #: templates/footer.html:18 templates/footer.html:97
 msgid "Origin Protocol Inc. All rights reserved."
-msgstr ""
+msgstr "Origin Protocol Inc. Tous droits réservés."
 
 #: templates/footer.html:21 templates/footer.html:100
 msgid "Help"
-msgstr ""
+msgstr "Aide"
 
 #: templates/footer.html:24 templates/footer.html:103 templates/tos.html:16
 msgid "Terms of Service"
@@ -987,11 +989,11 @@ msgstr ""
 
 #: templates/footer.html:38 templates/litepaper/platform.html:143
 msgid "OUSD"
-msgstr ""
+msgstr "OUSD"
 
 #: templates/footer.html:39 templates/product.html:29
 msgid "Dshop"
-msgstr ""
+msgstr "(Dshop) Boutique Décentralisée"
 
 #: templates/footer.html:43
 msgid "Videos"
@@ -1007,7 +1009,7 @@ msgstr "GitHub"
 
 #: templates/footer.html:46 templates/litepaper.html:19
 msgid "Litepaper"
-msgstr ""
+msgstr "Litepaper"
 
 #: templates/footer.html:50 templates/navbar.html:69
 msgid "About"
@@ -1024,7 +1026,7 @@ msgstr ""
 
 #: templates/footer.html:53
 msgid "Store"
-msgstr ""
+msgstr "Boutique"
 
 #: templates/footer.html:54
 msgid "Jobs"
@@ -1068,27 +1070,27 @@ msgstr ""
 
 #: templates/huobi-launch.html:2 templates/huobi-launch.html:3
 msgid "Origin Huobi Listing"
-msgstr ""
+msgstr "Affichage d'Ogn sur Huobi"
 
 #: templates/huobi-launch.html:898 templates/huobi-launch.html:974
 msgid "Register Now"
-msgstr ""
+msgstr "Inscrivez-vous dès maintenant"
 
 #: templates/huobi-launch.html:968
 msgid "Celebrate Origin's Listing on Huobi & Win OGN & USDT"
-msgstr ""
+msgstr "Célébrez la cotation d'Origin sur Huobi et gagnez des OGN et USDT"
 
 #: templates/huobi-launch.html:971
 msgid "500,000 OGN and $100k USDT will be rewarded to OGN holders that trade on Huobi"
-msgstr ""
+msgstr "500 000 OGN et 100 000 USDT seront récompensés aux détenteurs d'OGN qui négocient sur Huobi"
 
 #: templates/huobi-launch.html:981 templates/huobi-launch.html:1117
 msgid "Participate by Joining Our Newsletter"
-msgstr ""
+msgstr "Participez en vous inscrivant à notre newsletter"
 
 #: templates/huobi-launch.html:983 templates/huobi-launch.html:1119
 msgid "You must join Origin's mailing list and Wechat group to be eligible to participate in the activities"
-msgstr ""
+msgstr "Vous devez vous inscrire à la liste de diffusion et au groupe Wechat d'Origin pour pouvoir participer aux activités"
 
 #: templates/components/presale-form.html:292 templates/huobi-launch.html:990
 #: templates/huobi-launch.html:1126 templates/tokens.html:329
@@ -1097,219 +1099,219 @@ msgstr "Soumettre"
 
 #: templates/huobi-launch.html:998 templates/huobi-launch.html:1134
 msgid "WeChat"
-msgstr ""
+msgstr "WeChat"
 
 #: templates/huobi-launch.html:1002 templates/huobi-launch.html:1138
 msgid "Congratulations!"
-msgstr ""
+msgstr "Félicitations!"
 
 #: templates/huobi-launch.html:1003 templates/huobi-launch.html:1139
 msgid "You are now eligible to participate"
-msgstr ""
+msgstr "Vous êtes maintenant éligible pour participer"
 
 #: templates/huobi-launch.html:1005 templates/huobi-launch.html:1141
 msgid "Make sure you scan this QR code to join our WeChat group"
-msgstr ""
+msgstr "Assurez-vous de scanner ce code QR pour rejoindre notre groupe WeChat"
 
 #: templates/huobi-launch.html:1014
 msgid "OGN Net Increase Competition"
-msgstr ""
+msgstr "Concurrence de l'augmentation nette des OGN"
 
 #: templates/huobi-launch.html:1015
 msgid "OGN Trading Competition"
-msgstr ""
+msgstr "Compétition de trading OGN"
 
 #: templates/huobi-launch.html:1017
 msgid "Activity time period: June 18, 12:00:00 to June 29, 23:59:59 GMT +8"
-msgstr ""
+msgstr "Période d'activité : 18 juin, 12:00:00 à 29 juin, 23:59:59 GMT +8"
 
 #: templates/huobi-launch.html:1018
 msgid "Rewards to be calculated every 3 days"
-msgstr ""
+msgstr "Les récompenses sont calculées tous les 3 jours"
 
 #: templates/huobi-launch.html:1021
 msgid "Competition rounds"
-msgstr ""
+msgstr "Tours de compétition"
 
 #: templates/huobi-launch.html:1023
 msgid "The competition will begin on June 18, 00:00:00 and will last until June 29, 23:59:59 GMT +8 (12 days)"
-msgstr ""
+msgstr "Le concours débutera le 18 juin à 00:00:00 et durera jusqu'au 29 juin à 23:59:59 GMT +8 (12 jours)"
 
 #: templates/huobi-launch.html:1025
 msgid "There will be 4 rounds, with each round lasting 3 days. Rewards will be paid out to the winners of each round. All times listed in Bejing time (GMT +8)."
-msgstr ""
+msgstr "Il y aura 4 tours, chaque tour durant 3 jours. Des récompenses seront versées aux gagnants de chaque tour. Toutes les heures sont indiquées en heure de Bejing (GMT +8)."
 
 #: templates/huobi-launch.html:1028
 msgid "Round 1 will commence from June 18 to June 20"
-msgstr ""
+msgstr "Le premier tour commencera du 18 au 20 juin"
 
 #: templates/huobi-launch.html:1030
 msgid "Round 2 will commence from June 20 to June 23"
-msgstr ""
+msgstr "Le deuxième tour commencera du 20 au 23 juin"
 
 #: templates/huobi-launch.html:1032
 msgid "Round 3 will commence from June 23 to June 26"
-msgstr ""
+msgstr "Le troisième tour commencera du 23 au 26 juin"
 
 #: templates/huobi-launch.html:1034
 msgid "Round 4 will commence from June 26 to June 29"
-msgstr ""
+msgstr "Le quatrième tour commencera du 26 au 29 juin"
 
 #: templates/huobi-launch.html:1038
 msgid "Competition rules"
-msgstr ""
+msgstr "Règlement du concours"
 
 #: templates/huobi-launch.html:1040
 msgid "Traders will be ranked according to their OGN Net Increase Amount during each round."
-msgstr ""
+msgstr "Les traders seront classés en fonction du montant de leur augmentation nette de l'OGN lors de chaque tour."
 
 #: templates/huobi-launch.html:1042
 msgid "OGN Net Increase Amount = OGN held at the end of the round - OGN held at the beginning of the round"
-msgstr ""
+msgstr "Montant de l'augmentation nette des OGN = OGN détenus à la fin du tour - OGN détenus au début du tour"
 
 #: templates/huobi-launch.html:1044
 msgid "Here is an example calculation for OGN Net Increase Amount:"
-msgstr ""
+msgstr "Voici un exemple de calcul du montant net de l'augmentation OGN :"
 
 #: templates/huobi-launch.html:1046
 msgid "A trader starts the round with 2,000 OGN"
-msgstr ""
+msgstr "Un négociant commence le tour avec 2 000 OGN"
 
 #: templates/huobi-launch.html:1047
 msgid "They then buy 15,000 OGN, sell 3,000 OGN, and withdraw 1,000 OGN"
-msgstr ""
+msgstr "Ils achètent ensuite 15 000 OGN, vendent 3 000 OGN et retirent 1 000 OGN"
 
 #: templates/huobi-launch.html:1048
 msgid "They end the round with 13,000 OGN (2,000 + 15,000 - 3,000 - 1,000 OGN)"
-msgstr ""
+msgstr "Ils terminent le tour avec 13 000 OGN (2 000 + 15 000 - 3 000 - 1 000 OGN)"
 
 #: templates/huobi-launch.html:1049
 msgid "Their OGN Net Increase is 11,000 OGN."
-msgstr ""
+msgstr "Leur augmentation nette de NGN est de 11 000 OGN."
 
 #: templates/huobi-launch.html:1052
 msgid "Competition payouts"
-msgstr ""
+msgstr "Paiements de la compétition"
 
 #: templates/huobi-launch.html:1054
 msgid "$25k USDT will be awarded in each 3-day round, for a total of $100k USDT."
-msgstr ""
+msgstr "25 000 USDT seront attribués lors de chaque tour de 3 jours, pour un total de 100 000 USDT."
 
 #: templates/huobi-launch.html:1055
 msgid "For each 3-day reward period, traders will be ranked by their overall OGN Net Increase Amount:"
-msgstr ""
+msgstr "Pour chaque période de récompense de 3 jours, les traders seront classés en fonction de leur montant global d'augmentation nette de l'OGN :"
 
 #: templates/huobi-launch.html:1058
 msgid "1st place: $3k USDT"
-msgstr ""
+msgstr "1ère place : 3k$ USDT"
 
 #: templates/huobi-launch.html:1059
 msgid "2nd place: $2.5k USDT"
-msgstr ""
+msgstr "2ème place : 2.5k$ USDT"
 
 #: templates/huobi-launch.html:1060
 msgid "3rd place: $2k USDT"
-msgstr ""
+msgstr "3ème place : 2k$ USDT"
 
 #: templates/huobi-launch.html:1061
 msgid "4th place: $1.5k USDT"
-msgstr ""
+msgstr "4ème place : 1,5k$ USDT"
 
 #: templates/huobi-launch.html:1062
 msgid "5th place: $1k USDT"
-msgstr ""
+msgstr "5ème place : 1k$ USDT"
 
 #: templates/huobi-launch.html:1063
 msgid "6th to 30th places: Split $7.5k USDT evenly"
-msgstr ""
+msgstr "De la 6ème à la 30ème place : Partage égal de 7.5k$ USDT"
 
 #: templates/huobi-launch.html:1064
 msgid "31st to 60th places: Split $5k USDT evenly"
-msgstr ""
+msgstr "31e à 60e places : Partage égal de 5k USDT"
 
 #: templates/huobi-launch.html:1065
 msgid "61st to 100th places: Split $2.5k USDT evenly"
-msgstr ""
+msgstr "61ème à 100ème places : Partage égal de 2.5k$ USDT"
 
 #: templates/huobi-launch.html:1067
 msgid "Traders can win in multiple rewards periods, but the OGN Net Increase Amount is calculated using the snapshot at the end of the last period:"
-msgstr ""
+msgstr "Les traders peuvent gagner dans plusieurs périodes de récompenses, mais le montant de l'augmentation nette de l'OGN est calculé en utilisant l'instantané à la fin de la dernière période :"
 
 #: templates/huobi-launch.html:1070
 msgid "For example, if a trader is holding 10,000 OGN at the end of round 1, that is the starting point for the second round. If they increase their OGN holdings to 30,000 OGN by the end of day 6, their OGN Net Increase Amount for the round is 20,000."
-msgstr ""
+msgstr "Par exemple, si un trader détient 10 000 OGN à la fin du premier tour, c'est le point de départ du deuxième tour. S'il porte ses avoirs en OGN à 30 000 OGN à la fin du sixième jour, le montant de son augmentation nette en OGN pour le tour est de 20 000."
 
 #: templates/huobi-launch.html:1077
 msgid "Origin Holder Airdrop"
-msgstr ""
+msgstr "Origine Protocol Airdrop Pour les titulaires du jeton"
 
 #: templates/huobi-launch.html:1078
 msgid "Activity time period: July 1, 00:00:00 to August 31, 23:59:59 GMT +8"
-msgstr ""
+msgstr "Période d'activité : Du 1er juillet, 00:00:00 au 31 août, 23:59:59 GMT +8"
 
 #: templates/huobi-launch.html:1081
 msgid "The OGN Holder Airdrop will reward Huobi traders that HODL OGN over a two-month period. 500k of OGN will be rewarded to OGN Holder participants."
-msgstr ""
+msgstr "L'Airdrop OGN Holder récompensera les traders de Huobi qui ont HODL OGN sur une période de deux mois. 500k d'OGN seront récompensés aux participants détenteurs d'OGN."
 
 #: templates/huobi-launch.html:1084
 msgid "Airdrop rounds"
-msgstr ""
+msgstr "Rondes de L'AirDrop"
 
 #: templates/huobi-launch.html:1086
 msgid "The OGN Holder Airdrop campaign will begin after the OGN Net Asset Increase competition ends. There will be two month-long rounds."
-msgstr ""
+msgstr "La campagne OGN Holder Airdrop commencera après la fin de la compétition OGN Net Asset Increase. Il y aura deux tours d'une durée d'un mois."
 
 #: templates/huobi-launch.html:1089
 msgid "Round 1 will commence from July 1, 00:00:00 to July 31, 23:59:59 GMT +8"
-msgstr ""
+msgstr "Le premier tour commencera le 1er juillet à 00:00:00 et se terminera le 31 juillet à 23:59:59 GMT +8"
 
 #: templates/huobi-launch.html:1090
 msgid "Round 2 will commence from August 1, 00:00:00 to August 31, 23:59:59 GMT +8"
-msgstr ""
+msgstr "Le deuxième tour commencera le 1er août, à 00h00, et se terminera le 31 août, à 23h59, GMT +8"
 
 #: templates/huobi-launch.html:1094
 msgid "Airdrop rules"
-msgstr ""
+msgstr "Règles Airdrop"
 
 #: templates/huobi-launch.html:1096
 msgid "For each round, 250k OGN will be rewarded to OGN holders to OGN holders based on the amount of OGN they are holding relative to all other OGN holders:"
-msgstr ""
+msgstr "Pour chaque tour, 250k OGN seront récompensés aux détenteurs d'OGN en fonction de la quantité d'OGN qu'ils détiennent par rapport à tous les autres détenteurs d'OGN :"
 
 #: templates/huobi-launch.html:1099
 msgid "OGN rewarded = OGN Holder score x (The average OGN holdings that the user holds during the month / The total amount of OGN all users hold)"
-msgstr ""
+msgstr "OGN récompensé = score du détenteur d'OGN x (La moyenne des OGN détenus par l'utilisateur au cours du mois / Le montant total des OGN détenus par tous les utilisateurs)"
 
 #: templates/huobi-launch.html:1101
 msgid "Users who hold on average 1000 HT or more in each monthly airdrop period will double the value for their average OGN holdings for the month for the rewards calculation"
-msgstr ""
+msgstr "Les utilisateurs qui détiennent en moyenne 1000 HT ou plus dans chaque période mensuelle de largage doubleront la valeur de leurs avoirs moyens en OGN pour le mois pour le calcul des récompenses"
 
 #: templates/huobi-launch.html:1103
 msgid "Users who have held on average at least 1000 HT for 90 days prior to each airdrop distribution will triple the value for their average OGN holdings for the month for the rewards calculation"
-msgstr ""
+msgstr "Les utilisateurs qui ont détenu en moyenne au moins 1000 HT pendant les 90 jours précédant chaque distribution d'airdrop verront la valeur de leurs avoirs moyens en OGN pour le mois tripler pour le calcul des récompenses"
 
 #: templates/huobi-launch.html:1106
 msgid "In addition, users must meet the following eligibility requirements:"
-msgstr ""
+msgstr "En outre, les utilisateurs doivent satisfaire aux conditions d'admissibilité suivantes :"
 
 #: templates/huobi-launch.html:1108
 msgid "The user must hold at least 1000 OGN daily during the month"
-msgstr ""
+msgstr "L'utilisateur doit détenir au moins 1000 OGN par jour pendant le mois"
 
 #: templates/huobi-launch.html:1109
 msgid "The user must register their email address with Origin and join the Origin Wechat group."
-msgstr ""
+msgstr "L'utilisateur doit enregistrer son adresse électronique auprès d'Origin et rejoindre le groupe Wechat d'Origin."
 
 #: templates/investors.html:1
-msgid ""
-"Origin Protocol -\n"
+msgid "Origin Protocol -\n"
 "Investors"
-msgstr ""
+msgstr "Origin Protocol\n"
+"Investisseurs"
 
 #: templates/investors.html:2
-msgid ""
-"Origin\n"
+msgid "Origin\n"
 "Protocol is backed by top investors from all over the world"
-msgstr ""
+msgstr "Origin\n"
+"Protocol est soutenu par des investisseurs de premier plan du monde entier"
 
 #: templates/investors.html:29
 msgid "We're backed by top investors from all over the world"
@@ -1320,10 +1322,10 @@ msgid "Fundraising"
 msgstr ""
 
 #: templates/investors.html:47
-msgid ""
-"We are a well-capitalized startup that has sold tokens in\n"
+msgid "We are a well-capitalized startup that has sold tokens in\n"
 "            three previous rounds to build our platform."
-msgstr ""
+msgstr "Nous sommes une startup bien capitalisée qui a vendu des jetons lors de\n"
+"            trois tours précédents pour construire notre plateforme."
 
 #: templates/investors.html:54
 msgid "$38.1M"
@@ -1342,22 +1344,24 @@ msgid "investors"
 msgstr ""
 
 #: templates/investors.html:66
-msgid ""
-"Interested in getting a stake in Origin? Sign up to\n"
+msgid "Interested in getting a stake in Origin? Sign up to\n"
 "            receive the latest updates."
-msgstr ""
+msgstr "Vous souhaitez prendre une participation dans Origin ? Inscrivez-vous pour\n"
+"            recevoir les dernières mises à jour."
 
 #: templates/investors.html:78
 msgid "Featured Investor"
 msgstr ""
 
 #: templates/investors.html:103
-msgid ""
-"\"The reason we invested in Origin was\n"
+msgid "\"The reason we invested in Origin was\n"
 "                      primarily because of the team. They have amazing\n"
 "                      backgrounds and they come from iconic consumer\n"
 "                      companies.\""
-msgstr ""
+msgstr "\"La raison pour laquelle nous avons investi dans Origin était\n"
+"                      principalement à cause de l'équipe. Ils ont une expérience\n"
+"                      et ils viennent d'entreprises de consommation emblématiques.\n"
+"                      emblématiques.\""
 
 #: templates/investors.html:110
 msgid "Rodolfo Gonzalez"
@@ -1368,12 +1372,14 @@ msgid "Partner, Foundation Capital"
 msgstr ""
 
 #: templates/investors.html:142
-msgid ""
-"\"We're talking about over 100,000 members\n"
+msgid "\"We're talking about over 100,000 members\n"
 "                      around the world that are hard-core fans of Origin. Origin\n"
 "                      has done a tremendous job executing at a global\n"
 "                      scale.\""
-msgstr ""
+msgstr "\"Nous parlons de plus de 100 000 membres\n"
+"                      dans le monde entier qui sont des fans inconditionnels d'Origin. Origin\n"
+"                      a fait un travail formidable en se développant à l'échelle mondiale.\n"
+"                      échelle mondiale.\""
 
 #: templates/investors.html:149
 msgid "Sophie Liao"
@@ -1384,13 +1390,16 @@ msgid "Founding Partner, Oyster VC"
 msgstr ""
 
 #: templates/investors.html:170
-msgid ""
-"\"Origin stands out from any of the other\n"
+msgid "\"Origin stands out from any of the other\n"
 "                      decentralized applications that we've invested into,\n"
 "                      because they've gone out there and built probably the best\n"
 "                      community that we've seen. For us, that was a game\n"
 "                      changer.\""
-msgstr ""
+msgstr "\"Origin se distingue de toutes les autres\n"
+"                      applications décentralisées dans lesquelles nous avons investi,\n"
+"                      parce qu'ils sont allés là-bas et ont construit probablement la meilleure\n"
+"                      communauté que nous ayons vue. Pour nous, ça a changé la donne\n"
+"                      changement de jeu.\""
 
 #: templates/investors.html:178 templates/team.html:557
 msgid "Paul Veradittakit"
@@ -1401,20 +1410,20 @@ msgid "Co-investment Officer at Pantera Capital"
 msgstr ""
 
 #: templates/investors.html:204
-msgid ""
-"We are backed by top venture capital firms and investors\n"
+msgid "We are backed by top venture capital firms and investors\n"
 "            in Silicon Valley and around the world"
-msgstr ""
+msgstr "Nous sommes soutenus par des sociétés de capital-risque et des investisseurs de premier plan\n"
+"            dans la Silicon Valley et dans le monde entier"
 
 #: templates/investors.html:247
 msgid "Individual Investors"
 msgstr "Investisseurs individuels"
 
 #: templates/investors.html:249
-msgid ""
-"We are supported by some of the best angel investors and\n"
+msgid "We are supported by some of the best angel investors and\n"
 "            previous founders in Silicon Valley."
-msgstr ""
+msgstr "Nous sommes soutenus par certains des meilleurs investisseurs providentiels et\n"
+"            anciens fondateurs de la Silicon Valley."
 
 #: templates/investors.html:264
 msgid "Steve Chen"
@@ -1490,15 +1499,15 @@ msgstr "L'économie de partage sans intermédiaires. Origin est un protocole de 
 
 #: templates/landing.html:26
 msgid "Connecting artists<br>directly with their fans"
-msgstr ""
+msgstr "Mettre les artistes<br>en contact direct avec leurs fans"
 
 #: templates/landing.html:42
 msgid "Subscribe to stay in touch"
-msgstr ""
+msgstr "Inscrivez-vous pour rester en contact"
 
 #: templates/landing.html:45
 msgid "Be the first to hear when we launch important partnerships, celebrity NFT drops, exchange listings, and new products. Your email will be kept private."
-msgstr ""
+msgstr "Soyez parmi les premiers à être informé du lancement d'importants partenariats, de l'arrivée de célébrités NFT, de listes d'échange et de nouveaux produits. Votre adresse électronique restera confidentielle."
 
 #: templates/components/presale-form.html:9
 #: templates/components/presale-form.html:10 templates/landing.html:48
@@ -1509,72 +1518,72 @@ msgstr "Email"
 
 #: templates/landing.html:56
 msgid "Origin Products"
-msgstr ""
+msgstr "Produits d'Origin Protocol"
 
 #: templates/landing.html:57
 msgid "Origin’s suite of products is revolutionizing how people shop and conduct business online. Effortlessly create a decentralized e-commerce store with Dshop and earn competitive yields with the Origin Dollar."
-msgstr ""
+msgstr "La gamme de produits d'Origin révolutionne la façon dont les gens font leurs achats et mènent leurs affaires en ligne. Créez sans effort une boutique de commerce électronique décentralisée avec Dshop et obtenez des rendements compétitifs avec l'Origin Dollar."
 
 #: templates/landing.html:59
 msgid "Check out our products"
-msgstr ""
+msgstr "Voir nos produits"
 
 #: templates/landing.html:67
 msgid "There is a massive opportunity for blockchain-powered commerce"
-msgstr ""
+msgstr "Il existe une opportunité massive pour le commerce alimenté par la blockchain"
 
 #: templates/landing.html:68
 msgid "E-commerce is projected to be one of the fastest growing verticals in the blockchain industry during the next few years"
-msgstr ""
+msgstr "Le commerce électronique devrait être l'un des secteurs verticaux à la croissance la plus rapide dans l'industrie de la blockchain au cours des prochaines années"
 
 #: templates/landing.html:75
 msgid "Global e-commerce sales by 2021"
-msgstr ""
+msgstr "Ventes mondiales de commerce électronique d'ici 2021"
 
 #: templates/landing.html:79
 msgid "Global blockchain technology revenues by 2023"
-msgstr ""
+msgstr "Revenus mondiaux de la technologie blockchain d'ici 2023"
 
 #: templates/landing.html:88
 msgid "Blockchain-powered commerce is the future"
-msgstr ""
+msgstr "Le commerce alimenté par la blockchain est l'avenir"
 
 #: templates/landing.html:89
 msgid "Blockchain will redefine online commerce and allow both buyers and sellers to benefit from lower costs and improved infrastructure"
-msgstr ""
+msgstr "La blockchain va redéfinir le commerce en ligne et permettre aux acheteurs et aux vendeurs de bénéficier d'une réduction des coûts et d'une amélioration des infrastructures"
 
 #: templates/landing.html:95
 msgid "Lower fees"
-msgstr ""
+msgstr "Des frais moins élevés"
 
 #: templates/landing.html:96
 #, python-format
 msgid "Buyers and sellers share 20-30%% in savings when middlemen are removed"
-msgstr ""
+msgstr "Les acheteurs et les vendeurs se partagent 20 à 30 %% d'économies lorsque les intermédiaires sont supprimés"
 
 #: templates/landing.html:102
 msgid "Better incentives"
-msgstr ""
+msgstr "De meilleurs incitatifs"
 
 #: templates/landing.html:103
 msgid "Everyone can own a stake in the network by contributing to its growth"
-msgstr ""
+msgstr "Tout le monde peut avoir une participation dans le réseau en contribuant à sa croissance"
 
 #: templates/landing.html:109
 msgid "Increased access"
-msgstr ""
+msgstr "Un accès accru"
 
 #: templates/landing.html:110
 msgid "2 billion unbanked people can access new markets globally"
-msgstr ""
+msgstr "2 milliards de personnes non bancarisées peuvent accéder à de nouveaux marchés au niveau mondial"
 
 #: templates/landing.html:116
 msgid "More resilience"
-msgstr ""
+msgstr "Davantage de résilience"
 
 #: templates/landing.html:117
 msgid "Blockchain-powered commerce can't be banned or shut down"
-msgstr ""
+msgstr "Le commerce alimenté par la blockchain ne peut être ni interdit ni fermé"
 
 #: templates/landing.html:123
 msgid "Origin has a world-class team"
@@ -1590,11 +1599,11 @@ msgstr ""
 
 #: templates/landing.html:164
 msgid "Featured Partners"
-msgstr ""
+msgstr "Partenaires en vedette"
 
 #: templates/landing.html:189
 msgid "Origin Marketplace featured in Samsung Blockchain Store"
-msgstr ""
+msgstr "Origin Marketplace figure dans le Samsung Blockchain Store"
 
 #: templates/landing.html:203 templates/landing.html:225
 msgid "“The short-term rentals space is exploding and needs more innovation and competition. A neutral and open platform will empower renters, hosts, and channel partners. We are excited to partner with Origin to create this new wave of innovation in homesharing.”"
@@ -1618,11 +1627,11 @@ msgstr ""
 
 #: templates/litepaper.html:3 templates/litepaper.html:5
 msgid "Origin Protocol - Litepaper"
-msgstr ""
+msgstr "Origin Protocol - Litepaper"
 
 #: templates/litepaper.html:20
 msgid "Bringing peer-to-peer commerce and decentralized finance to the masses"
-msgstr ""
+msgstr "Mettre le commerce de pair à pair et la finance décentralisée à la portée de tous"
 
 #: templates/mobile.html:3 templates/mobile.html:5
 msgid "Origin Protocol - Mobile"
@@ -1646,15 +1655,15 @@ msgstr "Copyright © 2019 Origin Protocol Inc. Tous droits réservés."
 
 #: templates/navbar-dshop.html:8 templates/navbar-dshop.html:40
 msgid "Integrations"
-msgstr ""
+msgstr "Intégrations"
 
 #: templates/navbar-dshop.html:15 templates/navbar-dshop.html:51
 msgid "Try it - it's free"
-msgstr ""
+msgstr "Essayez-le - c'est gratuit"
 
 #: templates/navbar.html:78
 msgid "Products"
-msgstr ""
+msgstr "Les produits"
 
 #: templates/navbar.html:81
 msgid "OGN Token"
@@ -1666,11 +1675,11 @@ msgstr "Magasin"
 
 #: templates/nft-banner.html:6
 msgid "Interested in running an NFT sale?"
-msgstr ""
+msgstr "Vous souhaitez organiser une vente NFT ?"
 
 #: templates/nft-banner.html:9
 msgid "Yes, please!"
-msgstr ""
+msgstr "Oui s'il vous plaît!"
 
 #: templates/nft-terms.html:3 templates/tos.html:3 templates/tos.html:5
 msgid "Origin Protocol - Terms of Service"
@@ -1678,35 +1687,34 @@ msgstr "Protocole d'origine - Conditions d'utilisation"
 
 #: templates/nft-terms.html:5
 msgid "Origin Protocol - NFT Platform Terms of Use"
-msgstr ""
+msgstr "Protocole d'origine - Conditions d'utilisation de la plate-forme NFT"
 
 #: templates/nft-terms.html:16
 msgid "Origin NFT Platform Terms and Conditions of Use."
-msgstr ""
+msgstr "Conditions d'utilisation de la plate-forme NFT d'Origin."
 
 #: templates/ogn-token.html:1
-msgid ""
-"Origin Protocol - OGN\n"
+msgid "Origin Protocol - OGN\n"
 "Token"
-msgstr ""
+msgstr "Origin Protocol - OGN"
 
 #: templates/ogn-token.html:2
-msgid ""
-"Origin Tokens\n"
+msgid "Origin Tokens\n"
 "(OGN) ensure the health and growth of the Origin network."
-msgstr ""
+msgstr "Les jetons Origin\n"
+"(OGN) garantissent la santé et la croissance du réseau Origin."
 
 #: templates/ogn-token.html:10
 msgid "OGN is Now Trading"
-msgstr ""
+msgstr "OGN est maintenant disponible sur le marché"
 
 #: templates/ogn-token.html:15
 msgid "Last Price"
-msgstr ""
+msgstr "Dernier prix"
 
 #: templates/ogn-token.html:34
 msgid "Last updated on "
-msgstr ""
+msgstr "Dernière mise à jour le "
 
 #: templates/ogn-token.html:35 templates/product.html:112
 msgid "Available on"
@@ -1714,7 +1722,7 @@ msgstr ""
 
 #: templates/ogn-token.html:54
 msgid "…and many others"
-msgstr ""
+msgstr "... et bien d'autres"
 
 #: templates/ogn-token.html:113
 msgid "View the OGN Dashboard"
@@ -2160,24 +2168,20 @@ msgid "Shop at the Origin Swag Store today, and enter for a chance to win up to 
 msgstr ""
 
 #: templates/team.html:1
-msgid ""
-"Origin Protocol -\n"
+msgid "Origin Protocol -\n"
 "Team"
 msgstr ""
 
 #: templates/team.html:2
-msgid ""
-"Origin\n"
+msgid "Origin\n"
 "Protocol's world-class team is led by entrepreneurs and engineers from iconic\n"
 "tech companies"
 msgstr ""
 
 #: templates/team.html:23
-msgid ""
-"Our world-class team is led by entrepreneurs and engineers\n"
+msgid "Our world-class team is led by entrepreneurs and engineers\n"
 "        from iconic tech companies"
-msgstr ""
-"Notre équipe de classe mondiale est dirigée par des entrepreneurs et des ingénieurs\n"
+msgstr "Notre équipe de classe mondiale est dirigée par des entrepreneurs et des ingénieurs\n"
 "        de sociétés technologiques emblématiques"
 
 #: templates/team.html:37 templates/whitepaper/sidebar.html:45
@@ -2193,12 +2197,10 @@ msgid "Cofounder"
 msgstr "Cofondateur"
 
 #: templates/team.html:55
-msgid ""
-"Josh started coding at the age of 10. Prior to\n"
+msgid "Josh started coding at the age of 10. Prior to\n"
 "                  Origin, he co-founded three other venture-backed companies:\n"
 "                  EventVue, Torbit (acquired by Walmart Labs) &amp; Forage."
-msgstr ""
-"Josh a commencé à coder à l'âge de 10 ans. Avant\n"
+msgstr "Josh a commencé à coder à l'âge de 10 ans. Avant\n"
 "                  Origin, il a cofondé trois autres sociétés financées par des coentreprises:\n"
 "                  EventVue, Torbit (acquis par Walmart Labs) &amp; Forage."
 
@@ -2207,12 +2209,10 @@ msgid "Matthew Liu"
 msgstr "Matthew Liu"
 
 #: templates/team.html:75
-msgid ""
-"Matt was the 3rd PM at YouTube (acquired by\n"
+msgid "Matt was the 3rd PM at YouTube (acquired by\n"
 "                  Google) and VP PM at Qwiki (acquired by Yahoo) and Bonobos\n"
 "                  (acquired by Walmart). He has an MS and BS from Stanford."
-msgstr ""
-"Matt était le 3ème PM de YouTube (acquis par\n"
+msgstr "Matt était le 3ème PM de YouTube (acquis par\n"
 "                  Google) et VP PM de Qwiki (acquis par Yahoo) et Bonobos\n"
 "                  (acquis par Walmart). Il a un MS et un BS de Stanford."
 
@@ -2225,12 +2225,10 @@ msgid "Founding Engineer"
 msgstr ""
 
 #: templates/team.html:96
-msgid ""
-"Yu Pan was one of the 6 founding team members of\n"
+msgid "Yu Pan was one of the 6 founding team members of\n"
 "                  PayPal and was the 1st employee at YouTube. He is a former\n"
 "                  Google employee and co-founder of Kiwi Crate."
-msgstr ""
-"Yu Pan était l'un des 6 membres fondateurs de\n"
+msgstr "Yu Pan était l'un des 6 membres fondateurs de\n"
 "                  PayPal et le premier employé de YouTube. Il est un ancien employé de\n"
 "                  Google et co-fondateur de Kiwi Crate."
 
@@ -2243,13 +2241,11 @@ msgid "VP of Engineering"
 msgstr ""
 
 #: templates/team.html:117
-msgid ""
-"Franck has had a successful career as an early\n"
+msgid "Franck has had a successful career as an early\n"
 "                  employee at numerous high-profile companies. He previously led\n"
 "                  engineering teams at Inktomi, Paypal, YouTube, Google and\n"
 "                  Dropbox."
-msgstr ""
-"Franck a eu une carrière réussie en tant que début\n"
+msgstr "Franck a eu une carrière réussie en tant que début\n"
 "                  employé dans de nombreuses entreprises de haut niveau. Auparavant, il a dirigé\n"
 "                  équipes d'ingénierie chez Inktomi, Paypal, YouTube, Google et\n"
 "                  Dropbox."
@@ -2263,13 +2259,11 @@ msgid "Director of Product"
 msgstr ""
 
 #: templates/team.html:139
-msgid ""
-"Micah was the technical co-founder of\n"
+msgid "Micah was the technical co-founder of\n"
 "                  WellAttended, a bootstrapped box office management platform.\n"
 "                  He worked as a commercial real estate broker while learning to\n"
 "                  code."
-msgstr ""
-"Micah était le co-fondateur technique de\n"
+msgstr "Micah était le co-fondateur technique de\n"
 "                  WellAttended, une plateforme de gestion de box-office bootstrapée.\n"
 "                  Il a travaillé comme courtier en immobilier commercial tout en apprenant à\n"
 "                  code."
@@ -2283,12 +2277,10 @@ msgid "Finance & Operations"
 msgstr "Finances et opérations"
 
 #: templates/team.html:161
-msgid ""
-"Kay is a Chartered Professional Accountant (CPA).\n"
+msgid "Kay is a Chartered Professional Accountant (CPA).\n"
 "                  She previously worked as a Senior Accountant and then as a\n"
 "                  Senior Consultant at KPMG Canada."
-msgstr ""
-"Kay est comptable professionnelle agréée (CPA).\n"
+msgstr "Kay est comptable professionnelle agréée (CPA).\n"
 "                  Elle a auparavant travaillé comme comptable principale puis comme\n"
 "                  consultante principale chez KPMG Canada."
 
@@ -2297,12 +2289,10 @@ msgid "Business Development"
 msgstr "Développement des affaires"
 
 #: templates/team.html:182
-msgid ""
-"Coleman is an active cryptocurrency investor and\n"
+msgid "Coleman is an active cryptocurrency investor and\n"
 "                  real estate entrepreneur, owning and managing multiple Airbnb\n"
 "                  properties. He studied mathematics at Berkeley."
-msgstr ""
-"Coleman est un investisseur actif dans la crypto-monnaie et\n"
+msgstr "Coleman est un investisseur actif dans la crypto-monnaie et\n"
 "                  entrepreneur immobilier, possédant et gérant plusieurs propriétés Airbnb\n"
 "                  . Il a étudié les mathématiques à Berkeley."
 
@@ -2315,12 +2305,10 @@ msgid "Regional Manager Korea"
 msgstr "Directeur régional Corée"
 
 #: templates/team.html:203
-msgid ""
-"Mila is leading our community efforts in South\n"
+msgid "Mila is leading our community efforts in South\n"
 "                  Korea. She previously organized blockhain hackathons and has\n"
 "                  degrees from Penn State and Erasmus University Rotterdam."
-msgstr ""
-"Mila dirige nos efforts communautaires dans le Sud\n"
+msgstr "Mila dirige nos efforts communautaires dans le Sud\n"
 "                  Corée. Elle a organisé précédemment hackathons blockhain et a\n"
 "                  degrés de Penn State et de l' Université Erasmus de Rotterdam."
 
@@ -2335,13 +2323,11 @@ msgid "Senior Engineer"
 msgstr "Ingénieur senior"
 
 #: templates/team.html:224
-msgid ""
-"Before Origin, Tom had a successful career as a\n"
+msgid "Before Origin, Tom had a successful career as a\n"
 "                  solo startup founder. He has two Masters degrees in\n"
 "                  Distributed Systems from the Technical University of Berlin\n"
 "                  and KTH in Stockholm."
-msgstr ""
-"Avant origine, Tom a eu une carrière réussie en tant que\n"
+msgstr "Avant origine, Tom a eu une carrière réussie en tant que\n"
 "                  fondateur de solo. Il a deux maîtrises en systèmes distribués\n"
 "                  de l'Université technique de Berlin\n"
 "                  et KTH à Stockholm."
@@ -2355,13 +2341,11 @@ msgid "Regional Manager China"
 msgstr "Directeur régional Chine"
 
 #: templates/team.html:246
-msgid ""
-"Anna is leading our community efforts for Chinese\n"
+msgid "Anna is leading our community efforts for Chinese\n"
 "                  speakers. Before Origin, Anna managed global social media at\n"
 "                  Exness, a leading forex broker. She also co-founded a\n"
 "                  non-profit in Australia."
-msgstr ""
-"Anna dirige nos efforts communautaires pour les locuteurs de chinois\n"
+msgstr "Anna dirige nos efforts communautaires pour les locuteurs de chinois\n"
 "                  . Avant Origin, Anna gérait les médias sociaux mondiaux chez\n"
 "                  Exness, l'un des principaux courtiers forex. Elle a également cofondé\n"
 "                  organisations à but non lucratif en Australie."
@@ -2371,12 +2355,10 @@ msgid "Nick Poulden"
 msgstr "Nick Poulden"
 
 #: templates/team.html:268
-msgid ""
-"Nick studied Computer Science at the University of\n"
+msgid "Nick studied Computer Science at the University of\n"
 "                  Warwick. Prior to joining Origin, he worked as an engineer at\n"
 "                  Sencha, C3 Energy Network and Palo Alto Networks."
-msgstr ""
-"Nick a étudié l'informatique à l'Université de\n"
+msgstr "Nick a étudié l'informatique à l'Université de\n"
 "                  Warwick. Avant de rejoindre Origin, il a travaillé comme ingénieur chez\n"
 "                  Sencha, C3 Energy Network et Palo Alto Networks."
 
@@ -2391,12 +2373,10 @@ msgid "Engineer"
 msgstr "Ingénieur"
 
 #: templates/team.html:289
-msgid ""
-"Domen co-founded and led a team developing a\n"
+msgid "Domen co-founded and led a team developing a\n"
 "                  mobile application with 2 chess Grandmasters. He previously\n"
 "                  had a successful career at Cetra, Zemanta and Peerindex."
-msgstr ""
-"Domen a cofondé et dirigé une équipe développant une application mobile\n"
+msgstr "Domen a cofondé et dirigé une équipe développant une application mobile\n"
 "                  avec 2 grands maîtres d'échecs. Il avait auparavant\n"
 "                  carrière réussie chez Cetra, Zemanta et Peerindex."
 
@@ -2405,12 +2385,10 @@ msgid "Shahul Hameed"
 msgstr "Shahul Hameed"
 
 #: templates/team.html:310
-msgid ""
-"Shahul is a fullstack engineer who started\n"
+msgid "Shahul is a fullstack engineer who started\n"
 "                  programming at age of 10. He previously worked as a freelancer\n"
 "                  and then joined Zoho as a front-end developer."
-msgstr ""
-"Shahul est un ingénieur fullstack qui a commencé\n"
+msgstr "Shahul est un ingénieur fullstack qui a commencé\n"
 "                  programmation à l'âge de 10 ans. Il a précédemment travaillé en tant que pigiste\n"
 "                  , puis a rejoint Zoho en tant que développeur front-end."
 
@@ -2419,13 +2397,11 @@ msgid "Mike Shultz"
 msgstr "Mike Shultz"
 
 #: templates/team.html:331
-msgid ""
-"Mike is a long-time contributor to open-source. He\n"
+msgid "Mike is a long-time contributor to open-source. He\n"
 "                  created a dev toolkit for creating Ethereum smart contracts\n"
 "                  with Python and previously worked with Ethereum and IPFS at\n"
 "                  Lunyr."
-msgstr ""
-"Mike est un contributeur de longue date à l'open source. Il\n"
+msgstr "Mike est un contributeur de longue date à l'open source. Il\n"
 "                  créé une boîte à outils de dev pour créer des contrats intelligents Ethereum\n"
 "                  avec Python et déjà travaillé avec Ethereum et IPFS à\n"
 "                  Lunyr."
@@ -2439,13 +2415,11 @@ msgid "Product Designer"
 msgstr ""
 
 #: templates/team.html:353
-msgid ""
-"Aure is a product designer with 10+ years of\n"
+msgid "Aure is a product designer with 10+ years of\n"
 "                  experience. Prior to joining Origin, Aure worked at multiple\n"
 "                  startups and Fortune 500 companies. In a past life, he was\n"
 "                  also a software engineer."
-msgstr ""
-"Aure est un concepteur de produits avec plus de 10 ans de\n"
+msgstr "Aure est un concepteur de produits avec plus de 10 ans de\n"
 "                  expérience. Avant de rejoindre Origin, Aure a travaillé dans plusieurs startups\n"
 "                  et sociétés Fortune 500. Dans une vie antérieure, il était\n"
 "                  également un ingénieur logiciel."
@@ -2459,8 +2433,7 @@ msgid "Head of Community"
 msgstr ""
 
 #: templates/team.html:375
-msgid ""
-"Before joining Origin, Max helped build\n"
+msgid "Before joining Origin, Max helped build\n"
 "                  communities for notable blockchain companies like OKEx. He\n"
 "                  also worked with RedNova, the marketing and incubation entity\n"
 "                  for Du Capital."
@@ -2589,11 +2562,9 @@ msgid "Interested in working at Origin?"
 msgstr ""
 
 #: templates/team.html:640
-msgid ""
-"We are a distributed team and are hiring all around the\n"
+msgid "We are a distributed team and are hiring all around the\n"
 "            world."
-msgstr ""
-"Nous sommes une équipe distribuée et recrutons autour du\n"
+msgstr "Nous sommes une équipe distribuée et recrutons autour du\n"
 "            monde."
 
 #: templates/team.html:647
@@ -3367,20 +3338,17 @@ msgid "Blocktower Capital"
 msgstr ""
 
 #: templates/whitepaper/disclaimer.html:4
-msgid ""
-"Certain statements in this whitepaper constitute forward-looking statements. Such forward-looking statements, including the intended actions and\n"
+msgid "Certain statements in this whitepaper constitute forward-looking statements. Such forward-looking statements, including the intended actions and\n"
 "    performance objectives of the Company, involve known and unknown risks, uncertainties, and other important factors that could cause the actual results of\n"
 "    the Company to differ materially from any future results expressed or implied by such forward-looking statements. Accordingly, readers should not place\n"
 "    undue reliance on forward-looking statements. No representation or warranty is made as to future performance or such forward-looking statements."
-msgstr ""
-"Certaines déclarations contenues dans ce livre blanc constituent des déclarations prospectives. Ces déclarations prospectives, y compris les actions prévues et les\n"
+msgstr "Certaines déclarations contenues dans ce livre blanc constituent des déclarations prospectives. Ces déclarations prospectives, y compris les actions prévues et les\n"
 "    objectifs de performance de la Société, impliquent des risques connus et inconnus, des incertitudes et d'autres facteurs importants qui pourraient faire en sorte que les résultats réels de\n"
 "    la Société diffèrent sensiblement de tout résultat futur exprimé ou implicite. par ces déclarations prospectives. Par conséquent, les lecteurs ne devraient pas se\n"
 "    fier indûment aux énoncés prospectifs. Aucune représentation ou garantie n'est faite quant aux performances futures ou à ces déclarations prospectives."
 
 #: templates/whitepaper/disclaimer.html:11
-msgid ""
-"This whitepaper was first published in September 2017, before the Origin Platform was built and deployed on the Ethereum Mainnet in October of 2018. For\n"
+msgid "This whitepaper was first published in September 2017, before the Origin Platform was built and deployed on the Ethereum Mainnet in October of 2018. For\n"
 "    the most up to date information on our product development and business strategy, please refer to our website at <a href='https://www.originprotocol.com'>originprotocol.com</a>. For the latest technical\n"
 "    information, please reference <a href='https://github.com/OriginProtocol' target='_blank' rel='noreferrer noopener'>Origin's Github account</a>. To use our flagship marketplace application, please download our <a href='https://www.originprotocol.com/mobile' target='_blank'>mobile apps</a> or visit our <a href='https://www.shoporigin.com' target='_blank' rel='noreferrer noopener'>DApp</a> with a web3-enabled DApp browser.\n"
 "    To use our decentralized Shopify alternative, visit <a href='https://originswag.eth.link' target='_blank' rel='noreferrer noopener'>originswag.eth.link</a>."
@@ -3395,14 +3363,12 @@ msgid "View litepaper"
 msgstr ""
 
 #: templates/whitepaper/exec-summary.html:13
-msgid ""
-"Origin is an open-source platform that enables the creation of peer-to-peer marketplaces and e-commerce applications. The Origin Platform initially targets the global sharing economy, allowing buyers and sellers of\n"
+msgid "Origin is an open-source platform that enables the creation of peer-to-peer marketplaces and e-commerce applications. The Origin Platform initially targets the global sharing economy, allowing buyers and sellers of\n"
 "    fractional use goods and services (car-sharing, service-based tasks, home-sharing, etc.) to transact on\n"
 "    the distributed, open web. Using the Ethereum blockchain and Interplanetary File System (IPFS), the\n"
 "    platform and its community participants can interact in a peer-to-peer fashion, allowing for the creation and booking of\n"
 "    services and goods without traditional intermediaries. "
-msgstr ""
-"Origin est une plateforme open source qui permet la création de places de marché peer-to-peer et d'applications de commerce électronique. L'origine plate - forme vise d' abord l'économie de partage mondiale, ce qui permet aux acheteurs et aux vendeurs de\n"
+msgstr "Origin est une plateforme open source qui permet la création de places de marché peer-to-peer et d'applications de commerce électronique. L'origine plate - forme vise d' abord l'économie de partage mondiale, ce qui permet aux acheteurs et aux vendeurs de\n"
 "    biens d'utilisation des fractions et des services (autopartage, tâches basées sur les services, le partage à domicile, etc.) d'effectuer des transactions sur\n"
 "    le web distribué, ouvert. En utilisant la blockchain Ethereum et le système de fichiers interplanétaire (IPFS), la plateforme\n"
 "    et les participants de sa communauté peuvent interagir de manière peer-to-peer, permettant la création et la réservation de\n"
@@ -3521,7 +3487,7 @@ msgstr "La nouvelle recherche, Sharing Economy: Opportunities, Impacts & Disrupt
 
 #: templates/whitepaper/footnote.html:51
 msgid "property managers...will be charged a 14 percent host-only fee by default. Until now, the default was that Airbnb charged hosts a 3 to 5 percent fixed fee"
-msgstr "les gestionnaires immobiliers ... seront facturés par défaut des frais d'hébergement de 14%% uniquement. Jusqu'à présent, la valeur par défaut était qu'Airbnb facturait aux hôtes des frais fixes de 3 à 5%%."
+msgstr "les gestionnaires immobiliers ... seront facturés par défaut des frais d'hébergement de 14% uniquement. Jusqu'à présent, la valeur par défaut était qu'Airbnb facturait aux hôtes des frais fixes de 3 à 5%."
 
 #: templates/whitepaper/footnote.html:55
 #, python-format
@@ -3886,8 +3852,7 @@ msgid "Co-founder"
 msgstr "Co-fondateur"
 
 #: templates/whitepaper/team.html:22
-msgid ""
-"Matthew Liu is co-founder of Origin Protocol and is an\n"
+msgid "Matthew Liu is co-founder of Origin Protocol and is an\n"
 "      experienced product and business executive and full-stack software\n"
 "      engineer. He became interested in cryptocurrency after investing in the\n"
 "      Ethereum crowdsale, and has been investing in blockchain and token\n"
@@ -3895,16 +3860,14 @@ msgid ""
 msgstr ""
 
 #: templates/whitepaper/team.html:29
-msgid ""
-"Liu was one of the earliest product managers/25th employee at\n"
+msgid "Liu was one of the earliest product managers/25th employee at\n"
 "      YouTube (acquired by Google), and was a founding member of YouTube’s\n"
 "      monetization team that eventually built a multi-billion dollar advertising\n"
 "      business."
 msgstr ""
 
 #: templates/whitepaper/team.html:35
-msgid ""
-"He later served as Vice President of Product at Qwiki (acquired\n"
+msgid "He later served as Vice President of Product at Qwiki (acquired\n"
 "      by Yahoo) and Vice President of Product at Bonobos (acquired by Walmart).\n"
 "      Together, Liu and Fraser have founded several profitable bootstrapped\n"
 "      Internet businesses in the growth marketing (7-figure annual recurring\n"
@@ -3913,8 +3876,7 @@ msgid ""
 msgstr ""
 
 #: templates/whitepaper/team.html:43
-msgid ""
-"In 2014, as CEO of Unicycle Labs, Liu built a real-time\n"
+msgid "In 2014, as CEO of Unicycle Labs, Liu built a real-time\n"
 "      comparison tool for ride-sharing that was widely adopted and then promptly\n"
 "      given a cease and desist by Uber for scraping their data and using their\n"
 "      trademarks. This was one of his first inspirations to fight for open data,\n"
@@ -3923,8 +3885,7 @@ msgid ""
 msgstr ""
 
 #: templates/whitepaper/team.html:66
-msgid ""
-"Joshua Fraser is co-founder of Origin Protocol and is a serial\n"
+msgid "Joshua Fraser is co-founder of Origin Protocol and is a serial\n"
 "      entrepreneur and experienced technical executive. He mined his first\n"
 "      bitcoin in 2010 and is an active member of the cryptocurrency community.\n"
 "      He has contributed and led several open-source projects as well as\n"
@@ -3932,8 +3893,7 @@ msgid ""
 msgstr ""
 
 #: templates/whitepaper/team.html:73
-msgid ""
-"He previously served as founder and CTO of Eventvue (social\n"
+msgid "He previously served as founder and CTO of Eventvue (social\n"
 "      networking for events) and Forage/Din (healthy gourmet meal kits). Fraser\n"
 "      was also founder and CEO of Torbit where he developed an expertise in\n"
 "      networking infrastructure, web performance and internet security before\n"
@@ -3941,8 +3901,7 @@ msgid ""
 msgstr ""
 
 #: templates/whitepaper/team.html:80
-msgid ""
-"Fraser has founded several bootstrapped, profitable businesses\n"
+msgid "Fraser has founded several bootstrapped, profitable businesses\n"
 "      with Liu, one of which was PriceSlash (acquired by BillShark). As a former\n"
 "      Airbnb host, he has experienced first-hand the downsides of marketplace\n"
 "      intermediaries (large fees, arbitrary rules, and government\n"
@@ -3954,109 +3913,94 @@ msgid "Core <span>team</span>"
 msgstr "Core <span>équipe</span>"
 
 #: templates/whitepaper/team.html:92
-msgid ""
-"Origin’s headquarters are in San Francisco, CA, USA. However,\n"
+msgid "Origin’s headquarters are in San Francisco, CA, USA. However,\n"
 "      we have team members across the globe and run an efficient and open\n"
 "      distributed company. Our full-time staff of 16 is currently situated\n"
 "      across 4 continents."
 msgstr ""
 
 #: templates/whitepaper/team.html:113
-msgid ""
-"Yu Pan was one of the 6 founding team members of PayPal\n"
+msgid "Yu Pan was one of the 6 founding team members of PayPal\n"
 "            and was the 1st employee at YouTube. He is a former Google employee\n"
 "            and co-founder of Kiwi Crate."
 msgstr ""
 
 #: templates/whitepaper/team.html:134
-msgid ""
-"Franck has had a successful career as an early employee\n"
+msgid "Franck has had a successful career as an early employee\n"
 "            at numerous high-profile companies. He previously led engineering\n"
 "            teams at Inktomi, Paypal, YouTube, Google and Dropbox."
 msgstr ""
 
 #: templates/whitepaper/team.html:155
-msgid ""
-"Micah was the technical co-founder of WellAttended, a\n"
+msgid "Micah was the technical co-founder of WellAttended, a\n"
 "            bootstrapped box office management platform. He worked as a\n"
 "            commercial real estate broker while learning to code."
 msgstr ""
 
 #: templates/whitepaper/team.html:176
-msgid ""
-"Kay is a Chartered Professional Accountant (CPA). She\n"
+msgid "Kay is a Chartered Professional Accountant (CPA). She\n"
 "            previously worked as a Senior Accountant and then as a Senior\n"
 "            Consultant at KPMG Canada."
 msgstr ""
 
 #: templates/whitepaper/team.html:197
-msgid ""
-"Coleman is an active cryptocurrency investor and real\n"
+msgid "Coleman is an active cryptocurrency investor and real\n"
 "            estate entrepreneur, owning and managing multiple Airbnb properties.\n"
 "            He studied mathematics at Berkeley."
 msgstr ""
 
 #: templates/whitepaper/team.html:218
-msgid ""
-"Aure is a product designer with 10+ years of experience.\n"
+msgid "Aure is a product designer with 10+ years of experience.\n"
 "            Prior to joining Origin, Aure worked at multiple startups and\n"
 "            Fortune 500 companies. In a past life, he was also a software\n"
 "            engineer."
 msgstr ""
 
 #: templates/whitepaper/team.html:240
-msgid ""
-"Mila is leading our community efforts in South Korea.\n"
+msgid "Mila is leading our community efforts in South Korea.\n"
 "            She previously organized blockhain hackathons and has degrees from\n"
 "            Penn State and Erasmus University Rotterdam."
 msgstr ""
 
 #: templates/whitepaper/team.html:261
-msgid ""
-"Before Origin, Tom had a successful career as a solo\n"
+msgid "Before Origin, Tom had a successful career as a solo\n"
 "            startup founder. He has two Masters degrees in Distributed Systems\n"
 "            from the Technical University of Berlin and KTH in Stockholm."
 msgstr ""
 
 #: templates/whitepaper/team.html:282
-msgid ""
-"Nick studied Computer Science at the University of\n"
+msgid "Nick studied Computer Science at the University of\n"
 "            Warwick. Prior to joining Origin, he worked as an engineer at\n"
 "            Sencha, C3 Energy Network and Palo Alto Networks."
 msgstr ""
 
 #: templates/whitepaper/team.html:303
-msgid ""
-"Anna is leading our community efforts for Chinese\n"
+msgid "Anna is leading our community efforts for Chinese\n"
 "            speakers. Before Origin, Anna managed global social media at Exness,\n"
 "            a leading forex broker. She also co-founded a non-profit in\n"
 "            Australia."
 msgstr ""
 
 #: templates/whitepaper/team.html:325
-msgid ""
-"Domen co-founded and led a team developing a mobile\n"
+msgid "Domen co-founded and led a team developing a mobile\n"
 "            application with 2 chess Grandmasters. He previously had a\n"
 "            successful career at Cetra, Zemanta and Peerindex."
 msgstr ""
 
 #: templates/whitepaper/team.html:346
-msgid ""
-"Shahul is a fullstack engineer who started programming\n"
+msgid "Shahul is a fullstack engineer who started programming\n"
 "            at age of 10. He previously worked as a freelancer and then joined\n"
 "            Zoho as a front-end developer."
 msgstr ""
 
 #: templates/whitepaper/team.html:367
-msgid ""
-"Mike is a long-time contributor to open-source. He\n"
+msgid "Mike is a long-time contributor to open-source. He\n"
 "            created a dev toolkit for creating Ethereum smart contracts with\n"
 "            Python and previously worked with Ethereum and IPFS at Lunyr."
 msgstr ""
 
 #: templates/whitepaper/team.html:388
-msgid ""
-"Before joining Origin, Max helped build communities for\n"
+msgid "Before joining Origin, Max helped build communities for\n"
 "            notable blockchain companies like OKEx. He also worked with RedNova,\n"
 "            the marketing and incubation entity for Du Capital."
 msgstr ""
@@ -4066,8 +4010,7 @@ msgid "Developer <span>community</span>"
 msgstr "Développeur <span>communauté</span>"
 
 #: templates/whitepaper/team.html:518
-msgid ""
-"In addition to our full-time staff, Origin has a very active\n"
+msgid "In addition to our full-time staff, Origin has a very active\n"
 "      open-source developer community. Since the project’s inception, we’ve had\n"
 "      over 170 contributors to our Github repository. We anticipate the number\n"
 "      of developers and supporters to increase dramatically after our 1.0 launch\n"
@@ -4257,7 +4200,7 @@ msgstr "Les réservations brutes sur l'économie du partage devraient dépasser 
 #: templates/whitepaper/why.html:130
 #, python-format
 msgid "While the overall market continues to boom, value capture has only shifted in favor to the regional monopolies. Recently, Airbnb dramatically increased fees for hosts in many global regions, from 3 to 5 percent to 14 percent<a class='whitepaper-footnote-link' href='#footnote13'>13</a>. Similarly, Uber’s advertised 25%% commission rate is actually significantly higher when factoring in additional fees that are passed onto their drivers. For example, the median commission that Uber charges in San Francisco was recently estimated at 39%%<a class='whitepaper-footnote-link' href='#footnote14'>14</a>"
-msgstr "Alors que le marché global continue de prospérer, la capture de valeur n'a fait que se déplacer vers les monopoles régionaux. Récemment, Airbnb a considérablement augmenté les frais pour les hôtes dans de nombreuses régions du monde, de 3 à 5%% à 14%%<a class='whitepaper-footnote-link' href='#footnote13'>13</a>. De même, le taux de commission annoncé par Uber 25%% est en fait considérablement plus élevé lorsque l'on tient compte des frais supplémentaires qui sont répercutés sur leurs chauffeurs. Par exemple, la commission médiane qu'Uber facture à San Francisco a récemment été estimée à 39%%<a class='whitepaper-footnote-link' href='#footnote14'>14</a>"
+msgstr "Alors que le marché global continue de prospérer, la capture de valeur n'a fait que se déplacer vers les monopoles régionaux. Récemment, Airbnb a considérablement augmenté les frais pour les hôtes dans de nombreuses régions du monde, de 3 à 5% à 14%<a class='whitepaper-footnote-link' href='#footnote13'>13</a>. De même, le taux de commission annoncé par Uber 25%% est en fait considérablement plus élevé lorsque l'on tient compte des frais supplémentaires qui sont répercutés sur leurs chauffeurs. Par exemple, la commission médiane qu'Uber facture à San Francisco a récemment été estimée à 39%%<a class='whitepaper-footnote-link' href='#footnote14'>14</a>"
 
 #: templates/whitepaper/why.html:132
 msgid "The world is also moving more and more to global versus local commerce. Sellers are able to provide services (and many times products and goods) to customers across the world. Currently, a Lyft passenger would not be able to ride on the Didi ChuXing ride-sharing network (China’s largest ride-sharing company) save for the fact that the two companies signed a deep partnership that was months in the making and involved a mutual investor pouring hundreds of millions of dollars into both companies. In a global, but openly distributed marketplace, a customer would be able to purchase services from suppliers without a need for new accounts, complicated currency exchanges, or prerequisite negotiated deals."
@@ -4338,316 +4281,4 @@ msgstr "Vous avez été désabonné"
 #: views/web_views.py:336
 msgid "Ooops, something went wrong"
 msgstr "Ouups, il y a eu un problème"
-
-#~ msgid "Total number of locked tokens"
-#~ msgstr ""
-
-#~ msgid "Investors, team members & others with locked tokens"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Centralized intermediaries often charge 20-30%% in\n"
-#~ "          transaction fees. Airbnb grossed $2.6B in fees in 2017, while Uber\n"
-#~ "          took home a monumental $11.8B in fees in 2018. Total sharing economy\n"
-#~ "          fees are expected to cross $40B by 2020."
-#~ msgstr ""
-
-#~ msgid "Investors & team members with locked tokens"
-#~ msgstr ""
-
-#~ msgid "Marketplace DApp"
-#~ msgstr ""
-
-#~ msgid "Docs"
-#~ msgstr "Docs"
-
-#~ msgid "Product"
-#~ msgstr ""
-
-#~ msgid "Learn More"
-#~ msgstr ""
-
-#~ msgid "Check out our updated whitepaper"
-#~ msgstr ""
-
-#~ msgid "Read our whitepaper"
-#~ msgstr ""
-
-#~ msgid "Milestones"
-#~ msgstr ""
-
-#~ msgid "May 2017"
-#~ msgstr "Mai 2017"
-
-#~ msgid "Began initial development"
-#~ msgstr ""
-
-#~ msgid "September 2017"
-#~ msgstr "Septembre 2017"
-
-#~ msgid "Released initial whitepaper"
-#~ msgstr ""
-
-#~ msgid "December 2017"
-#~ msgstr "Décembre 2017"
-
-#~ msgid "Launched Alpha on Ethereum testnet"
-#~ msgstr ""
-
-#~ msgid "October 2018"
-#~ msgstr ""
-
-#~ msgid "Launched Beta on Ethereum mainnet"
-#~ msgstr ""
-
-#~ msgid "February 2019"
-#~ msgstr ""
-
-#~ msgid "Launched Marketplace Creator 1.0 and our first mobile apps"
-#~ msgstr ""
-
-#~ msgid "Supported first partner app launches"
-#~ msgstr ""
-
-#~ msgid "April 2019"
-#~ msgstr ""
-
-#~ msgid "Launched Origin Rewards"
-#~ msgstr ""
-
-#~ msgid "Launched stablecoin payments"
-#~ msgstr "Lancement de paiements stablecoin"
-
-#~ msgid "July 2019"
-#~ msgstr ""
-
-#~ msgid "Launched shoporigin.com and new mobile apps"
-#~ msgstr ""
-
-#~ msgid "Launched Meta Transactions"
-#~ msgstr ""
-
-#~ msgid "September 2019"
-#~ msgstr ""
-
-#~ msgid "Launched OGN Commissions"
-#~ msgstr ""
-
-#~ msgid "Q4 2019"
-#~ msgstr ""
-
-#~ msgid "Distributed investor OGN tokens"
-#~ msgstr ""
-
-#~ msgid "Launched Dshop"
-#~ msgstr ""
-
-#~ msgid "Q1 2020"
-#~ msgstr ""
-
-#~ msgid "Launched Mainnet 1.0"
-#~ msgstr ""
-
-#~ msgid "Listed on Binance"
-#~ msgstr ""
-
-#~ msgid "Launched OGN as payment token"
-#~ msgstr ""
-
-#~ msgid "Added to Samsung Blockchain Wallet"
-#~ msgstr ""
-
-#~ msgid "Q2 2020"
-#~ msgstr ""
-
-#~ msgid "Listed on additional exchanges"
-#~ msgstr ""
-
-#~ msgid "Support Dshop partner launches"
-#~ msgstr ""
-
-#~ msgid "Launch OGN staking model"
-#~ msgstr "Lancer le modèle de jalonnement OGN"
-
-#~ msgid "Q3 2020"
-#~ msgstr "T3 2020"
-
-#~ msgid "Launch new developer tools and expand developer adoption"
-#~ msgstr "Lancez de nouveaux outils de développement et élargissez l'adoption par les développeurs"
-
-#~ msgid "Expand Dshop partnerships and store types"
-#~ msgstr ""
-
-#~ msgid "Q4 2020"
-#~ msgstr "T4 2020"
-
-#~ msgid "Launch OGN as a governance token"
-#~ msgstr "Lancer OGN en tant que jeton de gouvernance"
-
-#~ msgid "R&D Engineer"
-#~ msgstr "Ingénieur R & D"
-
-#~ msgid "Product Manager/Engineer"
-#~ msgstr "Chef de produit / ingénieur"
-
-#~ msgid "Amy Hockings"
-#~ msgstr ""
-
-#~ msgid "Customer Support"
-#~ msgstr ""
-
-#~ msgid "Amy has a decade of experience in customer service, sales and administration, and led recruitment for one of Australia’s largest charities. She studied International Business and Linguistics at Griffith University."
-#~ msgstr ""
-
-#~ msgid "Spyros Kekos"
-#~ msgstr ""
-
-#~ msgid "Leslie Song"
-#~ msgstr "Leslie Song"
-
-#~ msgid "Roadmap & milestones"
-#~ msgstr "Feuille de route et jalons"
-
-#~ msgid "November 2017"
-#~ msgstr "Novembre 2017"
-
-#~ msgid "Raised $3M of funding (Advisor Round)"
-#~ msgstr "Levée de fonds de 3 M $ (ronde de conseillers)"
-
-#~ msgid "April 2018"
-#~ msgstr "Avril 2018"
-
-#~ msgid "Raised $28.5M of funding (Strategic Round)"
-#~ msgstr "Levée de fonds de 28,5 M $ (cycle stratégique)"
-
-#~ msgid "August 2018"
-#~ msgstr "Août 2018"
-
-#~ msgid "Raised $6.6M of funding (CoinList Round)"
-#~ msgstr "Levée de fonds de 6,6 M $ (CoinList Round)"
-
-#~ msgid "Launched upgraded meta-transactions infrastructure"
-#~ msgstr "Lancement d'une infrastructure de méta-transactions améliorée"
-
-#~ msgid "Launched gift card and video streaming marketplace apps"
-#~ msgstr "Lancement de la carte-cadeau et des applications de marché de streaming vidéo"
-
-#~ msgid "November 2019"
-#~ msgstr "Novembre 2019"
-
-#~ msgid "Launched Origin Commissions"
-#~ msgstr "Lancement des commissions d'origine"
-
-#~ msgid "Launched decentralized e-commerce store platform"
-#~ msgstr "Lancement de la plateforme de boutique en ligne décentralisée"
-
-#~ msgid "Launched off-chain payments"
-#~ msgstr "Lancement des paiements hors chaîne"
-
-#~ msgid "Listed OGN on Binance"
-#~ msgstr ""
-
-#~ msgid "Launch additional marketplace and e-commerce apps"
-#~ msgstr ""
-
-#~ msgid "Support partner launches of decentralized e-commerce stores"
-#~ msgstr "Soutenir les lancements de partenaires de magasins de commerce électronique décentralisés"
-
-#~ msgid "Roadmap and milestones"
-#~ msgstr "Feuille de route et jalons"
-
-#~ msgid "Throughout 2020, we built and iterated upon Origin’s flagship commerce platform, <a href='/dshop'></a>Dshop. Dshop is a completely open-source alternative to Shopify, and all its core features are free to use. Today, we’ve had hundreds of merchants sign up to use Dshop, including dozens of name brand cryptocurrency companies such as Brave, Solana, and Kyber Network."
-#~ msgstr ""
-
-#~ msgid "Further, we announced marquee partnerships with <a href='https://medium.com/google-cloud/origin-launches-decentralized-commerce-on-google-cloud-marketplace-b74fb46be7d9'>Google Cloud</a> and <a href='https://aws.amazon.com/blogs/awsmarketplace/launch-a-blockchain-powered-ecommerce-store-with-dshop-in-aws-marketplace/'>Amazon</a> to enable our merchant partners to launch completely decentralized storefronts on these iconic cloud computing platforms. We are working with both companies to promote Dshop to additional merchants with co-marketing initiatives. We are also working with the Google team to make Dshop’s blockchain commerce data more readily accessible in Google Data Studio."
-#~ msgstr ""
-
-#~ msgid "In January of 2021, NFTs accounted for a record <a href='https://decrypt.co/56998/crypto-art-sales-on-ethereum-reach-a-record-80-million'>$80M of transaction volume</a>. It is clear that NFT sales are growing at an exponential rate and represent the fastest growing opportunity for crypto-centric commerce."
-#~ msgstr ""
-
-#~ msgid "All three aforementioned NFT-powered commerce opportunities are already supported by our platform. These use cases were highlighted in our recent NFT successful Dshop NFT Launchpad collaboration with world-famous DJ and crypto-currency influencer 3LAU who is ranked #93 on CoinTelegraph’s list of most influential people in cryptocurrency in 2020. Almost $11.7M of gross sales were generated using Origin’s commerce platform in our inaugural campaign, a sum that smashed the previous record for a single NFT collection. Coverage of this record breaking event reached mainstream media outlets like the New York Times and Forbes."
-#~ msgstr ""
-
-#~ msgid "OUSD is a superior DeFi product for the masses. By removing all the complexities normally associated with earning fees through lending or supplying liquidity to automated market makers (AMMs), OUSD is highly accessible to users who are new to cryptocurrency technologies. Today, users need only to purchase OUSD on centralized exchanges or decentralized swap sites like Uniswap/Sushiswap to begin earning yield at staggering rates immediately. Alternatively, users can mint OUSD with their existing stablecoins (DAI, USDT, USDC currently) on the OUSD DApp."
-#~ msgstr ""
-
-#~ msgid "Current APYs and circulating supply are published transparently on the OUSD dashboard. "
-#~ msgstr ""
-
-#~ msgid "Readers can learn more about the technical details of OUSD on our documentation."
-#~ msgstr ""
-
-#~ msgid "Origin was founded by Josh Fraser and Matthew Liu, two successful entrepreneurs who have built multiple venture backed companies that saw successful exits and who have worked together on multiple businesses in the past. They were joined by founding engineer Yu Pan. Yu Pan was one of the co-founders of PayPal alongside Elon Musk, Peter Thiel, Max Levchin, Ken Howery, and Luke Nosek. Yu Pan was also the first employee at YouTube and held senior positions at Google and Affirm."
-#~ msgstr ""
-
-#~ msgid "It’s time to cut out traditional intermediaries"
-#~ msgstr "Il est temps d'éliminer les intermédiaires traditionnels"
-
-#~ msgid "Origin enables true peer-to-peer commerce"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Origin is a startup headquartered in San Francisco, but we also\n"
-#~ "      have team members in China, Korea, Russia, India, New Zealand, and even\n"
-#~ "      Slovenia. Our 800+ investors include top venture capitalists and\n"
-#~ "      cryptocurrency funds all over the world."
-#~ msgstr ""
-
-#~ msgid "Origin Tokens (OGN) are held by over 25,000"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Centralized intermediaries often charge 20-30%% in\n"
-#~ "          transaction fees. Airbnb grossed $2.6B in fees in 2017, while Uber\n"
-#~ "          took home a monumental $11.8B in fees in 2018."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "By removing the middlemen, Origin removes these fees.\n"
-#~ "          Buyers and sellers can now share the savings from the fees that are no\n"
-#~ "          longer paid to traditional marketplace operators."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Uber and Lyft recently IPOed. WeWork and Airbnb are soon to\n"
-#~ "          follow suit. None of the early participants on these platforms\n"
-#~ "          benefited despite being critical to their success."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "In contrast, Origin enables everyone to own a piece of the\n"
-#~ "          network. Buyers and sellers can earn Origin Tokens (OGN) simply by\n"
-#~ "          using Origin-enabled applications to transact with one another.\n"
-#~ "          Developers, affiliates, and marketplace operators can earn OGN by\n"
-#~ "          promoting and marketing sellers' listings. When everyone owns a piece\n"
-#~ "          of the network, ecosystem participants are incentivized to promote the\n"
-#~ "          health and growth of Origin. "
-#~ msgstr ""
-
-#~ msgid ""
-#~ "With the advent of cryptocurrencies and the proliferation\n"
-#~ "          of inexpensive smartphones, now is the time to enable the unbanked to\n"
-#~ "          participate in the new Internet economy. Users from all over the world\n"
-#~ "          are now able to transact with each other on Origin-powered\n"
-#~ "          marketplaces even if they do not have stable, local banking\n"
-#~ "          systems."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Airbnb is heavily regulated or banned in cities like Paris,\n"
-#~ "          Berlin, Tokyo, New York, and even its home city of San Francisco."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Decentralized marketplaces promote open and free commerce.\n"
-#~ "          Unlike centralized alternatives, they are not single points of failure\n"
-#~ "          and can't be banned or shut down. Decentralized commerce is more\n"
-#~ "          resilient and promotes efficient markets."
-#~ msgstr ""
-
-#~ msgid "Be the first to hear when we launch new products, and announce important partnerships!"
-#~ msgstr ""
-
-#~ msgid "Participate in the Origin Token (OGN) distribution"
-#~ msgstr ""
 

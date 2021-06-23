@@ -1,18 +1,22 @@
-
 msgid ""
 msgstr ""
-"Project-Id-Version:  originprotocolwebsite\n"
+"Project-Id-Version: originprotocolwebsite\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-03-17 11:39+0530\n"
-"PO-Revision-Date: 2020-12-18 16:18+0000\n"
+"PO-Revision-Date: 2021-06-23 20:25\n"
 "Last-Translator: \n"
-"Language: tr_TR\n"
 "Language-Team: Turkish\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: originprotocolwebsite\n"
+"X-Crowdin-Project-ID: 308054\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /master/messages.pot\n"
+"X-Crowdin-File-ID: 72\n"
+"Language: tr_TR\n"
 
 #: config/strings_to_translate.py:4
 msgid "Technology Partners"
@@ -57,8 +61,7 @@ msgstr "Origin Protocol - Ürün"
 
 #: templates/about.html:2 templates/extension-rewards.html:2
 #: templates/stayHomeStore.html:2 templates/swagStore.html:2
-msgid ""
-"Origin Protocol enables\n"
+msgid "Origin Protocol enables\n"
 "true peer-to-peer commerce."
 msgstr "Origin Protocol gerçek eşler arası ticareti etkinleştirir."
 
@@ -69,7 +72,7 @@ msgstr "Tam ekrandan çık"
 
 #: templates/about.html:28
 msgid "It’s time to bring crypto mainstream"
-msgstr ""
+msgstr "Kripto paraları ana akım haline getirmenin zamanı geldi"
 
 #: templates/about.html:36 templates/investors.html:37
 #: templates/landing.html:30 templates/landing.html:152 templates/team.html:29
@@ -79,17 +82,17 @@ msgstr "Videoyu izle"
 
 #: templates/about.html:44
 msgid "Origin enables decentralized commerce and finance"
-msgstr ""
+msgstr "1999'da, PayPal'ın orijinal kurucularından biri olan Yu Pan, geleneksel bankacılık sistemlerine bağlanmak zorunda kalmadan faiz getirici stratejiler ve banka kartlarıyla tamamlanan \"yeni dünya para birimini\" yaratmayı tasarladı. Birkaç hareketten ve daha sonra bir eBay satın alımından sonra PayPal bu alandaki hedeflerinden vazgeçti"
 
 #: templates/about.html:47
-msgid ""
-"Origin is a fully distributed team. Our 800+ investors include top venture capitalists and\n"
+msgid "Origin is a fully distributed team. Our 800+ investors include top venture capitalists and\n"
 "      cryptocurrency funds all over the world."
-msgstr ""
+msgstr "Origin tamamen dağıtılmış bir ekipten oluşuyor. 800'den fazla yatırımcımız, dünyanın her yerinden en iyi risk sermayedarlarını ve\n"
+"      kripto para birimi fonunu içeriyor."
 
 #: templates/about.html:49
 msgid "Origin Tokens (OGN) are held by over 30,000"
-msgstr ""
+msgstr "Origin Token'ları (OGN) 30.000'den fazla kişi tarafından tutuluyor"
 
 #: templates/about.html:49
 msgid "token holders."
@@ -109,11 +112,11 @@ msgstr "Daha düşük ücretler"
 
 #: templates/about.html:80
 msgid "Centralized platforms for music and art often charge incredibly high fees, leaving the creators with a small fraction of the value generated and causing consumers to overpay for goods and experiences. Traditional payment processors also charge significant fees."
-msgstr ""
+msgstr "Müzik ve sanat için merkezileştirilmiş platformlar genellikle inanılmaz derecede yüksek ücretler talep eder. Bu da yaratıcıları üretilen değerin küçük bir kısmıyla yetinmek zorunda bırakır ve tüketicilerin mallar ve deneyimler için fazla ödeme yapmasına neden olur. Geleneksel ödeme işlemcileri de önemli ücretler alır."
 
 #: templates/about.html:83
 msgid "Decentralized commerce reduces the power of middlemen and their ability to charge egregious fees. Both buyers and sellers can share in the savings. With OUSD, Origin provides an alternative to high cost payment rails. Ordinary people and businesses can reduce costs and benefit from superior yields provided by OUSD."
-msgstr ""
+msgstr "Merkeziyetsiz ticaret, aracıların gücünü ve yüksek ücretler talep etme riskini azaltır. Hem alıcılar hem de satıcılar tasarrufları paylaşabilir. OUSD ile Origin, yüksek maliyetli ödeme raylarına bir alternatif sunuyor. Kişiler ve işletmeler maliyetleri azaltabilir ve OUSD tarafından sağlanan üstün getirilerden yararlanabilir."
 
 #: templates/about.html:114
 msgid "Better Incentives"
@@ -132,12 +135,10 @@ msgid "Increased Access"
 msgstr "Artan Erişim"
 
 #: templates/about.html:136
-msgid ""
-"2 billion people around the world are currently unbanked.\n"
+msgid "2 billion people around the world are currently unbanked.\n"
 "          They do not have checking accounts, credit cards, AliPay, or Apple\n"
 "          Pay."
-msgstr ""
-"Dünya çapında 2 milyar insan şu anda bankasız.\n"
+msgstr "Dünya çapında 2 milyar insan şu anda bankasız.\n"
 "          Çek hesapları, kredi kartları, AliPay veya Apple\n"
 "          Pay yok."
 
@@ -151,7 +152,7 @@ msgstr "Daha fazla dayanıklılık"
 
 #: templates/about.html:174
 msgid "Decentralized marketplaces promote open and free commerce. Unlike centralized alternatives, they are not single points of failure and can't be banned or shut down. Decentralized commerce is more resilient and promotes efficient markets."
-msgstr ""
+msgstr "Merkezi olmayan pazar yerleri açık ve ücretsiz ticareti teşvik eder. Merkezi alternatiflerin aksine, bunlar tek başarısızlık noktaları değildir ve yasaklanamaz veya kapatılamaz. Merkezi olmayan ticaret daha esnektir ve verimli pazarları destekler."
 
 #: templates/about.html:177
 msgid "Decentralized finance lets users take control of their money. They will be able to choose what assets to conduct business with and keep their savings in. Unlike in traditional centralized systems, funds cannot be seized and accounts cannot be shut down. DeFi is powered by smart contracts and code which minimizes the need for trust and limits human intervention and misadventure."
@@ -162,11 +163,9 @@ msgid "Origin in the Press"
 msgstr "Basında Origin"
 
 #: templates/about.html:293
-msgid ""
-"We have a large and growing community of developers and\n"
+msgid "We have a large and growing community of developers and\n"
 "      supporters"
-msgstr ""
-"Geniş ve büyüyen bir geliştirici topluluğumuz ve\n"
+msgstr "Geniş ve büyüyen bir geliştirici topluluğumuz ve\n"
 "      destekçimiz var"
 
 #: templates/about.html:300
@@ -990,7 +989,7 @@ msgstr "OGN"
 
 #: templates/footer.html:38 templates/litepaper/platform.html:143
 msgid "OUSD"
-msgstr ""
+msgstr "OUSD"
 
 #: templates/footer.html:39 templates/product.html:29
 msgid "Dshop"
@@ -1010,7 +1009,7 @@ msgstr "GitHub"
 
 #: templates/footer.html:46 templates/litepaper.html:19
 msgid "Litepaper"
-msgstr ""
+msgstr "Yazı kağıdı"
 
 #: templates/footer.html:50 templates/navbar.html:69
 msgid "About"
@@ -1303,19 +1302,15 @@ msgid "The user must register their email address with Origin and join the Origi
 msgstr "Kullanıcı, e-posta adresini Origin'e kaydetmeli ve Origin Wechat grubuna katılmalıdır."
 
 #: templates/investors.html:1
-msgid ""
-"Origin Protocol -\n"
+msgid "Origin Protocol -\n"
 "Investors"
-msgstr ""
-"Origin Protocol -\n"
+msgstr "Origin Protocol -\n"
 "Yatırımcı"
 
 #: templates/investors.html:2
-msgid ""
-"Origin\n"
+msgid "Origin\n"
 "Protocol is backed by top investors from all over the world"
-msgstr ""
-"Origin\n"
+msgstr "Origin\n"
 "Protokolü, dünyanın her yerinden en iyi yatırımcılar tarafından desteklenmektedir"
 
 #: templates/investors.html:29
@@ -1327,11 +1322,9 @@ msgid "Fundraising"
 msgstr "Fon Toplama"
 
 #: templates/investors.html:47
-msgid ""
-"We are a well-capitalized startup that has sold tokens in\n"
+msgid "We are a well-capitalized startup that has sold tokens in\n"
 "            three previous rounds to build our platform."
-msgstr ""
-"Platformumuzu oluşturmak için önceki\n"
+msgstr "Platformumuzu oluşturmak için önceki\n"
 "            üç turda token satan iyi sermayeli bir girişimiz."
 
 #: templates/investors.html:54
@@ -1351,11 +1344,9 @@ msgid "investors"
 msgstr "yatırımcılar"
 
 #: templates/investors.html:66
-msgid ""
-"Interested in getting a stake in Origin? Sign up to\n"
+msgid "Interested in getting a stake in Origin? Sign up to\n"
 "            receive the latest updates."
-msgstr ""
-"Origin'de hisse almakla ilgileniyor musunuz? En son güncellemeleri almak için\n"
+msgstr "Origin'de hisse almakla ilgileniyor musunuz? En son güncellemeleri almak için\n"
 "            kadar kaydolun."
 
 #: templates/investors.html:78
@@ -1363,13 +1354,11 @@ msgid "Featured Investor"
 msgstr "Öne Çıkan Yatırımcı"
 
 #: templates/investors.html:103
-msgid ""
-"\"The reason we invested in Origin was\n"
+msgid "\"The reason we invested in Origin was\n"
 "                      primarily because of the team. They have amazing\n"
 "                      backgrounds and they come from iconic consumer\n"
 "                      companies.\""
-msgstr ""
-"\"Bizim Origin'e yatırım yapmamızın sebebi\n"
+msgstr "\"Bizim Origin'e yatırım yapmamızın sebebi\n"
 "                      öncelikle takım için. Onlar inanılmaz \n"
 "                      geçmişlere  sahipler ve  ikonik tüketici \n"
 "                      şirketlereden geliyorlar.\""
@@ -1383,13 +1372,11 @@ msgid "Partner, Foundation Capital"
 msgstr "Ortak, Kuruluş Sermayesi"
 
 #: templates/investors.html:142
-msgid ""
-"\"We're talking about over 100,000 members\n"
+msgid "\"We're talking about over 100,000 members\n"
 "                      around the world that are hard-core fans of Origin. Origin\n"
 "                      has done a tremendous job executing at a global\n"
 "                      scale.\""
-msgstr ""
-"\"Biz Origin'in çekirdek hayranları olan\n"
+msgstr "\"Biz Origin'in çekirdek hayranları olan\n"
 "                      100.000 üye bahsediyoruz. Origin \n"
 "                       tüm dünyada  küresel ölçekte muazzam bir iş \n"
 "                      çıkarmış.\""
@@ -1403,14 +1390,12 @@ msgid "Founding Partner, Oyster VC"
 msgstr "Kurucu Ortak, Oyster VC"
 
 #: templates/investors.html:170
-msgid ""
-"\"Origin stands out from any of the other\n"
+msgid "\"Origin stands out from any of the other\n"
 "                      decentralized applications that we've invested into,\n"
 "                      because they've gone out there and built probably the best\n"
 "                      community that we've seen. For us, that was a game\n"
 "                      changer.\""
-msgstr ""
-"\"Origindiğer yatırım yaptığınız diğer merkezi olmayan uygulamalardan farklıdır.\n"
+msgstr "\"Origindiğer yatırım yaptığınız diğer merkezi olmayan uygulamalardan farklıdır.\n"
 "                      çünkü gittiler ve  gördüğümüz en iyi topluluğu inşa ettiler.\n"
 "                      onlar orada çıktığım çünkü muhtemelen en iyi inşa\n"
 "                      Bizim için bu bir oyun\n"
@@ -1425,11 +1410,9 @@ msgid "Co-investment Officer at Pantera Capital"
 msgstr "Pantera Capital şirketinde Co-Investment Officer"
 
 #: templates/investors.html:204
-msgid ""
-"We are backed by top venture capital firms and investors\n"
+msgid "We are backed by top venture capital firms and investors\n"
 "            in Silicon Valley and around the world"
-msgstr ""
-"Silikon Vadisi ve dünyanın dört bir yanındaki en iyi risk sermayesi\n"
+msgstr "Silikon Vadisi ve dünyanın dört bir yanındaki en iyi risk sermayesi\n"
 "            firmaları ve yatırımcıları tarafından destekleniyoruz"
 
 #: templates/investors.html:247
@@ -1437,11 +1420,9 @@ msgid "Individual Investors"
 msgstr "Bireysel Yatırımcılar"
 
 #: templates/investors.html:249
-msgid ""
-"We are supported by some of the best angel investors and\n"
+msgid "We are supported by some of the best angel investors and\n"
 "            previous founders in Silicon Valley."
-msgstr ""
-"Silikon Vadisi'ndeki en iyi melek yatırımcılardan bazıları ve daha önceki\n"
+msgstr "Silikon Vadisi'ndeki en iyi melek yatırımcılardan bazıları ve daha önceki\n"
 "            kurucu tarafından destekleniyoruz."
 
 #: templates/investors.html:264
@@ -1646,11 +1627,11 @@ msgstr "Daha fazla videolar izleyin"
 
 #: templates/litepaper.html:3 templates/litepaper.html:5
 msgid "Origin Protocol - Litepaper"
-msgstr ""
+msgstr "Origin Protocol - Litepaper"
 
 #: templates/litepaper.html:20
 msgid "Bringing peer-to-peer commerce and decentralized finance to the masses"
-msgstr ""
+msgstr "Eşler arası ticareti ve merkezi olmayan (merkeziyetsiz) finansmanı tüm kitlelere ulaştırmak"
 
 #: templates/mobile.html:3 templates/mobile.html:5
 msgid "Origin Protocol - Mobile"
@@ -1713,19 +1694,15 @@ msgid "Origin NFT Platform Terms and Conditions of Use."
 msgstr ""
 
 #: templates/ogn-token.html:1
-msgid ""
-"Origin Protocol - OGN\n"
+msgid "Origin Protocol - OGN\n"
 "Token"
-msgstr ""
-"Origin Protocol - OGN\n"
+msgstr "Origin Protocol - OGN\n"
 "Token"
 
 #: templates/ogn-token.html:2
-msgid ""
-"Origin Tokens\n"
+msgid "Origin Tokens\n"
 "(OGN) ensure the health and growth of the Origin network."
-msgstr ""
-"Origin Tokens\n"
+msgstr "Origin Tokens\n"
 "(OGN), Origin ağının sağlığını ve büyümesini sağlar."
 
 #: templates/ogn-token.html:10
@@ -2192,26 +2169,21 @@ msgid "Shop at the Origin Swag Store today, and enter for a chance to win up to 
 msgstr "Origin Swag Mağazasından bugün alışveriş yapın ve 3.000 OGN'ye kadar kazanma şansı için katılın!"
 
 #: templates/team.html:1
-msgid ""
-"Origin Protocol -\n"
+msgid "Origin Protocol -\n"
 "Team"
-msgstr ""
-"Origin Protocol -\n"
+msgstr "Origin Protocol -\n"
 "Takım"
 
 #: templates/team.html:2
-msgid ""
-"Origin\n"
+msgid "Origin\n"
 "Protocol's world-class team is led by entrepreneurs and engineers from iconic\n"
 "tech companies"
 msgstr "Birinci sınıf ekibimiz, ikonik teknoloji şirketlerinden girişimciler ve mühendisler tarafından yönetilmektedir."
 
 #: templates/team.html:23
-msgid ""
-"Our world-class team is led by entrepreneurs and engineers\n"
+msgid "Our world-class team is led by entrepreneurs and engineers\n"
 "        from iconic tech companies"
-msgstr ""
-"Birinci sınıf ekibimiz, ikonik teknoloji şirketlerinden\n"
+msgstr "Birinci sınıf ekibimiz, ikonik teknoloji şirketlerinden\n"
 "        girişimciler ve mühendisler tarafından yönetilmektedir."
 
 #: templates/team.html:37 templates/whitepaper/sidebar.html:45
@@ -2227,12 +2199,10 @@ msgid "Cofounder"
 msgstr "kurucularından"
 
 #: templates/team.html:55
-msgid ""
-"Josh started coding at the age of 10. Prior to\n"
+msgid "Josh started coding at the age of 10. Prior to\n"
 "                  Origin, he co-founded three other venture-backed companies:\n"
 "                  EventVue, Torbit (acquired by Walmart Labs) &amp; Forage."
-msgstr ""
-"Josh, 10 yaşında kodlamaya başladı.\n"
+msgstr "Josh, 10 yaşında kodlamaya başladı.\n"
 "                  Origin'den önce, girişim destekli diğer üç şirketi kurdu:\n"
 "                  EventVue, Torbit (Walmart Labs tarafından satın alındı) &amp; Yem."
 
@@ -2241,12 +2211,10 @@ msgid "Matthew Liu"
 msgstr "Matthew Liu"
 
 #: templates/team.html:75
-msgid ""
-"Matt was the 3rd PM at YouTube (acquired by\n"
+msgid "Matt was the 3rd PM at YouTube (acquired by\n"
 "                  Google) and VP PM at Qwiki (acquired by Yahoo) and Bonobos\n"
 "                  (acquired by Walmart). He has an MS and BS from Stanford."
-msgstr ""
-"Matt, YouTube'da 3. PM (\n"
+msgstr "Matt, YouTube'da 3. PM (\n"
 "                  Google tarafından satın alındı) ve Qwiki'de (Yahoo tarafından satın alındı) ve Bonobos\n"
 "                  (Walmart tarafından satın alındı) VP PM idi. Stanford'dan MS ve BS derecesi var."
 
@@ -2259,12 +2227,10 @@ msgid "Founding Engineer"
 msgstr ""
 
 #: templates/team.html:96
-msgid ""
-"Yu Pan was one of the 6 founding team members of\n"
+msgid "Yu Pan was one of the 6 founding team members of\n"
 "                  PayPal and was the 1st employee at YouTube. He is a former\n"
 "                  Google employee and co-founder of Kiwi Crate."
-msgstr ""
-"Yu Pan,\n"
+msgstr "Yu Pan,\n"
 "                  PayPal'ın 6 kurucu ekip üyesinden biriydi ve YouTube'daki ilk çalışanıydı. O eski olan\n"
 "                  kivi Crate Google çalışanı ve kurucularından."
 
@@ -2277,13 +2243,11 @@ msgid "VP of Engineering"
 msgstr ""
 
 #: templates/team.html:117
-msgid ""
-"Franck has had a successful career as an early\n"
+msgid "Franck has had a successful career as an early\n"
 "                  employee at numerous high-profile companies. He previously led\n"
 "                  engineering teams at Inktomi, Paypal, YouTube, Google and\n"
 "                  Dropbox."
-msgstr ""
-"Franck, çok sayıda yüksek profilli şirkette\n"
+msgstr "Franck, çok sayıda yüksek profilli şirkette\n"
 "                  çalışanı olarak başarılı bir kariyere sahipti. Daha önce Inktomi, Paypal, YouTube, Google ve\n"
 "                  Dropbox'ta\n"
 "                  mühendislik ekibine liderlik etti."
@@ -2294,18 +2258,15 @@ msgstr "Micah Alcorn"
 
 #: templates/team.html:136 templates/whitepaper/team.html:152
 msgid "Director of Product"
-msgstr ""
+msgstr "Ürün Direktörü"
 
 #: templates/team.html:139
-msgid ""
-"Micah was the technical co-founder of\n"
+msgid "Micah was the technical co-founder of\n"
 "                  WellAttended, a bootstrapped box office management platform.\n"
 "                  He worked as a commercial real estate broker while learning to\n"
 "                  code."
-msgstr ""
-"Micah, bir bootstrapping gişe yönetim platformu olan\n"
-"                  WellAttended'in teknik kurucularındandı.\n"
-"\n"
+msgstr "Micah, bir bootstrapping gişe yönetim platformu olan\n"
+"                  WellAttended'in teknik kurucularındandı.\n\n"
 "                  kodu öğrenirken ticari emlak komisyoncusu olarak çalıştı."
 
 #: templates/team.html:154 templates/whitepaper/team.html:169
@@ -2317,12 +2278,10 @@ msgid "Finance & Operations"
 msgstr "Finans ve İşlemler"
 
 #: templates/team.html:161
-msgid ""
-"Kay is a Chartered Professional Accountant (CPA).\n"
+msgid "Kay is a Chartered Professional Accountant (CPA).\n"
 "                  She previously worked as a Senior Accountant and then as a\n"
 "                  Senior Consultant at KPMG Canada."
-msgstr ""
-"Kay, Yeminli Mali Müşavirdir (EBM).\n"
+msgstr "Kay, Yeminli Mali Müşavirdir (EBM).\n"
 "                  O daha önce bir Kıdemli Muhasebeci olarak ve daha sonra olarak çalıştı\n"
 "                  KPMG Kanada Kıdemli Danışman."
 
@@ -2331,12 +2290,10 @@ msgid "Business Development"
 msgstr "İş Geliştirme"
 
 #: templates/team.html:182
-msgid ""
-"Coleman is an active cryptocurrency investor and\n"
+msgid "Coleman is an active cryptocurrency investor and\n"
 "                  real estate entrepreneur, owning and managing multiple Airbnb\n"
 "                  properties. He studied mathematics at Berkeley."
-msgstr ""
-"Coleman, birden fazla Airbnb\n"
+msgstr "Coleman, birden fazla Airbnb\n"
 "                  mülküne sahip olan ve yöneten aktif bir kripto para yatırımcısı ve\n"
 "                  gayrimenkul girişimcisidir. Berkeley'de matematik okudu."
 
@@ -2349,12 +2306,10 @@ msgid "Regional Manager Korea"
 msgstr "Kore Bölge Müdürü"
 
 #: templates/team.html:203
-msgid ""
-"Mila is leading our community efforts in South\n"
+msgid "Mila is leading our community efforts in South\n"
 "                  Korea. She previously organized blockhain hackathons and has\n"
 "                  degrees from Penn State and Erasmus University Rotterdam."
-msgstr ""
-"Mila Güney yılında toplum çabalara önderlik eden\n"
+msgstr "Mila Güney yılında toplum çabalara önderlik eden\n"
 "                  Kore. Daha önce blockhain hackathons organize etti ve Penn State ve Erasmus University Rotterdam'dan\n"
 "                  dereceye sahip."
 
@@ -2369,13 +2324,11 @@ msgid "Senior Engineer"
 msgstr "Kıdemli mühendis"
 
 #: templates/team.html:224
-msgid ""
-"Before Origin, Tom had a successful career as a\n"
+msgid "Before Origin, Tom had a successful career as a\n"
 "                  solo startup founder. He has two Masters degrees in\n"
 "                  Distributed Systems from the Technical University of Berlin\n"
 "                  and KTH in Stockholm."
-msgstr ""
-"Origin'den önce Tom,\n"
+msgstr "Origin'den önce Tom,\n"
 "                  solo başlangıç kurucusu olarak başarılı bir kariyere sahipti. Berlin\n"
 "                  Teknik Üniversitesi'nden\n"
 "                  Dağıtılmış Sistemde ve Stockholm'de KTH'de iki yüksek lisans derecesi vardır."
@@ -2389,13 +2342,11 @@ msgid "Regional Manager China"
 msgstr "Çin Bölge Müdürü"
 
 #: templates/team.html:246
-msgid ""
-"Anna is leading our community efforts for Chinese\n"
+msgid "Anna is leading our community efforts for Chinese\n"
 "                  speakers. Before Origin, Anna managed global social media at\n"
 "                  Exness, a leading forex broker. She also co-founded a\n"
 "                  non-profit in Australia."
-msgstr ""
-"Anna, Çince\n"
+msgstr "Anna, Çince\n"
 "                  konuşanlar için toplum çalışmalarımıza liderlik ediyor. Origin'den önce Anna, önde gelen bir forex brokeri olan\n"
 "                  Exness'te küresel sosyal medyayı yönetti. Ayrıca Avustralya'da\n"
 "                  kar amacı gütmeyen bir kuruluş kurdu."
@@ -2405,12 +2356,10 @@ msgid "Nick Poulden"
 msgstr "Nick Poulden"
 
 #: templates/team.html:268
-msgid ""
-"Nick studied Computer Science at the University of\n"
+msgid "Nick studied Computer Science at the University of\n"
 "                  Warwick. Prior to joining Origin, he worked as an engineer at\n"
 "                  Sencha, C3 Energy Network and Palo Alto Networks."
-msgstr ""
-"Nick,\n"
+msgstr "Nick,\n"
 "                  Warwick Üniversitesi'nde Bilgisayar Bilimleri okudu. Origin'e katılmadan önce\n"
 "                  Sencha, C3 Energy Network ve Palo Alto Networks'te mühendis olarak çalıştı."
 
@@ -2425,12 +2374,10 @@ msgid "Engineer"
 msgstr "Mühendis"
 
 #: templates/team.html:289
-msgid ""
-"Domen co-founded and led a team developing a\n"
+msgid "Domen co-founded and led a team developing a\n"
 "                  mobile application with 2 chess Grandmasters. He previously\n"
 "                  had a successful career at Cetra, Zemanta and Peerindex."
-msgstr ""
-"Domen, 2 satranç Grandmasters ile\n"
+msgstr "Domen, 2 satranç Grandmasters ile\n"
 "                  mobil uygulama geliştiren bir ekip kurdu ve yönetti. Daha önce\n"
 "                  Cetra, Zemanta ve Peerindex'te başarılı bir kariyeri vardı."
 
@@ -2439,12 +2386,10 @@ msgid "Shahul Hameed"
 msgstr "Şahul İsmi"
 
 #: templates/team.html:310
-msgid ""
-"Shahul is a fullstack engineer who started\n"
+msgid "Shahul is a fullstack engineer who started\n"
 "                  programming at age of 10. He previously worked as a freelancer\n"
 "                  and then joined Zoho as a front-end developer."
-msgstr ""
-"Shahul, 10 yaşında\n"
+msgstr "Shahul, 10 yaşında\n"
 "                  programlamaya başlayan bir fullstack mühendisidir. Daha önce bir freelancer\n"
 "                  olarak çalıştı ve sonra Zoho'ya ön uç geliştirici olarak katıldı."
 
@@ -2453,13 +2398,11 @@ msgid "Mike Shultz"
 msgstr "Mike Shultz"
 
 #: templates/team.html:331
-msgid ""
-"Mike is a long-time contributor to open-source. He\n"
+msgid "Mike is a long-time contributor to open-source. He\n"
 "                  created a dev toolkit for creating Ethereum smart contracts\n"
 "                  with Python and previously worked with Ethereum and IPFS at\n"
 "                  Lunyr."
-msgstr ""
-"Mike açık kaynak koduna uzun zamandır katkıda bulunuyor.\n"
+msgstr "Mike açık kaynak koduna uzun zamandır katkıda bulunuyor.\n"
 "                  , Python ile Ethereum akıllı sözleşmeleri\n"
 "                  oluşturmak için bir dev araç seti yarattı ve daha önce\n"
 "                  Lunyr'de Ethereum ve IPFS ile çalıştı."
@@ -2473,13 +2416,11 @@ msgid "Product Designer"
 msgstr "Ürün tasarımcısı"
 
 #: templates/team.html:353
-msgid ""
-"Aure is a product designer with 10+ years of\n"
+msgid "Aure is a product designer with 10+ years of\n"
 "                  experience. Prior to joining Origin, Aure worked at multiple\n"
 "                  startups and Fortune 500 companies. In a past life, he was\n"
 "                  also a software engineer."
-msgstr ""
-"Aure, 10 yıldan fazla\n"
+msgstr "Aure, 10 yıldan fazla\n"
 "                  tecrübeye sahip bir ürün tasarımcısıdır. Kökeni katılmadan önce, Aure birden çalıştı\n"
 "                  başlatılması ve Fortune 500 şirketlerinin. Geçmiş bir hayatta, o oldu\n"
 "                  de yazılım mühendisi."
@@ -2493,13 +2434,11 @@ msgid "Head of Community"
 msgstr "Topluluk Başkanı"
 
 #: templates/team.html:375
-msgid ""
-"Before joining Origin, Max helped build\n"
+msgid "Before joining Origin, Max helped build\n"
 "                  communities for notable blockchain companies like OKEx. He\n"
 "                  also worked with RedNova, the marketing and incubation entity\n"
 "                  for Du Capital."
-msgstr ""
-"Origin'e katılmadan önce Max, OKEx gibi önemli blok zinciri şirketleri için\n"
+msgstr "Origin'e katılmadan önce Max, OKEx gibi önemli blok zinciri şirketleri için\n"
 "                  topluluk oluşturmaya yardımcı oldu. O\n"
 "                  de RedNova, pazarlama ve inkübasyon varlık ile çalışmış\n"
 "                  Du Capital için."
@@ -2538,31 +2477,31 @@ msgstr "Moisés Sosa"
 
 #: templates/team.html:461 templates/whitepaper/team.html:459
 msgid "Kevin Lee"
-msgstr ""
+msgstr "Kevin Lee"
 
 #: templates/team.html:469 templates/whitepaper/team.html:467
 msgid "Danil Myakin"
-msgstr ""
+msgstr "Danil Myakin"
 
 #: templates/team.html:477 templates/whitepaper/team.html:475
 msgid "Joseph Stewart"
-msgstr ""
+msgstr "Joseph Stewart"
 
 #: templates/team.html:485 templates/whitepaper/team.html:483
 msgid "Erkan Ciftci"
-msgstr ""
+msgstr "Erkan Çiftçi"
 
 #: templates/team.html:493 templates/whitepaper/team.html:491
 msgid "Stefano Terenzi"
-msgstr ""
+msgstr "Stefano Terenzi"
 
 #: templates/team.html:501 templates/whitepaper/team.html:499
 msgid "Zizen Chang"
-msgstr ""
+msgstr "Zizen Chang"
 
 #: templates/team.html:509 templates/whitepaper/team.html:507
 msgid "Lee Gwangmyeong"
-msgstr ""
+msgstr "Lee Gwangmyeong"
 
 #: templates/team.html:521
 msgid "Advisors"
@@ -2604,7 +2543,7 @@ msgstr "Topluluk"
 #: templates/team.html:598
 #, python-format
 msgid "100%% open-source."
-msgstr "%% 100 açık kaynak"
+msgstr "% 100 açık kaynak"
 
 #: templates/team.html:599
 msgid " contributors."
@@ -2627,11 +2566,9 @@ msgid "Interested in working at Origin?"
 msgstr "Origin'de çalışmakla ilgileniyor musunuz?"
 
 #: templates/team.html:640
-msgid ""
-"We are a distributed team and are hiring all around the\n"
+msgid "We are a distributed team and are hiring all around the\n"
 "            world."
-msgstr ""
-"Biz dağınık bir ekibiz ve\n"
+msgstr "Biz dağınık bir ekibiz ve\n"
 "            dünya çapında işe alıyoruz."
 
 #: templates/team.html:647
@@ -2732,11 +2669,11 @@ msgstr "Açıklanacak"
 
 #: templates/litepaper/conclusion.html:2 templates/litepaper/sidebar.html:38
 msgid "Conclusion"
-msgstr ""
+msgstr "Sonuç"
 
 #: templates/litepaper/conclusion.html:4
 msgid "With a renewed focus and mission to bring peer-to-peer commerce with NFTs and decentralized finance to the masses, we believe we are better positioned than ever before to unlock multiple billion dollar opportunities for the mainstream. While we are starting with users that already have basic understandings of cryptocurrency that already number in the millions, we will aggressively begin targeting mainstream users this year. In the next several years, our products will cross the chasm and our ambitions are to amass hundreds of millions of users using Origin products backed by our underlying protocols."
-msgstr ""
+msgstr "NFT'ler ve merkezi olmayan finans ile eşler arası ticareti kitlelere ulaştırmak için yenilenmiş bir misyon ile ana akım için milyar dolarlık fırsatların kilidini açmak için her zamankinden daha iyi konumlandığımıza inanıyoruz. Hali hazırda milyonlarca temel seviyede kripto para anlayışına sahip kullanıcılar varken bu yıl agresif bir şekilde ana akım kullanıcıları da hedeflemeye başlayacağız. Önümüzdeki birkaç yıl içinde ürünlerimizi bir adım öteye geçireceğiz ve amacımız, temel protokollerimizle desteklenen Origin ürünlerini kullanan yüz milyonlarca kullanıcıyı bir araya getirmektir."
 
 #: templates/litepaper/exec-summary.html:2 templates/litepaper/sidebar.html:6
 #: templates/whitepaper/exec-summary.html:11
@@ -2746,425 +2683,425 @@ msgstr "Yönetici Özeti"
 
 #: templates/litepaper/exec-summary.html:4
 msgid "Origin’s mission is to bring peer-to-peer commerce (NFTs) and decentralized finance (DeFi) to the masses."
-msgstr ""
+msgstr "Origin'in misyonu, eşler arası ticareti (NFT'ler) ve merkezi olmayan finansmanı (DeFi) kitlelere ulaştırmaktır."
 
 #: templates/litepaper/exec-summary.html:7
 msgid "After three years of building consumer-friendly products in the blockchain space, we’ve learned many valuable lessons."
-msgstr ""
+msgstr "Blockchain alanında üç yıl tüketici dostu ürünler geliştirerek bu anlamda birçok önemli ders aldık."
 
 #: templates/litepaper/exec-summary.html:10
 msgid "The first significant wave of users of decentralized commerce applications will be those seeking experiences or products they cannot get from centralized alternatives. Many of these early users will be crypto natives. The most prominent product category to emerge is the Non-Fungible Tokens (NFTs) vertical. NFTs do not merely represent digital collectibles but can create entirely new experiences for creators and communities."
-msgstr ""
+msgstr "Merkeziyetsiz ticaret uygulamalarının ilk önemli kullanıcıları, merkezi alternatiflerden elde edemedikleri deneyimleri ya da ürünleri arayanlar olacaktır. Bu erken kullanıcıların çoğu kripto para piyasasında hali hazırda var olanlar olacak. Ortaya çıkacak en önemli ürün kategorisi, Non-Fungible (Değiştirilemez) Token’lar (NFT'ler) alanıdır. NFT'ler yalnızca dijital koleksiyonları temsil etmez, aynı zamanda içerik oluşturucular ve topluluklar için tamamen yeni deneyimler yaratabilir."
 
 #: templates/litepaper/exec-summary.html:13
 msgid "NFTs can function as digital collectible. Further, they can be  tokenized representations of physical goods and collectibles, unlock other digital content, and act as access tokens to digital or in-person experiences. NFTs can be used for a wide array of financial applications and use cases. The design space for NFTs is nearly unlimited and represents an exciting paradigm shift for blockchain technology."
-msgstr ""
+msgstr "NFT'ler dijital koleksiyon işlevi görebilir. Dahası, fiziksel malların ve koleksiyon parçalarının simgeselleştirilmiş temsilleri olabilir, diğer dijital içeriğin kilidini açabilir ve dijital veya yüz yüze deneyimlere erişim token’ı işlevi görebilir. NFT'ler çok çeşitli finansal uygulamalar ve kullanım durumları için kullanılabilir. NFT'ler için tasarım alanı neredeyse sınırsızdır ve blockchain teknolojisi için heyecan verici bir paradigma değişikliğini temsil eder."
 
 #: templates/litepaper/exec-summary.html:16
 msgid "Decentralized Finance (DeFi) is the gateway to unlocking massive new financial opportunities for lenders, creditors, and liquidity providers. Over <a href='https://defipulse.com/' target='_blank' rel='noopener noreferrer'>$40B of value</a> is locked in DeFi protocols, and this number is expected to grow by multiple orders of magnitude in the next few years. However, we are still in the very early innings of the DeFi movement."
-msgstr ""
+msgstr "Merkezi Olmayan Finans (DeFi), borç verenler, alacaklılar ve likidite sağlayıcıları için büyük yeni finansal fırsatların kilidini açmanın kapısıdır. DeFi protokollerinde 40 milyar dolardan fazla değer kilitlendi ve bu sayının önümüzdeki birkaç yıl içinde artması bekleniyor. Ancak, hala DeFi hareketinin ilk aşamalarındayız."
 
 #: templates/litepaper/exec-summary.html:19
 msgid "Today most DeFi participants are highly sophisticated and number in the tens of thousands of users, while the majority of cryptocurrency users numbering in the millions have not yet adopted these technologies en masse. Interacting with DeFi protocols is difficult and cumbersome, requiring complicated operations like staking/unstaking, measuring impermanent loss, and paying expensive gas fees. Further, hundreds of millions to billions of mainstream consumers, merchants, retail investors, small businesses, and global enterprises have very little knowledge of these permissionless financial protocols and are unable to participate in perhaps the most disruptive movement in finance since the very invention of money itself."
-msgstr ""
+msgstr "Bugün çoğu DeFi katılımcısı son derece sofistike ve onbinlerce kullanıcıya sahipken, milyonlarca kripto para birimi kullanıcılarının çoğunluğu bu teknolojileri toplu olarak henüz benimsemedi. DeFi protokolleri ile etkileşim kurmak zor ve zahmetlidir, stake etme/unstaking, süreksiz kaybı ölçmek ve pahalı gas ücretleri ödemek gibi karmaşık işlemler gerektirir. Dahası, ana akım tüketici, tüccar, perakende yatırımcı, küçük işletme ve küresel işletme bu izinsiz finansal protokoller hakkında çok az bilgiye sahiptir ve belki de paranın icadından bu yana finans alanındaki en yıkıcı harekete bu nedenle katılamazlar."
 
 #: templates/litepaper/exec-summary.html:22
 msgid "While there are both buyers and sellers that transact across various verticals with stablecoins and/or Bitcoin and Ether, existing widespread payment methods like credit cards and mobile payments are still preferred by many crypto-savvy users for their ubiquity, convenience, and lack of pricing volatility. Peer-to-peer commerce is handicapped until cryptocurrencies become the dominant form of medium of exchange."
-msgstr ""
+msgstr "Stabil coin’ler ve/veya Bitcoin ve Ethereum ile çeşitli dikeylerde işlem yapan hem alıcılar hem de satıcılar olsa da, kredi kartları ve mobil ödemeler gibi mevcut yaygın ödeme yöntemleri, birçok kripto paraların yanında yer alan kullanıcılar tarafından hala her yerde bulunmaları, rahatlıkları ve fiyatlandırma volatilitesinin olmaması nedeniyle tercih edilmektedir. Eşler arası ticaretin önünde kripto para birimleri baskın değişim aracı haline gelene kadar hala engeller bulunmaktadır."
 
 #: templates/litepaper/exec-summary.html:25
 msgid "Simply creating a commerce platform using decentralized technologies does not guarantee widespread merchant and consumer adoption. Only by creating new killer applications that are not possible without crypto-centric technologies will our industry succeed in creating a more open, permissionless, and resilient future for global commerce and finance that impacts hundreds of millions or billions of lives."
-msgstr ""
+msgstr "Merkezi olmayan teknolojileri kullanarak bir ticaret platformu oluşturmak tüccarlar ve tüketiciler tarafından yaygın olarak benimsenecek bir eylemi garanti etmez. Sadece kripto para merkezli teknolojiler olmadan mümkün olmayan yeni uygulamalar yaratarak yüz milyonlarca veya milyarlarca yaşamı etkileyen küresel ticaret ve finans için daha açık, izinsiz ve esnek bir gelecek yaratılabilecektir."
 
 #: templates/litepaper/exec-summary.html:28
 msgid "The Origin Token (OGN) is the governance and value accrual token for the entire Origin Platform and suite of products. OGN token holders will be able to create and vote on proposals to govern the underlying protocol. OGN holders also directly benefit from the success of the Origin Platform and products built on top of it. Revenues generated accrue directly to OGN via several economic models which can be changed in the future through the governance process."
-msgstr ""
+msgstr "Origin Token (OGN), tüm Origin platformu ve ürün paketi için yönetişim ve değer tahakkuku sunan token’dır. OGN token sahipleri, temel protokolü yönetmek için teklifler oluşturabilir ve oy kullanabilirler. OGN sahipleri ayrıca Origin platformunun ve üzerine inşa edilen ürünlerin başarısından doğrudan yararlanırlar. Elde edilen gelirler, yönetim süreci boyunca gelecekte değiştirilebilecek çeşitli ekonomik modeller aracılığıyla doğrudan OGN'ye tahakkuk eder."
 
 #: templates/litepaper/intro.html:2 templates/litepaper/sidebar.html:11
 msgid "Introduction"
-msgstr ""
+msgstr "Giriş"
 
 #: templates/litepaper/intro.html:4
 msgid "We believe the convergence of peer-to-peer commerce, especially in the NFT vertical, and decentralized finance (DeFi) will unlock billions of dollars in value that we intend to capture as part of the Origin Platform and ecosystem."
-msgstr ""
+msgstr "Eşler arası ticaretin, özellikle NFT bağlamındaki yakınsamasının ve merkezi olmayan finansmanın (DeFi), Origin Platformunun ve ekosistemin bir parçası olarak elde etmek istediğimiz milyarlarca dolarlık değerin kilidini açacağına inanıyoruz."
 
 #: templates/litepaper/intro.html:6
 msgid "To get there, we will bring blockchain-enabled commerce and finance to the masses. We will continue to upgrade the Origin Commerce platform to enable new killer use cases that are only made possible by cryptocurrency technologies. To start, we will take advantage of non-fungible tokens (NFTs) to build new commerce experiences that cannot be replicated on incumbent platforms like Shopify, Amazon, or Alibaba."
-msgstr ""
+msgstr "Oraya ulaşmak için blockchain destekli ticareti ve finansmanı kitlelere ulaştırmayı hedefliyoruz. Yalnızca kripto para teknolojileri ile mümkün olan yeni kullanım durumlarını etkinleştirmek için Origin Commerce platformunu güncellemeye/yükseltmeye devam edeceğiz. Başlangıç ​​olarak, Shopify, Amazon veya Alibaba gibi yerleşik platformlarda çoğaltılamayan yeni ticaret deneyimleri oluşturmak için non-fungible token'lardan (NFT'ler) yararlanacağız."
 
 #: templates/litepaper/intro.html:8
 msgid "In 2020 alone, over $250M in NFTs changed hands, with most of that occurring late in the year. The rate of growth in NFT sales and trade volume and the rate of innovation in the space is exponential. Top brands like the NBA and MLB have already gotten involved and everyone from Andreessen Horowitz from the New York Times is investing in or commenting on NFTs. NFTs have the potential to disrupt the music industry ($70B+ a year), fine art sales ($60B+ a year), video games ($140B+ a year), the collectibles market ($370B+ a year), and many other industries. NFTs represent a massive disruptive opportunity that can touch virtually every aspect of global culture and commerce."
-msgstr ""
+msgstr "Sadece 2020'de, NFT'lerde 250 milyon doların üzerinde ticaret gerçekleşti ve bunların çoğu yılın sonlarındaydı. NFT satışları ve ticaret hacmindeki büyüme oranı ve alandaki yenilik oranı üsteldir. NBA ve MLB gibi en iyi markalar zaten buna dahil oldu ve New York Times’tan Andreessen Horowitz'den herkes NFT'lere yatırım yaptı ya da bu konuda açıklamalarda bulundu. NFT ile ilgilenenler hala bununla alakalı açıklama yapmaya devam ediyor. NFT'lerin müzik endüstrisini (yılda 70 milyar $ +), güzel sanat satışlarını (60 milyar $ + yıllık), video oyunlarını (140 milyar $ + yıllık), koleksiyon pazarını (yılda 370 milyar $ +) ve diğer birçok sektörü sekteye uğratma potansiyeli var. NFT'ler, küresel kültür ve ticaretin neredeyse her yönüne dokunabilen büyük bir yıkıcı fırsatı temsil eder."
 
 #: templates/litepaper/intro.html:9
 msgid "As of early 2021, NFTs have now overtaken DeFi on Google search trends and hold the kind of broad mainstream cultural appeal that other crypto verticals lack. This is a key factor that makes us believe NFTs will be the first product category that onboards mainstream users into crypto. The platform that is able to successfully onboard both creators and purchasers of NFTs will capture tremendous value. We intend to be that platform."
-msgstr ""
+msgstr "2021'in başından itibaren, NFT'ler Google arama trendlerinde DeFi'yi geride bıraktı ve diğer kripto para alanlarının eksik olduğu türden geniş ana kültürel çekiciliğe sahip hale geldi. Bu, NFT'lerin ana akım kripto para kullanıcılarının ilk ürün kategorisi olacağına inanmamızı sağlayan önemli bir faktör. NFT konusunda hem yaratıcıları hem de satın alım yapanları sürece başarılı bir şekilde dahil edebilen platform, muazzam bir değer yakalayacaktır. Biz de o platform olmayı planlıyoruz."
 
 #: templates/litepaper/intro.html:10
 #, python-format
 msgid "In addition, we will make it dead simple for mainstream consumers to participate in DeFi yield earning strategies. Investors and lenders should be earning yields at 10 to 100 times (10-20%%) at what is offered currently by traditional banking systems. Borrowers should have easier access to credit to finance their investments, businesses, and other enterprises. Further, this all needs to happen in frictionless and easy ways that are in stark contrast to the product experiences of today’s first-generation DeFi products."
-msgstr ""
+msgstr "Ek olarak, ana akım kullanıcıların DeFi üzerinden getiri sağlama stratejilerine katılmasını son derece basit hale getireceğiz. Yatırımcılar ve borç verenler, hali hazırda geleneksel bankacılık sistemleri tarafından sunulanların 10 ila 100 kat gibi (% 10-20) getiri elde etmelidir. Borçlular, yatırımlarını, işlerini ve diğer işletmeleri finanse etmek için krediye daha kolay erişebilmelidir. Dahası, tüm bunların, günümüzün birinci nesil DeFi ürünlerinin deneyimleriyle tam bir tezat oluşturan, sürtünmesiz ve kolay yollarla gerçekleşmesi gerekiyor."
 
 #: templates/litepaper/intro.html:11
 msgid "Similarly, we believe there needs to be more compelling reasons for consumers and merchants to use cryptocurrencies and blockchain technologies for billion and trillion-dollar sized commerce opportunities to exist. Peer-to-peer and consumer-to-merchant cryptocurrency transactions need to be made far simpler than they are today. We need to propagate cryptocurrency payment rails that are superior to existing credit/debit cards and mobile payments that rely on fiat currencies and centralized systems."
-msgstr ""
+msgstr "Benzer şekilde, tüketicilerin ve tüccarların milyar ve trilyon dolarlık ticaret fırsatlarına erişebilmeleri adına hem blockchain hem de kripto para birimlerinin kullanımı için daha ikna edici nedenlere sahip olması gerektiğine inanıyoruz. Eşler arası ve tüketiciden tüccara kripto para birimi işlemlerinin bugün olduğundan çok daha basit hale getirilmesi şart. Mevcut kredi / banka kartlarından ve fiat para birimlerine ve merkezi sistemlere dayanan mobil ödemelerden daha üstün olan kripto para birimi ödeme yöntemlerini yaymamız gerekiyor."
 
 #: templates/litepaper/intro.html:12
 msgid "To realize our ambitious vision, we will continue to develop and grow the <a href='https://ousd.com/' target='_blank' rel='noopener noreferrer'>Origin Dollar (OUSD)</a> as a critical DeFi building block and money lego that is highly composable. It will power multiple mainstream consumer and merchant applications in the near future. We anticipate millions of users to be using applications powered by OUSD in the next few years without necessarily even realizing they are using an underlying DeFi product."
-msgstr ""
+msgstr "İddialı vizyonumuzu hayata geçirmek için, kritik bir DeFi yapı taşı olarak Origin Dollar'ı (OUSD) geliştirmeye ve büyütmeye devam edeceğiz. Bu yakın gelecekte birden fazla ana tüketici ve tüccar uygulamalarına güç sağlayacaktır. Önümüzdeki birkaç yıl içinde milyonlarca kullanıcının temelde bir DeFi ürününü kullandıklarının farkına bile varmadan OUSD tarafından desteklenen uygulamaları kullanacağını tahmin ediyoruz."
 
 #: templates/litepaper/platform.html:2 templates/litepaper/platform.html:154
 #: templates/litepaper/sidebar.html:16
 msgid "Origin Commerce Platform"
-msgstr ""
+msgstr "Origin Ticaret Platformu"
 
 #: templates/litepaper/platform.html:4
 msgid "Throughout 2020, we built and iterated upon Origin’s flagship commerce platform, <a href='/dshop' target='_blank' rel='noopener noreferrer'>Dshop</a>. Dshop is a completely open-source alternative to Shopify, and all its core features are free to use. Today, we’ve had hundreds of merchants sign up to use Dshop, including dozens of name brand cryptocurrency companies such as Brave, Solana, and Kyber Network."
-msgstr ""
+msgstr "2020 boyunca, Origin’in önde gelen ticaret platformu Dshop'u geliştirdik. Dshop, Shopify'a tamamen açık kaynaklı bir alternatif ve tüm temel özelliklerinin kullanımı ise ücretsiz. Bugün, Brave, Solana ve Kyber Network gibi düzinelerce kripto para birimi şirketi de dahil olmak üzere Dshop'u kullanmak için kaydolan yüzlerce tüccarımız var."
 
 #: templates/litepaper/platform.html:6
 msgid "Further, we announced marquee partnerships with <a href='https://medium.com/google-cloud/origin-launches-decentralized-commerce-on-google-cloud-marketplace-b74fb46be7d9' target='_blank' rel='noopener noreferrer'>Google Cloud</a> and <a href='https://aws.amazon.com/blogs/awsmarketplace/launch-a-blockchain-powered-ecommerce-store-with-dshop-in-aws-marketplace/' target='_blank' rel='noopener noreferrer'>Amazon</a> to enable our merchant partners to launch completely decentralized storefronts on these iconic cloud computing platforms. We are working with both companies to promote Dshop to additional merchants with co-marketing initiatives. We are also working with the Google team to make Dshop’s blockchain commerce data more readily accessible in Google Data Studio."
-msgstr ""
+msgstr "Ayrıca, iş ortaklarımızın bu ikonik bulut bilişim platformlarında tamamen merkezi olmayan dükkanlar başlatmasını sağlamak için Google Cloud ve Amazon ile önemli ortaklıklar gerçekleştirdik. Dshop'u ortak pazarlama girişimleriyle satıcılara tanıtmak için her iki şirketle birlikte çalışıyoruz. Ayrıca, Dshop’un blockchain ticaret verilerini Google Data Studio'da daha kolay erişilebilir hale getirmek için Google ekibiyle birlikte çalışıyoruz."
 
 #: templates/litepaper/platform.html:7
 msgid "We’ve also made OUSD a supported payment option on all our Dshops to begin turning the flywheel for OUSD adoption by merchants."
-msgstr ""
+msgstr "Ayrıca, OUSD için çarkı döndürmeye başlamak ve benimsenmesini sağlamak için stablecoin'imizi tüm mağazalarımızda desteklenen bir ödeme seçeneği haline getirdik."
 
 #: templates/litepaper/platform.html:8
 msgid "While we continue to see increased usage of Dshop, we believe that introducing new killer use cases that are crypto-centric will rocket Dshop adoption to new heights."
-msgstr ""
+msgstr "Dshop'un kullanımının arttığını görmeye devam ederken, kripto para merkezli yeni kullanım alanlarının sunulmasının Dshop'un benimsenmesini yeni zirvelere taşıyacağına inanıyoruz."
 
 #: templates/litepaper/platform.html:9
 msgid "Our initial focus on creating features and tackling verticals that incumbents like Shopify and Woo Commerce cannot compete in will center on non-fungible tokens (NFTs). We believe NFTs are a nascent but highly disruptive technology that will bring our crypto-centric commerce products to millions, if not hundreds of millions, of users in the next few years. At the time of writing, Origin’s NFT Launchpad set an all-time record for gross sales in a single NFT drop at nearly $11.7M."
-msgstr ""
+msgstr "Shopify ve Woo Commerce gibi yerleşik şirketlerin rekabet edemeyeceği özellikler oluşturma ve bu alanları ele alma konusunda ilk odak noktamız, non-fungible token’lara (NFT'ler) odaklanmak olacak. NFT'lerin önümüzdeki birkaç yıl içinde milyonlarca kullanıcıya kripto para merkezli ticaret fırsatlarımızı getirecek yeni ve oldukça yıkıcı bir teknoloji olduğuna inanıyoruz. Bu yazının yazıldığı sırada, Origin’in NFT Launchpad'i, yaklaşık 11,7 milyon dolarlık tek bir NFT drop’unda brüt satışlar kapsamında tüm zamanların rekorunu kırdı."
 
 #: templates/litepaper/platform.html:10
 msgid "In January of 2021, NFTs accounted for a record <a href='https://decrypt.co/56998/crypto-art-sales-on-ethereum-reach-a-record-80-million' target='_blank' rel='noopener noreferrer'>$80M of transaction volume</a>. It is clear that NFT sales are growing at an exponential rate and represent the fastest growing opportunity for crypto-centric commerce."
-msgstr ""
+msgstr "2021 yılının Ocak ayında, NFT'ler 80 milyon dolarlık rekor bir işlem hacmi oluşturdu. NFT satışlarının katlanarak artması, kripto para merkezli ticaret için hızlı büyüyen bir fırsatı temsil ediyor."
 
 #: templates/litepaper/platform.html:12
 msgid "However, we believe that the majority of the market misconstrues NFTs as simply scarce digital art. At Origin, we believe NFTs are the crypto-centric building blocks that bridge fungible payment currencies like OUSD to multiple billion dollar opportunities."
-msgstr ""
+msgstr "Bununla birlikte, piyasanın çoğunluğunun NFT'leri sadece “sınırlı miktarda” dijital sanat olarak yanlış anladığına inanıyoruz. Origin'de, NFT'lerin OUSD gibi kripto para birimlerinin birden fazla milyar dolarlık fırsatlara köprü kurmasını sağlayan kripto merkezli yapı taşları olduğuna inanıyoruz."
 
 #: templates/litepaper/platform.html:13
 msgid "Origin’s NFT Launchpad will redefine commerce in several key verticals."
-msgstr ""
+msgstr "Origin’in NFT Launchpad'i ticareti birkaç temel sektörde yeniden tanımlayacak."
 
 #: templates/litepaper/platform.html:15
 msgid "NFTs that are redeemable for offline goods"
-msgstr ""
+msgstr "NFT'ler, çevrimdışı ürünler için paraya çevrilebilir"
 
 #: templates/litepaper/platform.html:16
 msgid "In May 2020, Grammy-winning DJ RAC released his $TAPE NFTs that were redeemable for physical cassette tapes. Little did he know that he would be setting the record for the final sale price of a single cassette tape, as $TAPE tokens redeemable for the cassette tapes eventually cleared $3,000 per token."
-msgstr ""
+msgstr "Mayıs 2020'de Grammy ödüllü DJ RAC, fiziksel kasetler için kullanılabilen $TAPE NFT'lerini piyasaya sürdü. Kasetler için paraya çevrilebilen $TAPE token’ları en sonunda token başına 3000 ABD doları değerine ulaştığında, tek bir kasetin nihai satış fiyatında rekor kıracağını pek bilmiyordu."
 
 #: templates/litepaper/platform.html:17
 msgid "This is just one example of how NFTs have changed the landscape for limited-edition premium products. NFTs that represent physical offline goods can be authenticated on the blockchain. Influencers, artists, creators, and other merchants can now issue NFTs that are both certifiably scarce and representative of valuable physical items."
-msgstr ""
+msgstr "Bu, NFT'lerin sınırlı sayıda premium ürünler için manzarayı nasıl değiştirdiğinin sadece tek bir örneği. Fiziksel çevrimdışı ürünleri temsil eden NFT'ler, blok zincirinde doğrulanabilir. Influencerlar, sanatçılar, yaratıcılar ve diğer tüccarlar artık hem sertifikalı olarak sınırlı olan hem de değerli fiziksel öğeleri temsil eden NFT'ler yayınlayabilirler."
 
 #: templates/litepaper/platform.html:18
 msgid "There is an enormous opportunity to use NFTs to power these creator communities. Because NFTs are freely exchangeable on the blockchain, they also inherently create an after-market for limited edition goods. "
-msgstr ""
+msgstr "İçerik oluşturucu topluluklarını güçlendirme amacıyla NFT'leri kullanmak için muazzam bir fırsat mevcut. NFT'ler blok zincirinde serbestçe takas edilebildikleri için, sınırlı sayıda üretilen ürünler için doğal olarak bir satış sonrası pazar yaratıyor. "
 
 #: templates/litepaper/platform.html:19
 msgid "One needs only to reference StockX, the premium sneaker marketplace that is currently valued at $2.8 B, to recognize the possibility of NFTs flourishing in many verticals where scarcity and authenticity need to be enforced. Today, the company generates $400M in revenue by taking fees to certify that premium sneakers are legitimate and not fraudulent. Using NFTs that are tied to these sneakers would establish a clear sense of provenance as sneakers are sold from my buyer to the next."
-msgstr ""
+msgstr "Sınırlı oluşun ve özgünlüğün zorunlu kılınması gereken birçok alanda NFT'lerin gelişmesi olasılığını tanımak için şu anda 2,8 milyar ABD doları değerinde olan birinci sınıf spor ayakkabı pazarı StockX'e bakmak yeterli olacaktır. Şirket bugün, premium spor ayakkabıların hileli olmadığını onaylamak için sertifika karşılığında ücret alarak 400 milyon dolar gelir elde ediyor. Bu spor ayakkabılara bağlı NFT'lerin kullanılması, spor ayakkabıların bir alıcıdan diğerine satılması halinde işe yarar bir durum oluşturacaktır."
 
 #: templates/litepaper/platform.html:20
 msgid "In another manifestation of using NFTs connected to offline products, the limited goods do not need to be redeemed. For example, a collector can purchase an NFT that entitles them with the rights to redeem that NFT for fine art, luxury handbags, or other products but can store that product with the original manufacturer. Redemption can happen at any point in the future. Again, because NFTs are exchangeable, collectors could invest in luxury items with the hopes of these items appreciating in value. However, they no longer need to take physical delivery and can simply sell the NFTs representing the items in an after market to profit from their investments."
-msgstr ""
+msgstr "Çevrimdışı ürünlere bağlı NFT kullanımının bir başka tezahüründe, sınırlı malların itfa edilmesine gerek yoktur. Örneğin, bir toplayıcı, kendisine güzel sanatlar, lüks el çantaları veya diğer ürünler için bu NFT'yi kullanma hakkı veren ancak bu ürünü orijinal üreticide saklayabilen bir NFT satın alabilir. İtfa, gelecekte herhangi bir noktada gerçekleşebilir. Yine, NFT'ler değiştirilebilir olduğu için koleksiyoncular, bu ürünlerin değer kazanması umuduyla lüks ürünlere yatırım yapabilirler. Ancak, artık fiziksel teslimat almalarına gerek yoktur ve yatırımlarından kar elde etmek için ürünleri temsil eden NFT'leri satabilirler."
 
 #: templates/litepaper/platform.html:21
 msgid "Taking this one model one step further, NFT-powered commerce can generate revenue even before products are developed or manufactured. In the web 2.0 world, we saw how crowdfunding platforms like Kickstarter and Gofundme were able to generate demand for creator projects. In the web 3.0, NFTs can be a better form to issue ownership of future redeemable products. Once again, because these NFTs are freely exchangeable they provide backers the ability to resell their ownership even before the projects are completed."
-msgstr ""
+msgstr "Bu modeli bir adım öteye götürerek, NFT destekli ticaret, ürünler geliştirilmeden veya üretilmeden önce bile gelir elde edilmesini sağlayabilir. Web 2.0 dünyasında, Kickstarter ve Gofundme gibi kitle fonlaması platformlarının içerik oluşturucu projeleri için nasıl talep yaratabildiğini gördük. Web 3.0'da, NFT'ler gelecekteki paraya çevrilebilir ürünlerin sahipliğini yayınlamak için daha iyi bir form olabilir. Bir kez daha, bu NFT'ler serbestçe takas edilebilir olduğundan, destekleyicilere projeler tamamlanmadan önce sahipliklerini yeniden satma olanağını sunar."
 
 #: templates/litepaper/platform.html:24
 msgid "NFTs that access digital content"
-msgstr ""
+msgstr "Dijital içeriğe erilen NFT'ler"
 
 #: templates/litepaper/platform.html:25
 msgid "We intend to release NFT features that also provide holders access to digital content and services. For example, content providers can replace paywall subscriptions with NFT ownership. Users that have purchased NFTs can unlock premium articles, unreleased music, premium video content, or special features in social and mobile games."
-msgstr ""
+msgstr "Sahiplerin dijital içeriğe ve hizmetlere erişimini sağlayan NFT özellikleri ortaya koymayı planlıyoruz. Örneğin, içerik sağlayıcılar ödeme aboneliklerini NFT sahipliği aracılığı ile değiştirebilir. NFT satın alan kullanıcılar, sosyal ve mobil oyunlarda premium makalelerin, yayınlanmamış müziğin, premium video içeriğinin veya farklı özelliklerin kilidini açabilir."
 
 #: templates/litepaper/platform.html:26
 msgid "Here are a few examples of how this might work. Today, Patreon influencers allow their super fans to access unique content through the platform. The company generates $50M of revenue and is currently valued at $1.2B. However, these subscriptions and individual payments are tied to unique users. In tomorrow’s world, creators can issue NFTs that unlock special video or music content instead."
-msgstr ""
+msgstr "İşte bunun nasıl çalışabileceğine dair birkaç örnek: Bugün, Patreon influencer’ları, hayranlarının platform aracılığıyla benzersiz içeriklere erişmesine izin veriyor. Şirket 50 milyon dolar gelir elde ediyor ve şu anda değeri 1,2 milyar dolar. Ancak, bu abonelikler ve bireysel ödemeler benzersiz kullanıcılara bağlı. Yarının dünyasında, içerik oluşturucular bunun yerine özel video veya müzik içeriğinin kilidini açan NFT'ler yayınlayabilirler."
 
 #: templates/litepaper/platform.html:28
 msgid "NFTs that are access tokens"
-msgstr ""
+msgstr "Erişim Token’ı Olan NFT'ler"
 
 #: templates/litepaper/platform.html:29
 msgid "A third opportunity that is a multi-billion dollar opportunity in NFT-powered commerce lies in experiential commerce. NFTs that are certifiable on the blockchain can guarantee authenticity of tickets for professional sports, concerts, and other live performances. This reduces the risk of fraudulent tickets and also maintains clear provenance of ticket resales."
-msgstr ""
+msgstr "NFT destekli ticarette multi-milyar dolarlık bir fırsat sunan üçüncü konu, deneyimsel ticarette yatmaktadır. Blockchain üzerinde sertifikalandırılabilen NFT'ler, profesyonel sporlar, konserler ve diğer canlı performanslar için biletlerin gerçekliğini garanti edebilir. Bu, sahte bilet riskini azaltır ve ayrıca bilet yeniden satışlarının kaynağını korur."
 
 #: templates/litepaper/platform.html:30
 msgid "Going back to the Patreon example, a creator NFT may enable a user to get a 1-on-1 video chat with their favorite celebrity. Another user can purchase a premium NFT that grants them backstage access to their favorite musicians concerts for life."
-msgstr ""
+msgstr "Patreon örneğine dönecek olursak, bir içerik oluşturucu NFT, bir kullanıcının en sevdiği ünlüyle bire bir görüntülü sohbet etmesini sağlayabilir. Başka bir kullanıcı, en sevdiği müzisyen konserlerine ömür boyu kulis erişimi sağlayan premium bir NFT satın alabilir."
 
 #: templates/litepaper/platform.html:33 templates/litepaper/sidebar.html:19
 msgid "Dshop NFT Launchpad"
-msgstr ""
+msgstr "Dshop NFT Launchpad'i"
 
 #: templates/litepaper/platform.html:34
 msgid "The key to unlocking value in all of these crypto-centric opportunities with NFTs is making NFT issuance dead simple for creators. In addition, in contrast to existing players in the market like Nifty Gateway, we believe the creators should own the branding and have direct control over pricing models (e.g. different auction mechanics or tiered pricing). The Dshop NFT Launchpad gives creators and influencers more direct control over their content and their physical, digital, and experiential products. Just as many merchants have chosen Shopify over selling on generic marketplaces that do not allow for custom branding and direct relationships to end customers, we believe the same model will be successful for NFTs."
-msgstr ""
+msgstr "Tüm bu kripto para merkezli fırsatlarda değeri ortaya çıkarmanın anahtarı, NFT yayınlamayı içerik oluşturucular için son derece basit hale getirmekten geçiyor. Buna ek olarak, piyasadaki Nifty Gateway gibi mevcut oyuncuların aksine, yaratıcıların markaya sahip olması ve fiyatlandırma modelleri üzerinde doğrudan kontrol sahibi olması gerektiğine inanıyoruz (örneğin farklı açık artırma mekanizmaları veya kademeli fiyatlandırma). Dshop NFT Launchpad, içerik oluşturuculara ve infleuncer’lara içerikleri, fiziksel, dijital ve deneyimsel ürünleri üzerinde daha doğrudan kontrol sağlar. Birçok tüccarın, özel markalaşmaya ve son müşterilerle doğrudan ilişkilere izin vermeyen genel pazarlarda satış yapmak yerine Shopify'ı seçmesi gibi, aynı modelin NFT'ler için de başarılı olacağına inanıyoruz."
 
 #: templates/litepaper/platform.html:35
 msgid "All three aforementioned NFT-powered commerce opportunities are already supported by our platform. These use cases were highlighted in our recent NFT successful Dshop NFT Launchpad collaboration with world-famous DJ and crypto-currency influencer 3LAU who is ranked #93 on CoinTelegraph’s list of most influential people in cryptocurrency in 2020. Almost $11.7M of gross sales were generated using Origin’s commerce platform in our inaugural campaign, a sum that smashed the previous record for a single NFT collection. Coverage of this record breaking event reached mainstream media outlets like the <a href='https://www.nytimes.com/2021/02/22/business/nft-nba-top-shot-crypto.html' target='_blank' rel='noopener noreferrer'>New York Times</a> and <a href='https://www.forbes.com/sites/abrambrown/2021/03/03/3lau-nft-nonfungible-tokens-justin-blau/?sh=17043b94643b' target='_blank' rel='noopener noreferrer'>Forbes</a>."
-msgstr ""
+msgstr "Yukarıda bahsedilen NFT destekli ticaret fırsatlarının üçü de platformumuz tarafından zaten destekleniyor. Bu kullanım durumları, 2020'de CoinTelegraph'ın kripto para birimindeki en etkili kişiler listesinde 93. sırada yer alan dünyaca ünlü DJ ve kripto para birimi savuncusu 3LAU ile yakın zamanda gerçekleştirilen başarılı Dshop NFT Launchpad işbirliğimizde vurgulandı. Neredeyse 11,7 milyon dolarlık brüt satış elde edildi. Bu ilk kampanyamızda Origin'in ticaret platformunu kullanılarak, tek bir NFT koleksiyonu için önceki rekoru kıran bir meblağ. Bu rekor kıran etkinliğin kapsamı, New York Times ve Forbes gibi ana akım medya kuruluşlarına kadar ulaştı."
 
 #: templates/litepaper/platform.html:36
 msgid "Similarly, with Origin’s ever-deepening relationship with Brave, we enabled them to sell their NFTs on their existing Dshop. Their entire first collection sold out in minutes. We anticipate additional NFT-centric commerce opportunities with the exponentially growing browser company that already boasts 20M monthly active users (MAU)."
-msgstr ""
+msgstr "Benzer şekilde, Origin’in Brave ile giderek derinleşen ilişkisi sayesinde, NFT’lerini mevcut Dshop’larında satmalarını sağladık. İlk koleksiyonların tamamı dakikalar içinde tükendi. Hali hazırda aylık 20 milyon aktif kullanıcıyla (MAU) övünen katlanarak büyüyen tarayıcı şirketiyle ek NFT merkezli ticaret fırsatları bakıyoruz."
 
 #: templates/litepaper/platform.html:37
 msgid "In the near future, we intend to form additional partnerships with additional mainstream influencers and iconic brands to power their NFT commerce initiatives. We believe there is a huge untapped market for monetizing premium, limited-edition online and offline goods and services through our latest NFT product upgrades to the Origin Platform."
-msgstr ""
+msgstr "Yakın gelecekte, NFT ticaret girişimlerini güçlendirmek için ek ana akım influencer'lar ve ikonik markalarla ortaklıklar kurmayı planlıyoruz. Origin Platformundaki en son NFT ürün güncellemelerimiz aracılığıyla premium, sınırlı sayıda çevrimiçi ve çevrimdışı ürün ve hizmetlerden para kazanmak için kullanılmayan dev bir pazarın bulunduğuna inanıyoruz."
 
 #: templates/litepaper/platform.html:41 templates/litepaper/sidebar.html:22
 msgid "NFT Marketplace"
-msgstr ""
+msgstr "NFT Pazaryeri"
 
 #: templates/litepaper/platform.html:42
 msgid "Secondary market sales are vital for true price discovery of NFTs and the maturation of this nascent market. We intend to build a marketplace platform for secondary market sales of all NFTs launched on the [Origin NFT Auction Platform] as well NFTs from other platforms and marketplaces. The Origin team already has over 4 years of experience building peer-to-peer marketplace technology and we are the leaders in this field. The Origin Marketplace protocol was launched on Ethereum mainnet in 2018 and supported tens of thousands of users and listings for a variety of goods and services. Origin fully intends on being the NFT marketplace leader and capturing NFT sales from our partner creators as well as creators who launch independently or with another platform."
-msgstr ""
+msgstr "İkincil pazar satışları, NFT'lerin gerçek fiyat keşfi ve bu gelişmekte olan pazarın olgunlaşması için hayati öneme sahiptir. Origin NFT Açık Artırma Platformu’nda başlatılan tüm NFT'lerin ve diğer platformlardan ve pazar yerlerinden gelen NFT'lerin ikincil pazar satışları için bir pazar platformu oluşturmayı planlıyoruz. Origin ekibi, eşler arası pazar teknolojisi oluşturma konusunda 4 yıldan fazla deneyime sahip ve bu alanda lideriz. Origin Pazaryeri protokolü, 2018'de Ethereum ana ağında başlatıldı ve çeşitli mal ve hizmetler için on binlerce kullanıcıyı ve listelemeyi destekledi. Origin, tamamen NFT pazarında lideri olmayı ve ortak yaratıcılarımızın yanı sıra bağımsız olarak veya başka bir platformla başlayan içerik oluşturucuların NFT satışlarını elde etmeyi amaçlamaktadır."
 
 #: templates/litepaper/platform.html:43
 msgid "NFTs being based on a common set of decentralized technology standards makes building a marketplace that can serve the entire NFT ecosystem possible. Any moats deployed by other NFT marketplace operators will be quickly rendered ineffective as they are against the spirit of decentralization. Another important aspect to our platform is that these secondary marketplaces can be run and curated by the NFT creators themselves. Gallerists and artists have always cared deeply about presentation and curation as it can have a strong impact on the price of their assets. Letting creators control every aspect of their NFT from creation to secondary market sale is a key differentiator to Origin’s NFT platform over more generic NFT marketplaces. Fans of specific creators and artists will also appreciate going direct to the source instead of browsing through unrelated listings on a generalized marketplace."
-msgstr ""
+msgstr "NFT'lerin ortak bir merkezi olmayan teknoloji standartlarına dayalı olması, tüm NFT ekosistemine hizmet verebilecek bir pazar yeri oluşturmayı mümkün kılar. Diğer NFT pazar yeri operatörleri tarafından yerleştirilen alanlar, ademi merkeziyetçilik ruhuna aykırı oldukları için hızla etkisiz hale gelecektir. Platformumuzun bir diğer önemli yönü, bu ikincil pazarların NFT yaratıcılarının kendileri tarafından işletilebilmesi ve küratörlüğünün yapılabilmesidir. Galeri sahipleri ve sanatçılar, varlıklarının fiyatı üzerinde güçlü bir etkiye sahip olabileceği için sunum ve küratörlüğü her zaman çok önemsemiştir. İçerik oluşturucuların, NFT'lerinin her yönünü -yaratma anından ikincil pazar satışına kadar- kontrol etmelerine izin vermek, daha genel NFT pazarları üzerinden Origin’in NFT platformunu önemli ölçüde farklılaştırıyor. Belirli içerik oluşturucuların ve sanatçıların hayranları, genelleştirilmiş bir pazardaki alakasız listelere göz atmak yerine doğrudan kaynağa gitmeyi tercih edecek ve bundan memnun kalacaktır."
 
 #: templates/litepaper/platform.html:44
 msgid "Another reason creators should be excited about custom NFT marketplaces is that it allows them to better monetize their creations over a longer period of time. Artists will experience increased value capture from programmatic transaction fees attached to NFTs they create. This means that any secondary market sales will generate revenue for NFT creators in perpetuity. Previously, musical artists would only capture a small portion of this value through royalties and fine artists would capture no value from secondary sales."
-msgstr ""
+msgstr "İçerik oluşturucuların özel NFT pazarları konusunda heyecanlanmasının bir başka nedeni de, eserlerinden daha uzun süre para kazanmalarına olanak sağlamasıdır. Sanatçılar, oluşturdukları NFT'lere eklenen programlı işlem ücretlerinden daha fazla kazanç elde etme deneyimini yaşayacak. Bu, herhangi bir ikincil piyasa satışının NFT yaratıcıları için ebediyen gelir sunacağı anlamına gelir. Daha önce, müzisyenler bu değerin yalnızca küçük bir bölümünü telif hakları yoluyla alabiliyordu ve bazı sanatçılar ikincil satışlardan hiçbir değer elde edemiyordu."
 
 #: templates/litepaper/platform.html:45
 msgid "Not only are secondary market sales important for price discovery, transaction fees from these sales will be one of the key revenue drivers for the [Origin NFT product] in the future. Far more volume is done on the secondary market than during initial sales and we expect record-breaking trades in the future. Origin intends to build a fully-featured NFT platform and ecosystem. We will develop the best end-to-end NFT platform in the space and capture massive value for our users, NFT creator partners, and our token holders."
-msgstr ""
+msgstr "İkincil piyasa satışları fiyat keşfi için önemli olmakla kalmaz,  aynı zamanda bu satışlardan elde edilen işlem ücretleri de gelecekte (Origin NFT ürünleri için) önemli gelir faktörlerinden biri olacaktır. İkincil piyasada ilk satışlara göre çok daha fazla hacim gerçekleşiyor ve gelecekte rekor kıran işlemlerin olmasını bekliyoruz. Origin, tam özellikli bir NFT platformu ve ekosistemi oluşturmayı amaçlıyor. Evrendeki en iyi uçtan uca NFT platformunu geliştirecek ve kullanıcılarımız, NFT oluşturucu ortaklarımız ve token sahiplerimiz için büyük değer elde edeceğiz."
 
 #: templates/litepaper/platform.html:49 templates/litepaper/sidebar.html:25
 msgid "The Origin Dollar (OUSD)"
-msgstr ""
+msgstr "Origin Dollar (OUSD)"
 
 #: templates/litepaper/platform.html:50
 msgid "In 1999, Yu Pan, one of PayPal’s original co-founders conceived of creating “the new world currency”, complete with interest yielding strategies and debit cards without having to connect to traditional banking systems. Several pivots and an eBay acquisition later, PayPal dropped its ambitions in this area."
-msgstr ""
+msgstr "1999'da, PayPal'ın orijinal kurucularından biri olan Yu Pan, geleneksel bankacılık sistemlerine bağlanmak zorunda kalmadan faiz getirici stratejiler ve banka kartlarıyla tamamlanan \"yeni dünya para birimini\" yaratmayı tasarladı. Birkaç hareketten ve daha sonra bir eBay satın alımından sonra PayPal bu alandaki hedeflerinden vazgeçti."
 
 #: templates/litepaper/platform.html:51
 msgid "Two decades later, Yu Pan, Origin’s founding engineer, and the rest of the Origin team have finally launched this new world currency."
-msgstr ""
+msgstr "Yirmi yıl sonra, Origin’in kurucu mühendisi Yu Pan ve Origin ekibinin geri kalan üyeleri nihayet bu yeni dünya para birimini piyasaya sürdü."
 
 #: templates/litepaper/platform.html:52
 #, python-format
 msgid "The Origin Dollar is the first cryptocurrency stablecoin that automatically and passively earns yield while sitting in cryptocurrency wallets. Users do not need to stake/unstake or provide liquidity to earn yields across underlying DeFi protocols. While past performance does not guarantee future results, to date OUSD has generated annualized yields between 20%% and 150%% at any given time."
-msgstr ""
+msgstr "Origin Dollar, kripto para cüzdanlarında dururken otomatik ve pasif olarak getiri sağlayan ilk stablecoin kripto para birimidir. Kullanıcıların, temel DeFi protokolleri üzerinden getiri elde etmek için stake/unstake yapmasına ya da likidite sağlamasına gerek yoktur. Geçmiş performans gelecekteki sonuçları garanti etmese de, bugüne kadar OUSD herhangi bir zamanda %20 ile %150 arasında yıllıklandırılmış getiri üretmiştir."
 
 #: templates/litepaper/platform.html:53
 msgid "OUSD is a superior DeFi product for the masses. By removing all the complexities normally associated with earning fees through lending or supplying liquidity to automated market makers (AMMs), OUSD is highly accessible to users who are new to cryptocurrency technologies. Today, users need only to purchase OUSD on centralized exchanges or decentralized swap sites like Uniswap/Sushiswap to begin earning yield at staggering rates immediately. Alternatively, users can mint OUSD with their existing stablecoins (DAI, USDT, USDC currently) on the <a href='https://www.ousd.com' target='_blank' rel='noopener noreferrer'>OUSD DApp</a>."
-msgstr ""
+msgstr "OUSD, kitleler için üretilmiş üstün bir DeFi ürünüdür. Otomatik piyasa yapıcılarına (AMM'ler) borç vererek veya likidite sağlayarak normalde ücret kazanma ile ilişkili tüm karmaşıklıkları ortadan kaldırır. Ayrıca kripto para birimi teknolojilerinde yeni olan kullanıcılar için oldukça erişilebilir bir durumdadır. Günümüzde, kullanıcıların hemen şaşırtıcı oranlarda getiri elde etmeye başlamak için merkezi borsalarda veya Uniswap/Sushiswap gibi merkeziyersiz borsalarda OUSD satın almaları yeterlidir. Alternatif olarak, kullanıcılar OUSD DApp üzerindeki mevcut stablecoin'leriyle (DAI, USDT, USDC şu anda) OUSD basabilir."
 
 #: templates/litepaper/platform.html:54
 msgid "Current APYs and circulating supply are published transparently on the <a href='https://analytics.ousd.com' target='_blank' rel='noopener noreferrer'>OUSD dashboard</a>. "
-msgstr ""
+msgstr "Mevcut APY'ler ve dolaşımdaki arz, OUSD gösterge panosunda şeffaf bir şekilde yayınlanır. "
 
 #: templates/litepaper/platform.html:55
 msgid "With OUSD, there’s no need to unwind complicated positions when you want to spend your OUSD. You can transfer it freely without having to pay gas to unlock spendable capital. In addition, OUSD gives you access to compelling opportunities across DeFi with none of the hassles. The OUSD smart contracts deploy your underlying capital to a diversified set of yield-earning strategies, rebalancing over time to achieve strong yields while diversifying risk. Earnings automatically accrue in your wallet and compound continuously while you hold OUSD. Again, no staking or lockups are required, making your OUSD as easy to transfer as any other ERC-20 token. OUSD also serves as an ideal unit of account. DeFi investors no longer need complicated spreadsheets to calculate their earnings as they can easily see their constantly updated OUSD balances in real-time."
-msgstr ""
+msgstr "OUSD'nizi harcamak istediğinizde karmaşık işlemleri/basamakları çözmenize gerek yoktur. Harcanabilir sermayenin kilidini açmak için gas ödemek zorunda kalmadan özgürce transfer yapabilirsiniz. Ek olarak, OUSD, hiçbir güçlük çekmeden, DeFi genelinde cazip fırsatlara erişmenizi sağlar. OUSD akıllı sözleşmeleri, temel sermayenizi çeşitlendirilmiş bir getiri kazanma stratejileri kümesine yerleştirir ve riski çeşitlendirirken güçlü getiriler elde etmek için zaman içinde yeniden dengelenir. Kazançlar otomatik olarak cüzdanınızda birikir ve OUSD'yi tuttuğunuz sürece sürekli olarak birleşir. Yine, stake etme veya kilit gerekmez, bu da OUSD'nizin transferini diğer ERC-20 token'ları kadar basit bir hale getirir. OUSD ayrıca ideal bir hesap birimi olarak hizmet eder. DeFi yatırımcıları, sürekli güncellenen OUSD bakiyelerini gerçek zamanlı olarak kolayca görebildikleri için, kazançlarını hesaplamak için artık karmaşık elektronik tablolara ihtiyaç duymaz."
 
 #: templates/litepaper/platform.html:57
 msgid "Yield strategies"
-msgstr ""
+msgstr "Yield (Getiri) Stratejileri"
 
 #: templates/litepaper/platform.html:58
 msgid "OUSD uses two high-level strategies for generating yield--lending and market making."
-msgstr ""
+msgstr "OUSD, getiri elde etmek için iki üst düzey strateji kullanır: Borç verme ve piyasa oluşturma."
 
 #: templates/litepaper/platform.html:60
 msgid "Lending:"
-msgstr ""
+msgstr "Lending (Borç verme):"
 
 #: templates/litepaper/platform.html:61
 msgid "DeFi lending platforms let users lend and borrow crypto assets without any middlemen. Both lenders and borrowers get more value from their crypto. Lenders earn interest, while borrowers deposit crypto as collateral to gain access to credit without traditional banking headaches. DeFi lending platforms currently provide far superior returns for lenders than are generally available in the traditional markets."
-msgstr ""
+msgstr "DeFi borç verme platformları, kullanıcıların herhangi bir aracı olmadan kripto para birimilerini ödünç vermesine ve ödünç almasına izin verir. Hem borç verenler hem de borç alanlar kripto para birimlerinden daha fazla kazanç elde eder. Borç verenler faiz kazanırken, borç alanlar geleneksel bankacılık sorunları olmadan kredi alabilmek için teminat olarak kripto para yatırır. DeFi borç verme platformları şu anda kredi verenler için geleneksel piyasalarda genel olarak bulunandan çok daha üstün getiri sağlamaktadır."
 
 #: templates/litepaper/platform.html:62
 msgid "OUSD integrates with DeFi lending platforms that provide over-collateralized loans. Over-collateralization, combined with smart rules around liquidations, provide a reasonable level of security for lenders. Aave also additionally secures their lending pools with AAVE tokens respectively, further lowering risk."
-msgstr ""
+msgstr "OUSD, aşırı teminatlı krediler sağlayan DeFi kredi platformlarıyla entegre olur. Tasfiyelerle ilgili akıllı kurallarla birlikte aşırı teminatlandırma, borç verenler için makul bir güvenlik seviyesi sağlar. Aave ayrıca, kredi havuzlarını sırasıyla AAVE token'ları ile güvence altına alarak riski daha da düşük seviyeye getirir."
 
 #: templates/litepaper/platform.html:63
 msgid "OUSD integrates with leading lending providers that have a proven track record, audited smart contracts, and have successfully lent hundreds of millions of dollars without issue. We are currently integrated with Compound and Aave."
-msgstr ""
+msgstr "OUSD, onaylanmış bir sicile sahip, akıllı sözleşmeleri denetleyen ve sorunsuz bir şekilde yüz milyonlarca doları başarıyla borç veren önde gelen kredi sağlayıcılarıyla entegre olabilir. OUSD ile şu anda Compound ve Aave ile entegre haldeyiz."
 
 #: templates/litepaper/platform.html:65
 msgid "Market making:"
-msgstr ""
+msgstr "Piyasa oluşturma:"
 
 #: templates/litepaper/platform.html:66
 msgid "Automated market makers (AMMs) have quickly risen as the preferred form of decentralized exchange on the Ethereum network. This is in part due to the difficulty of supporting order book DEXes on Ethereum 1.0 that can rival the instant and low-slippage experiences on centralized exchanges. Further, AMMs like Uniswap are relatively user-friendly and gas-efficient to use."
-msgstr ""
+msgstr "Otomatik piyasa yapıcılar (AMM'ler), Ethereum ağında tercih edilen merkezi olmayan takas biçimi olarak hızla yükseldi. Bu kısmen, merkezi borsalardaki anlık ve düşük kayma (slippage) deneyimlerine rakip olabilecek Ethereum 1.0'daki sipariş defteri DEX'leri desteklemenin zorluğundan kaynaklanıyor. Ayrıca, Uniswap gibi AMM'ler nispeten kullanıcı dostudur ve kullanımları sırasında gas ödemeyi gerektirir."
 
 #: templates/litepaper/platform.html:67
 #, python-format
 msgid "AMMs can only enable new markets when liquidity providers supply liquidity (e.g. multiple tokens for given trading pairs or pools). In return for providing liquidity, liquidity providers are rewarded with trading fees when other users swap tokens. For example, when traders swap USDT for USDC on Uniswap, they are currently charged 0.3%% on top of gas fees. These fees are distributed pro-rata to liquidity providers on the USDT-USDC pair based on the percentage of total liquidity that they have provided."
-msgstr ""
+msgstr "AMM'ler, yalnızca likidite sağlayıcıları likidite sağladığında yeni pazarları etkinleştirebilir (örneğin, belirli ticaret çiftleri veya havuzlar için birden fazla token). Likidite sağlama karşılığında, likidite sağlayıcıları, diğer kullanıcılar token takas ettiğinde alım satım ücretleri ile ödüllendirilir. Örneğin, trader'lar Uniswap'ta USDT'yi USDC ile değiştirdiklerinde, şu anda gas ücretleri üzerinden %0,3 ücret alıyor. Bu ücretler, sağladıkları toplam likidite yüzdesine göre USDT-USDC çifti üzerindeki likidite sağlayıcılarına orantılı olarak dağıtılır."
 
 #: templates/litepaper/platform.html:68
 msgid "The OUSD protocol routes USDT, USDC, and DAI to highly-performing liquidity pools as determined by trading volume and rewards tokens (e.g. Balancer rewards BAL tokens to liquidity providers). Yields are then passed on to OUSD holders. We are currently integrated with Curve and plan on integrating with Uniswap, Sushiswap, and Balancer in the near future."
-msgstr ""
+msgstr "OUSD protokolü, USDT, USDC ve DAI'yi işlem hacmi ve ödül token’larına göre belirlenen yüksek performanslı likidite havuzlarına yönlendirir (örneğin, Balancer BAL token’larını likidite sağlayıcılarına ödüllendirir). Daha sonra getiriler OUSD sahiplerine aktarılır. Şu anda Curve ile entegre durumdayız ve yakın gelecekte Uniswap, Sushiswap ve Balancer ile entegre olmayı planlıyoruz."
 
 #: templates/litepaper/platform.html:69
 msgid "In addition to collecting interest from lending and fees from market making, we intend to automatically claim and convert the bonus incentives that are being distributed by many of the DeFi protocols. For example, Compound gives away COMP tokens, Balancer gives away BAL tokens, and Curve gives away CRV tokens. These bonus rewards will be regularly converted into stablecoins, deployed in the market, and distributed to OUSD holders in the form of additional yield."
-msgstr ""
+msgstr "Borç verme faizinden ve piyasa yapıcı eylemlerden ücret toplamaya ek olarak, birçok DeFi protokolü tarafından dağıtılan bonus teşviklerini otomatik olarak talep etmeyi ve dönüştürmeyi planlıyoruz. Örneğin, Compound COMP token'ları verir, Balancer BAL token'ları verir ve Curve CRV token'ları dağıtır. Bu bonus ödüller düzenli olarak stabilcoin'lere dönüştürülecek, piyasada konuşlandırılacak ve OUSD sahiplerine ek getiri şeklinde dağıtılacaktır."
 
 #: templates/litepaper/platform.html:70
 msgid "OUSD is able to generate higher yields than competing protocols due to a combination of important design decisions that amplify the rewards that are returned to OUSD holders:"
-msgstr ""
+msgstr "OUSD, OUSD sahiplerine iade edilen ödülleri artıran önemli tasarım kararlarının bir kombinasyonu nedeniyle rakip protokollerden daha yüksek getiri sağlayabilir:"
 
 #: templates/litepaper/platform.html:72
 msgid "Exit fees are returned to the pool, rewarding long term holders"
-msgstr ""
+msgstr "Çıkış ücretleri havuza iade edilir bu sayede uzun vadeli sahipler ödüllendirilir"
 
 #: templates/litepaper/platform.html:73
 msgid "Price oracles favor the collective over the individual, again rewarding long term holders"
-msgstr ""
+msgstr "Fiyat oracle'ları, kolektifi bireyi tercih eder ve yine uzun vadeli sahiplerini ödüllendirir"
 
 #: templates/litepaper/platform.html:74
 msgid "Smart contracts must manually opt-in to earn yield. This allows the protocol to put more capital to work than would be otherwise possible."
-msgstr ""
+msgstr "Akıllı sözleşmelerin getiri elde etmek için manuel olarak kaydolması gerekir. Bu, protokolün işe yarayacak şekilde başka türlü mümkün olandan daha fazla sermaye koymasına izin verir."
 
 #: templates/litepaper/platform.html:75
 msgid "Smart strategies balance risk and reward more effectively than deploying capital in any single underlying strategy."
-msgstr ""
+msgstr "Akıllı stratejiler, riskleri dengeler ve herhangi bir temel stratejide sermayeyi kullanmaktan daha etkili bir şekilde ödüllendirir."
 
 #: templates/litepaper/platform.html:78
 msgid "Readers can learn more about the technical details of OUSD on our <a href='https://docs.ousd.com' target='_blank' rel='noopener noreferrer'>documentation</a>."
-msgstr ""
+msgstr "Okuyucular, belgelerimiz üzerinden OUSD'nin teknik ayrıntıları hakkında daha fazla bilgi edinebilir."
 
 #: templates/litepaper/platform.html:80
 msgid "Benefits of OUSD"
-msgstr ""
+msgstr "OUSD'nin Faydaları"
 
 #: templates/litepaper/platform.html:81
 msgid "Mainstream cryptocurrency users now have the equivalent of a high-yield savings account automatically built into their Ethereum wallets whenever they are holding OUSD. This increases DeFi’s addressable user base from tens to hundreds of thousands of sophisticated users to tens of millions of users instantly. By comparison, Uniswap, the most widely used DeFi product to date has only interacted with approximately 250k Ethereum wallets since its inception."
-msgstr ""
+msgstr "Ana akım kripto para birimi kullanıcıları artık OUSD tutarken Ethereum cüzdanlarına otomatik olarak yerleştirilmiş yüksek getirili bir tasarruf hesabına eşdeğer durumdadır. Bu, DeFi’ın adreslenebilir kullanıcı tabanını yüz binlerce sofistike kullanıcı ile on milyonlarca kullanıcıya anında yükseltir. Buna karşılık, bugüne kadar en yaygın kullanılan DeFi ürünü olan Uniswap, başlangıcından bu yana yalnızca yaklaşık 250 bin Ethereum cüzdanıyla etkileşime girmiştir."
 
 #: templates/litepaper/platform.html:82
 #, python-format
 msgid "Because OUSD makes it easy for consumers to switch between spending and savings mode, it can also become the ideal medium of exchange. Today, many merchants other than those dealing in black or grey markets do not have many incentives to accept cryptocurrencies. Because most consumers currently use credit cards and mobile payments, merchants are forced to accept payments predominantly with these methods. In the process, they are often charged a 2.90%% credit card processing fee, with other payment intermediaries (e.g. merchant bankers and interchange networks) also increasing the cost of doing business. "
-msgstr ""
+msgstr "OUSD, tüketicilerin harcama ve tasarruf modu arasında geçiş yapmasını kolaylaştırdığından, aynı zamanda ideal bir takas aracı haline gelebilir. Bugün, siyah veya gri borsalarda işlem yapanlar dışındaki birçok tüccarın kripto para birimlerini kabul etmek için pek fazla teşviki yok. Çoğu tüketici şu anda kredi kartı ve mobil ödeme kullandığından satıcılar ağırlıklı olarak bu yöntemlerle ödemeleri kabul etmek zorunda kalıyor. Bu süreçte, diğer ödeme aracıları (örneğin bankacılar ve değişim ağları) ile iş yapma maliyetini de artıran bu süreçte, genellikle %2,90 kredi kartı işlem ücreti alınıyor. "
 
 #: templates/litepaper/platform.html:83
 #, python-format
 msgid "For merchants that have traditionally been skeptical of receiving cryptocurrency payments, being able to accept a yield-bearing stablecoin that beats traditional savings accounts and instantly earns yields at a minimum of 20%% APY is a powerful motivator. Instead of losing money on each sale, they are instantly adding capital to their merchant accounts that compounds instantly, giving them more operating capital over time. For merchants that oftentimes face cash flow management and inventory issues, being able to accept a yield-bearing form of payment is extremely compelling."
-msgstr ""
+msgstr "Geleneksel olarak kripto para birimi ödemeleri alma konusunda şüpheci olan tüccarlar için, geleneksel tasarruf hesaplarını geride bırakan ve minimum %20 APY ile anında getiri sağlayan bir stablecoin kabul edebilmek güçlü bir motivasyon kaynağıdır. Her satışta para kaybetmek yerine, birleşen tüccar hesaplarına anında sermaye ekliyorlar ve bu da onlara zamanla daha fazla işletme sermayesi sağlıyor. Çoğu zaman nakit akışı yönetimi ve envanter sorunlarıyla karşılaşan tüccarlar için getiri sunan bir ödeme şeklini kabul edebilmek son derece zorlayıcıdır."
 
 #: templates/litepaper/platform.html:84
 msgid "OUSD creates the incentives for merchants to not only accept, but promote the usage of cryptocurrencies in their businesses. As more users hold and make purchases with OUSD, more merchants will similarly accept OUSD. These powerful network effects have the potential to gradually replace the payment rails for both online and offline commerce."
-msgstr ""
+msgstr "OUSD, tüccarların sadece kabul etmeleri için değil, aynı zamanda işletmelerinde kripto para birimlerinin kullanımını teşvik etmeleri için ortamlar yaratır. Daha fazla kullanıcı OUSD ile alışveriş yaptıkça, daha fazla tüccar da benzer şekilde OUSD'yi kabul edecektir. Bu güçlü ağ etkileri, hem çevrimiçi hem de çevrimdışı ticaret için ödeme sistemlerini kademeli olarak değiştirme potansiyeline sahiptir."
 
 #: templates/litepaper/platform.html:85
 msgid "In the short-term, OUSD’s target audience encompasses the millions of novice to intermediate cryptocurrency users in the world that are not yet invested in DeFi. An even larger opportunity lies in targeting the hundreds of millions of users that are currently using traditional peer-to-peer and merchant payment systems."
-msgstr ""
+msgstr "Kısa vadede, OUSD’nin hedef kitlesi, henüz DeFi’ye yatırım yapmamış, dünyadaki milyonlarca acemi ila orta düzey kripto para birimi kullanıcısını kapsıyor. Daha büyük fırsat ise şu anda geleneksel eşler arası ve satıcı ödeme sistemlerini kullanan yüz milyonlarca kullanıcıyı hedeflemekte yatıyor."
 
 #: templates/litepaper/platform.html:86
 msgid "Today, PayPal boasts over 305M consumers and 22M merchants and processes over $200B of payments in a single quarter. Our aspirations are to begin penetrating that customer base with OUSD and future payments applications built on top of the OUSD protocol in the upcoming year."
-msgstr ""
+msgstr "Bugün PayPal, 305 milyondan fazla tüketiciye ve 22 milyon tüccara sahip ve tek bir çeyrekte 200 milyar dolardan fazla ödeme gerçekleştiriyor. Hedeflerimiz, önümüzdeki yıl OUSD protokolü üzerine inşa edilen OUSD ve gelecekteki ödeme uygulamaları ile bu müşteri tabanına girmeye başlamaktır."
 
 #: templates/litepaper/platform.html:88
 msgid "Business development"
-msgstr ""
+msgstr "İş Geliştirme"
 
 #: templates/litepaper/platform.html:89
 msgid "The most obvious success metric for OUSD is its total circulating supply. As demand for OUSD grows, more OUSD will be minted and added to the total supply. DeFi protocols are often valued at a glance by the total dollar amount of value deposited into its smart contracts, or Total Value Locked (TVL). In order for OUSD to become successful, we must convince users to buy or mint OUSD, adding to its supply, and we must keep this OUSD held in user wallets or circulating instead of sold or redeemed for underlying stablecoins. Ease of access and network effects are two important factors in this. Direct incentives beyond industry leading APYs may also be a tool we implement in the future."
-msgstr ""
+msgstr "OUSD için en bariz başarı ölçütü, dolaşımdaki toplam arzdır. OUSD'ye olan talep arttıkça, daha fazla OUSD basılacak ve toplam arza eklenecek. DeFi protokolleri genellikle akıllı sözleşmelerine yatırılan toplam dolar değeri veya Toplam Kilitli Değer (TVL) ile değerlendirilir. OUSD'nin başarılı olması için, kullanıcıları OUSD'yi satın almaya veya basmaya ikna etmeliyiz, arzına katkıda bulunmalıyız. Ayrıca OUSD'yi, başka stablecoin'ler için satmak veya paraya çevrilmek yerine kullanıcı cüzdanlarında veya dolaşımda tutmalıyız. Erişim kolaylığı ve ağ etkileri bunda iki önemli faktördür. Sektör lideri APY'lerin ötesinde doğrudan teşvikler de gelecekte uygulayacağımız bir araç olabilir."
 
 #: templates/litepaper/platform.html:90
 msgid "To achieve greater circulating supply, it is imperative that we make OUSD available on every major DeFi platform, decentralized exchange, and centralized exchange. Increasing OUSD’s representation on decentralized platforms will solidify OUSD as a money lego and composable building block for DeFi. Having OUSD markets on popular centralized exchanges allows us to onboard the millions of crypto users who are not familiar with Web 3 wallets like MetaMask but who do have exchange accounts. Although there are some unique challenges to integrating rebasing tokens on these platforms, these challenges are not difficult to overcome and rebasing tokens are growing in popularity."
-msgstr ""
+msgstr "Daha büyük dolaşım arzına ulaşabilmek adına OUSD'yi her büyük DeFi platformunda, merkeziyetsiz borsada ve merkezi borsada kullanılabilir hale getirmek zorundayız. OUSD’nin merkeziyetsiz platformlardaki temsilini artırmak, OUSD'yi DeFi için bir yapı taşı olarak sağlamlaştıracak. Popüler merkezi borsalarda OUSD piyasalarına sahip olmak, MetaMask gibi Web 3 cüzdanlarına aşina olmayan ancak döviz hesabı olan milyonlarca kripto para kullanıcısına dahil olmamızı sağlar. Bu platformlara yeniden ödeme token'larını entegre etmenin bazı benzersiz zorlukları olsa da, bu zorlukların üstesinden gelmek zor değil ve yeniden ödeme token'larının popülaritesi artıyor."
 
 #: templates/litepaper/platform.html:91
 msgid "We have plans to integrate OUSD as a collateral asset on major lending platforms such as Compound, Aave, and Cream. There are already millions of dollars of liquidity available for OUSD on Uniswap and Sushiswap. We intend to target stablecoin-focused AMMs such as Curve and Shell Protocol in the near future. On the centralized exchange side, we aim to have OUSD listed on every major exchange globally."
-msgstr ""
+msgstr "OUSD'yi Compound, Aave ve Cream gibi büyük borç verme platformlarına teminat varlık olarak entegre etme planımız var. Uniswap ve Sushiswap'ta OUSD için hali hazırda milyonlarca dolar likidite mevcut. Yakın gelecekte Curve ve Shell Protocol gibi stablecoin odaklı AMM'leri hedeflemeyi planlıyoruz. Merkezi borsa tarafında, küresel olarak her büyük borsada OUSD'nin listelenmesini hedefliyoruz."
 
 #: templates/litepaper/platform.html:92
 msgid "To take OUSD truly mainstream, we must connect it with traditional financial infrastructure. The first step will be to get OUSD listed on exchanges that have fiat on and off-ramps. Enabling the direct purchase of OUSD with fiat currency in the form of bank transfers or credit card payments is also a priority for us. These connections to traditional finance are necessary in order for us to successfully launch the future products we have planned for OUSD."
-msgstr ""
+msgstr "OUSD'yi gerçekten yaygın hale getirme amacıyla onu geleneksel finansal altyapıya bağlamalıyız. İlk adım, fiat açık ve kapalı rampaları olan borsalarda OUSD'nin listelenmesi olacaktır. Banka havalesi veya kredi kartı ödemeleri şeklinde fiat para birimi ile OUSD'nin doğrudan satın alınmasını sağlamak da bizim için bir öncelik. OUSD için planladığımız gelecekteki ürünleri başarılı bir şekilde piyasaya sürebilmemiz adına geleneksel finans ile bu bağlantılar gerekli."
 
 #: templates/litepaper/platform.html:94
 msgid "Future products"
-msgstr ""
+msgstr "Gelecek Ürünler"
 
 #: templates/litepaper/platform.html:95
 msgid "We imagine a better future for online and offline payments that uses OUSD as the underlying payment rails. Below, we outline our vision for what we'd like to see built on top of the OUSD protocol. We also encourage our large community of supporters and open-source developers to build additional compelling products to bring DeFi and cryptocurrency payments to the masses."
-msgstr ""
+msgstr "Temel ödeme yöntemi olarak OUSD'yi kullanan çevrimiçi ve çevrimdışı ödemeler için daha iyi bir gelecek hayal ediyoruz. Aşağıda, OUSD protokol üzerine inşa edilmiş bir şekilde görmek istediklerimize ilişkin vizyonumuzu ana hatlarıyla açıkladık. Ayrıca destekçilerimizi ve açık kaynak geliştiricilerimizi, DeFi ve kripto para birimi ödemelerini kitlelere ulaştırmak için ek olarak ilgi çekici ürünler geliştirmeye teşvik ediyoruz."
 
 #: templates/litepaper/platform.html:97
 msgid "Venmo meets high-yield savings and a debit card"
-msgstr ""
+msgstr "Venmo, yüksek verimli tasarruf ve bir banka kartı ile buluşuyor"
 
 #: templates/litepaper/platform.html:98
 msgid "Today peer-to-peer mobile payments account for trillions of dollars in transaction volume. In the United States, Venmo and Square Cash dominate. In China, cryptocurrency’s largest market by trading volume, Wechat and Alipay have near monopolistic holds on consumers and merchants. These simple, centralized payment apps are used by customers paying merchants and by friends and family transferring money to each other. Furthermore, in many markets, the US and Europe especially, bank cards are still the go-to way to spend money for online and offline transactions. Credit card companies, payment processors, and banks dominate this market and there are a variety of companies such as PayPal that assist merchants and consumers in using their cards online."
-msgstr ""
+msgstr "Bugün, eşler arası mobil ödemeler işlem hacmi açısından trilyonlarca doları hesaba katıyor. Amerika Birleşik Devletleri'nde bu alana Venmo ve Square Cash gibi firmalar hakim. Kripto para biriminin ticaret hacmine göre en büyük pazarı olan Çin'de, Wechat ve Alipay, tüketiciler ve tüccarlar üzerinde neredeyse tekel diyebileceğiniz bir etkiye sahip. Bu basit, merkezi ödeme uygulamaları, tüccarlara ödeme yapan müşteriler ve birbirlerine para aktaran arkadaşlar ve aileler tarafından kullanılır. Ayrıca, birçok pazarda, özellikle ABD ve Avrupa'da, banka kartları hala çevrimiçi ve çevrimdışı işlemler için para harcamanın en iyi yoludur. Kredi kartı şirketleri, ödeme işlemcileri ve bankalar bu pazara hakimdir ve tüccarlara ve tüketicilere kartlarını çevrimiçi olarak kullanmalarında yardımcı olan PayPal gibi çeşitli şirketler vardır."
 
 #: templates/litepaper/platform.html:99
 msgid "The billions of users using these existing payment methods have very little incentive to adopt cryptocurrency payments due to increased friction and lack of network effects."
-msgstr ""
+msgstr "Bu mevcut ödeme yöntemlerini kullanan milyarlarca kullanıcı, artan sürtünme ve ağ etkilerinin olmaması nedeniyle kripto para birimi ödemelerini benimsemek adına aslında çok az teşvike sahip."
 
 #: templates/litepaper/platform.html:100
 msgid "We believe a new peer-to-peer payment app with an associated debit card built on top of the OUSD protocol can disrupt incumbents. Today, Venmo users shuffle money between their Venmo accounts and their checking accounts and credit cards. In the case of the former, money sitting in Venmo or checking accounts doesn’t earn any interest. Venmo balances that are funded by credit cards are even worse as there are fees charged by multiple intermediaries. In the later case, interest earned by users is usually negligible, especially when taking into account inflation. Cash back or rewards programs can offer users incentives but high interest rates for missing payments are a strong disincentive to users."
-msgstr ""
+msgstr "OUSD protokolünün üzerine inşa edilmiş ilişkili bir banka kartına sahip yeni bir eşler arası ödeme uygulamasının görevlileri rahatsız edebileceğine inanıyoruz. Bugün, Venmo kullanıcıları Venmo hesapları ile çek hesapları ve kredi kartları arasında para iletimi yapabiliyor. Bu durumda, Venmo'da duran para herhangi bir faiz getirmiyor. Kredi kartlarıyla finanse edilen Venmo bakiyeleri ise birden fazla aracı tarafından alınan ücretler olduğu için kullanıcı açısından daha da kötüdür. Daha sonraki durumda, özellikle enflasyon hesaba katıldığında, kullanıcılar tarafından kazanılan faiz genellikle ihmal edilebilir. Nakit geri ödeme veya ödül programları, kullanıcılara teşvikler sunabilir ancak eksik ödemeler için yüksek faiz oranları, kullanıcılar için güçlü ve oldukça önemli bir caydırıcıdır."
 
 #: templates/litepaper/platform.html:101
 msgid "Tomorrow’s peer-to-peer mobile payment application powered by OUSD will introduce the killer feature of double-digit yields. Our version of Venmo will combine the ease of peer-to-peer payments with a high-yield savings account that beats traditional savings accounts by a factor of 10 to 100x."
-msgstr ""
+msgstr "Yarının OUSD tarafından desteklenen eşler arası mobil ödeme uygulaması, çift haneli getirilerin önemli bir özelliğini tanıtacak. Venmo sürümümüz, eşler arası ödemelerin kolaylığını, geleneksel tasarruf hesaplarını 10 ila 100 kat geride bırakan yüksek verimli bir tasarruf hesabıyla birleştirecek."
 
 #: templates/litepaper/platform.html:102
 msgid "The OUSD payment app will be built with a centralized mobile app and APIs to minimize user friction for mainstream users. Users will be able to deposit USD and/or other fiat currencies to the app and enjoy the seamless user experiences of centralized applications. However, on the backend, these fiat deposits will be used to mint OUSD. New users will hold their balances in OUSD in Origin custodial wallets without needing to understand cryptocurrencies. They will simply be able to earn industry-leading yields when they are not spending. Again, your OUSD is always earning & ready to be spent or transferred at the same time."
-msgstr ""
+msgstr "OUSD ödeme uygulaması, genel kullanıcılar için karışıklığı en aza indirmek için merkezi bir mobil uygulama ve API'ler ile oluşturulacak. Kullanıcılar, uygulamaya USD ve/veya diğer itibari para birimlerini yatırabilecek ve merkezi uygulamaların sorunsuz kullanıcı deneyimlerinin keyfini çıkarabilecek. Bununla birlikte arka planda fiat mevduatları OUSD'yi basmak için kullanılacak. Yeni kullanıcılar, kripto para birimlerinin mantığını anlamalarına gerek kalmadan bakiyelerini OUSD'nin Origin saklama cüzdanında tutacak. Harcama yapmadıklarında getiriler elde edebilecekler. Yani OUSD her zaman kazandıran ve aynı anda harcanmaya veya aktarılmaya hazır bir durumda olacak."
 
 #: templates/litepaper/platform.html:103
 msgid "The viral effects of the future OUSD payment app cannot be overstated. Payment apps are by nature already viral, with users onboarding their friends and family in order to transact with them, establishing powerful network effects. Merchants quickly adopt the payment services that attract the most users. By adding in the ability to earn yield the very instant that any new referred user accepts funds from a referring user, we believe the viral coefficient for existing users referring new users will be multiples higher than ever seen before in a traditional payments application."
-msgstr ""
+msgstr "OUSD ödeme uygulamasının gelecekte ortaya koyacağı viral etkiler abartı değil. Ödeme uygulamaları, doğası gereği zaten viraldir ve kullanıcılar, onlarla işlem yapmak için arkadaşlarını ve ailelerini dahil etmeye başlar ve güçlü ağ efektleri oluşturur. Satıcılar, en çok kullanıcı çeken ödeme hizmetlerini hızla benimser. Herhangi bir kullanıcının yönlendirilen bir kullanıcıdan para kabul ettiği anda getiri kazanma yeteceğini de ekleyecek olursak, yeni kullanıcılara atıfta bulunan mevcut kullanıcılar için viral katsayının geleneksel bir ödeme uygulamasında daha önce görülenden çok daha yüksek olacağına inanıyoruz."
 
 #: templates/litepaper/platform.html:104
 msgid "The OUSD debit card will be tied to the future OUSD payment app and will allow users to spend down their on-app OUSD balance. Whenever users want to use their OUSD, their OUSD will be converted to USD via Visa’s interchange network and be instantly accepted by 40 million merchants all over the world. Merchants will receive USD and need not know that OUSD was used as the underlying original currency to power the transaction. Again, when users’ OUSD is not being spent, it will automatically accumulate staggering yields that should be superior to any cash bank or credit card rewards program in existence."
-msgstr ""
+msgstr "OUSD banka kartı gelecekteki OUSD ödeme uygulamasına bağlanacak ve kullanıcıların uygulama içi OUSD bakiyelerini kullanmalarına olanak tanıyacak. Kullanıcılar, OUSD'yi kullanmak istediklerinde, OUSD'leri Visa'nın değişim ağı üzerinden ABD dolarına dönüştürülecek ve tüm dünyada 40 milyon tüccar tarafından anında kabul edilme şansına erişecek. Kısacası satıcılar USD alacak ve işlemi güçlendirmek için OUSD'nin temel orijinal para birimi olarak kullanıldığını bilmelerine gerek bile olmayacak. Yine, kullanıcılar OUSD harcanmadığında, var olan herhangi bir nakit banka veya kredi kartı ödül programından daha üstün olması gereken şaşırtıcı getirileri otomatik olarak cüzdanlarında biriktirecektir."
 
 #: templates/litepaper/platform.html:105
 msgid "Although we plan on launching with hosted or managed wallets, we believe that users should be in control of their own funds if they do not want to use managed wallets. While the service that we build will be centralized at the application and middleware layer, the core protocol is decentralized. Users will be able to eject from the managed wallet at any point in time to simply hold their OUSD in their own self-managed wallets within the same app. We imagine that more and more users will gradually migrate from managed wallets to self-hosted wallets over time as they become educated about the benefits of underlying protocol."
-msgstr ""
+msgstr "Barındırılan veya yönetilen cüzdanlarla başlatmayı planlasak da kullanıcılar yönetilen cüzdanları kullanmak istemiyorlarsa kendi fonlarını kontrol etmeleri gerektiğine inanıyoruz. Oluşturduğumuz hizmet, uygulama ve ara katmanda merkezileştirilirken, çekirdek protokol merkezden dağıtılmıştır. Kullanıcılar, yönetilen cüzdandan istedikleri zaman OUSD'lerini aynı uygulama içinde kendi kendini yöneten cüzdanlarında tutabilecek. Altta yatan protokolün faydaları hakkında eğitim aldıkça, giderek daha fazla kullanıcının zamanla yönetilen cüzdanlardan kendi kendine barındırılan cüzdanlara geçeceğini düşünüyoruz."
 
 #: templates/litepaper/platform.html:108
 msgid "Getting online and offline merchants to accept payments that are powered by OUSD rails is a monumental step. However, further down the road, an even more ambitious objective is to get merchants to accept OUSD directly."
-msgstr ""
+msgstr "Çevrimiçi ve çevrimdışı satıcıların OUSD sistemleri tarafından desteklenen ödemeleri kabul etmesini sağlamak muazzam bir adım. Bununla birlikte önümüzde daha da iddialı bir hedef var. O da tüccarların OUSD'yi doğrudan kabul etmesini sağlamak."
 
 #: templates/litepaper/platform.html:109
 msgid "The incentives to accept OUSD as a merchant over traditional credit cards or mobile payments is extremely compelling. Merchants can earn double-digit yields upon the sales of goods and services versus getting taxed with multiple payment fees."
-msgstr ""
+msgstr "OUSD'yi geleneksel kredi kartları veya mobil ödemeler üzerinden bir ödeme yöntemi olarak kabul etme teşvikleri son derece ilgi çekici. Satıcılar, birden çok ödeme ücreti ile vergilendirilmek yerine, mal ve hizmet satışlarından çift haneli getiri elde edebilirler."
 
 #: templates/litepaper/platform.html:110
 msgid "The very first e-commerce platform to accept OUSD is Origin’s own Dshop platform. However, Dshop is a relatively new platform, and the majority of online e-commerce stores are run by incumbents like Shopify and Woo Commerce."
-msgstr ""
+msgstr "OUSD'yi kabul eden ilk e-ticaret platformu, Origin’in kendi Dshop platformudur. Bununla birlikte, Dshop nispeten yeni bir platformdur ve çevrimiçi e-ticaret mağazalarının çoğu, Shopify ve Woo Commerce gibi sistemler tarafından yönetilmektedir."
 
 #: templates/litepaper/platform.html:111
 msgid "Thankfully, both Shopify and Woo Commerce have mature developer platforms and APIs. We intend to build applications on these existing platforms that allow merchants to accept OUSD directly from customers that want to pay with OUSD. These developer plugins are relatively simple to build, and there are many existing examples of working payment alternatives."
-msgstr ""
+msgstr "Neyse ki, hem Shopify hem de Woo Commerce, olgun geliştirici platformlar ve API'lere sahiptir. Tüccarların doğrudan OUSD ile ödeme yapmak isteyen müşterilerden OUSD'yi kabul etmesine olanak tanıyan bu mevcut platformlarda uygulamalar geliştirmeyi planlıyoruz. Bu geliştirici eklentilerinin oluşturulması nispeten basittir ve çalışan ödeme alternatiflerinin birçok mevcut örneği vardır."
 
 #: templates/litepaper/platform.html:112
 msgid "For example, the Shopify app store currently already offers Coinbase Commerce, Bitpay, and GoCoin. We will release an OUSD payment app for merchants in the coming future."
-msgstr ""
+msgstr "Örneğin, Shopify uygulama mağazası hali hazırda Coinbase Commerce, Bitpay ve GoCoin hizmeti sunar. Gelecekte tüccarlar için bir OUSD ödeme uygulaması yayınlayacağız."
 
 #: templates/litepaper/platform.html:115
 msgid "Given the recent surge in both the price of ETH and the usage of the Ethereum network, gas fees are becoming increasingly prohibitive and a major deterrent for getting the kind of retail adoption that we want."
-msgstr ""
+msgstr "Hem ETH'nin fiyatındaki hem de Ethereum ağının kullanımındaki son artış göz önüne alındığında, gas ücretleri giderek daha zorlayıcı hale geliyor ve istediğimiz türden perakende kabulü elde etme yolunda büyük bir caydırıcı etmen olarak önümüze çıkıyor."
 
 #: templates/litepaper/platform.html:116
 msgid "Ethereum is by far the most dominant layer 1 chain when it comes to DeFi activity and total value locked (TVL) today. However, as other layer 1 chains gain DeFi adoption, it is our intention to make OUSD accessible on other chains like Binance Smart Chain, Solana, Cosmos, and Polkadot which offer faster transactions and lower gas costs. "
-msgstr ""
+msgstr "Ethereum, bugün DeFi etkinliği ve toplam kilitli değer (TVL) söz konusu olduğunda en baskın layer 1 (katman 1) zinciridir. Bununla birlikte, diğer katman 1 zincirleri DeFi'yi benimsedikçe, OUSD'yi daha hızlı işlemler ve daha düşük gas maliyetleri sunan Binance Smart Chain, Solana, Cosmos ve Polkadot gibi diğer zincirlerde erişilebilir kılmak istiyoruz."
 
 #: templates/litepaper/platform.html:117
 msgid "All of the yield for OUSD will continue to be generated on the Ethereum platform since that’s where the vast majority of capital and earning opportunities exist today. However, chain-specific versions of OUSD will be mintable by anyone who locks up OUSD in the cross-chain bridge. For example, you could lock 100 OUSD in the Solana bridge in order to generate 100 sOUSD which would be freely transferable within the Solana ecosystem. The original OUSD would stay locked in a smart contract where it would continue earning yield. Inside Solana, the circulating sOUSD tokens would rebase in lockstep with the OUSD that was locked in the smart contract. Anyone who wishes to exit would be able to redeem their sOUSD for the originally locked capital plus any yield that was generated while they were holding it."
-msgstr ""
+msgstr "OUSD'nin tüm getirisi Ethereum platformunda üretilmeye devam edecek çünkü bugün sermaye ve kazanç fırsatlarının büyük çoğunluğunun var olduğu yer Ethereum ağı. Bununla birlikte, OUSD'nin zincire özgü sürümleri, OUSD'yi zincirler arası köprüde kilitleyen herkes tarafından kullanılabilir olacaktır. Örneğin, Solana ekosistemi içinde serbestçe aktarılabilen 100 sOUSD üretmek için Solana köprüsünde 100 OUSD'yi kilitleyebilirsiniz. Orijinal OUSD, getiri kazanmaya devam edeceği akıllı bir sözleşmede kilitli kalacak. Solana'nın içinde, dolaşımdaki sOUSD token'ları, akıllı sözleşmede kilitli olan OUSD ile kilit adımda geri kazanılacaktır. Çıkmak isteyen herkes, sOUSD'lerini başlangıçta kilitli olan sermaye artı onu tutarken elde edilen herhangi bir getiri karşılığında kullanabilecektir."
 
 #: templates/litepaper/platform.html:122 templates/litepaper/sidebar.html:28
 #: templates/whitepaper/sidebar.html:34
@@ -3173,108 +3110,108 @@ msgstr "Kökeni Jetonu (OGN)"
 
 #: templates/litepaper/platform.html:123
 msgid "The Origin Token (OGN) is the governance and value accrual token for the entire Origin Platform and suite of products."
-msgstr ""
+msgstr "Origin Token (OGN), tüm Origin Platform ve ürün grubu için yönetim ve değer tahakkuk token’ıdır."
 
 #: templates/litepaper/platform.html:126
 msgid "Decentralized governance for the OUSD protocol will happen first. Following the successful migration of making OUSD community-owned, we will begin the progressive decentralization of the Origin commerce platform as well."
-msgstr ""
+msgstr "Öncelikle OUSD protokolü için merkeziyetsiz yönetişim gerçekleşecek. OUSD'yi kendi topluluğuna ait hale getirmenin ardından, Origin ticaret platformunun aşamalı olarak merkezden uzaklaştırılması çalışmalarına başlayacağız."
 
 #: templates/litepaper/platform.html:127
 msgid "Today, the OUSD protocol is already currently undergoing a progressive path to full decentralization. We’ve outlined four phases to full decentralization and are currently in phase 2."
-msgstr ""
+msgstr "Bugün, OUSD protokolü hali hazırda tam ademi merkeziyetçiliğe giden aşamalı bir yoldan geçiyor. Tam ademi merkeziyetçiliğin dört aşamasını özetledik ve şu anda 2. aşamadayız."
 
 #: templates/litepaper/platform.html:129
 msgid "OGN token holders will be able to create and vote on proposals to govern the underlying protocol. This may include:"
-msgstr ""
+msgstr "OGN token sahipleri, temel protokolü yönetmek için teklifler oluşturabilecek ve bunlara oy verebilecek. Bu şu durumları içerebilecek:"
 
 #: templates/litepaper/platform.html:131
 msgid "Adding/removing new types of yield-earning strategies"
-msgstr ""
+msgstr "Yeni türden getiri kazanma stratejileri ekleme/kaldırma"
 
 #: templates/litepaper/platform.html:132
 msgid "Allocating capital across a basket of strategies"
-msgstr ""
+msgstr "Sermayenin bir sepet strateji olarak hazırlanması"
 
 #: templates/litepaper/platform.html:133
 msgid "Determining what fees are charged by the protocol"
-msgstr ""
+msgstr "Protokol tarafından hangi ücretlerin alındığının belirlenmesi"
 
 #: templates/litepaper/platform.html:134
 msgid "Determining what incentives (e.g. OGN rewards for liquidity mining) are offered on an ongoing basis"
-msgstr ""
+msgstr "Sürekli olarak hangi teşviklerin (ör. Likidite madenciliği için OGN ödülleri) sunulduğunu belirlemek"
 
 #: templates/litepaper/platform.html:137
 msgid "Note that decentralized governance privileges will not apply to the centralized applications like the peer-to-peer payments product or debit card to be built on OUSD in the near-term. However, the underlying protocol will be fully decentralized before the end of 2021."
-msgstr ""
+msgstr "Merkeziyetsiz yönetişim ayrıcalıklarının, yakın vadede OUSD üzerinde oluşturulacak eşler arası ödeme ürünü veya banka kartı gibi merkezi uygulamalar için geçerli olmayacağını unutmayın. Bununla birlikte, temel protokol 2021'in sonundan önce tamamen ademi merkeziyetçi hale getirilecek."
 
 #: templates/litepaper/platform.html:138
 msgid "The Dshop platform will undergo the transition to decentralized governance at a later date. More details will be provided as the platform continues to mature."
-msgstr ""
+msgstr "Dshop platformu, daha sonraki bir tarihte merkeziyetsiz yönetişime geçiş sürecinden geçecek. Platform olgunlaşmaya devam ettikçe daha fazla ayrıntı sağlanacaktır."
 
 #: templates/litepaper/platform.html:140
 msgid "Value accrual"
-msgstr ""
+msgstr "DEĞER GERÇEKLEŞTİRME"
 
 #: templates/litepaper/platform.html:141
 msgid "OGN holders will benefit directly from any protocol revenues and fees generated from products built on the Origin Platform. This includes on-chain revenue from OUSD as well as potential off-chain revenue sources from OUSD or our commerce products in the future."
-msgstr ""
+msgstr "OGN sahipleri, Origin Platformunda oluşturulan ürünlerden elde edilen tüm protokol gelirlerinden ve ücretlerinden doğrudan yararlanacak. Buna, OUSD'den gelen zincir içi gelirin yanı sıra OUSD'den veya gelecekteki ticari ürünlerimizden gelen potansiyel zincir dışı gelir kaynakları da dahil."
 
 #: templates/litepaper/platform.html:144
 #, python-format
 msgid "Currently, 10%% of DeFi yields generated from OUSD are collected as a protocol performance fee. These on-chain fees are being used to buy back OGN on the market, generating consistent buy pressure for OUSD’s governance token."
-msgstr ""
+msgstr "Şu anda, OUSD'den elde edilen DeFi getirilerinin %10'u protokol performans ücreti olarak tahsil edilmektedir. Bu zincir içi ücretler, piyasada OGN'yi geri satın almak için kullanılıyor ve OUSD’nin yönetişim token’ı için tutarlı bir satın alma baskısı oluşturuyor."
 
 #: templates/litepaper/platform.html:145
 msgid "Through decentralized governance, the community will be able to adjust performance fee settings as well as other value accrual parameters."
-msgstr ""
+msgstr "Merkezi olmayan yönetişim yoluyla topluluk, performans ücreti ayarlarını ve diğer değer tahakkuk parametrelerini ayarlayabilecek."
 
 #: templates/litepaper/platform.html:151
 msgid "OGN holders are therefore incentivized to promote OUSD. As OUSD circulating supply increases, performance fees generated will also increase, directly benefiting OGN holders financially. The converse is also true. OUSD holders are incentivized to be OGN holders, so they can participate actively in the governance of the protocol. This creates a strong flywheel effect between Origin’s two tokens."
-msgstr ""
+msgstr "OGN sahipleri bu nedenle OUSD'yi teşvik etmeye çağrılır. OUSD’nin dolaşımdaki arz arttıkça, üretilen performans ücretleri de artacak ve doğrudan OGN sahiplerine finansal olarak fayda sağlayacak. OUSD sahipleri, protokolün yönetimine aktif olarak katılabilmeleri için OGN sahibi olmaya teşvik edilir. Bu, Origin’in iki simgesi arasında güçlü bir çark etkisi yaratır."
 
 #: templates/litepaper/platform.html:152
 msgid "Since it is our intention to build powerful applications on top of the OUSD protocol like the new peer-to-peer payments product and debit card offering, we will also be able to create new monetization opportunities with these applications. For example, we may take a small percentage of OUSD yields as revenue to cover the costs of running the centralized infrastructure to power these experiences. Any profits that are generated off-chain can similarly be reinvested into the OGN buyback program or other fee distribution options mentioned above.    "
-msgstr ""
+msgstr "Yeni eşler arası ödeme ürünü ve banka kartı teklifi gibi OUSD protokolü üzerine güçlü uygulamalar inşa etme niyetimiz olduğundan, bu uygulamalarla yeni para kazanma fırsatları da yaratabileceğiz. Örneğin, bu deneyimleri güçlendirmek için merkezi altyapıyı çalıştırmanın maliyetlerini karşılamak için OUSD getirisinin küçük bir yüzdesini gelir olarak alabiliriz. Zincir dışı elde edilen herhangi bir kar, benzer şekilde OGN geri satın alma programına veya yukarıda belirtilen diğer ücret dağıtım seçeneklerine yeniden yatırılabilir.    "
 
 #: templates/litepaper/platform.html:155
 msgid "The core Dshop platform has been free to use since inception, and the basic features will remain free to use forever. However, as we develop more premium features such as creating the NFT launchpad and offering customized commerce experiences and white-glove service for larger clients, we intend to charge fees."
-msgstr ""
+msgstr "Temel Dshop platformunun kullanımı başlangıcından bu yana ücretsizdi ve temel özellikler sonsuza kadar ücretsiz olarak kullanılmaya da devam edecek. Ancak, NFT başlatma panosu oluşturma ve daha büyük müşteriler için özelleştirilmiş ticaret deneyimleri ve beyaz eldiven hizmeti sunma gibi daha fazla premium özellik geliştirdikçe, ücret talep etmeyi amaçlıyoruz."
 
 #: templates/litepaper/platform.html:156
 msgid "Other revenue generating opportunities beyond the immediate NFT Launchpad product may include:"
-msgstr ""
+msgstr "NFT Launchpad ürününün ötesinde diğer gelir getirici fırsatlar ise şunları içerebilir:"
 
 #: templates/litepaper/platform.html:158
 msgid "Customized e-commerce experiences for new vertical categories"
-msgstr ""
+msgstr "Yeni kategoriler için özelleştirilmiş e-ticaret deneyimleri"
 
 #: templates/litepaper/platform.html:159
 msgid "Consulting/contracting revenue for larger enterprise merchant partners that require Origin to build or host custom infrastructure and tooling"
-msgstr ""
+msgstr "Origin'in özel altyapı ve araçlar oluşturması veya barındırması gereken daha büyük kurumsal ticaret ortakları için danışmanlık/sözleşme geliri"
 
 #: templates/litepaper/platform.html:160
 msgid "Premium applications that any merchants can add to their stores via subscription or a la carte purchases"
-msgstr ""
+msgstr "Herhangi bir tüccarın abonelik veya alakart satın alma yoluyla mağazalarına ekleyebileceği premium uygulamalar"
 
 #: templates/litepaper/platform.html:161
 msgid "Modest transaction fees for bespoke marketplace and reseller networks"
-msgstr ""
+msgstr "Ismarlama pazar yeri ve bayi ağları için mütevazı işlem ücretleri"
 
 #: templates/litepaper/sidebar.html:33 templates/litepaper/team.html:2
 msgid "Founding Team"
-msgstr ""
+msgstr "Kurucu Ekip"
 
 #: templates/litepaper/team.html:4
 msgid "Origin was founded by Josh Fraser and Matthew Liu, two successful entrepreneurs who have built multiple venture backed companies that saw successful exits and who have worked together on multiple businesses in the past. They were joined by founding engineer <a href='https://en.wikipedia.org/wiki/Yu_Pan' target='_blank' rel='noopener noreferrer'>Yu Pan</a>. Yu Pan was one of the co-founders of PayPal alongside Elon Musk, Peter Thiel, Max Levchin, Ken Howery, and Luke Nosek. Yu Pan was also the first employee at YouTube and held senior positions at Google and Affirm."
-msgstr ""
+msgstr "Origin, başarılı çıkışlar yaşamış ve geçmişte birden çok işte birlikte çalışmış, çok sayıda girişim destekli şirketler kuran iki başarılı girişimci Josh Fraser ve Matthew Liu tarafından kuruldu. Daha sonra kurucu mühendis Yu Pan da onlara katıldı. Yu Pan, Elon Musk, Peter Thiel, Max Levchin, Ken Howery ve Luke Nosek ile birlikte PayPal'ın kurucularından biriydi. Yu Pan aynı zamanda YouTube'daki ilk çalışanlarındandı ve Google ve Affirm'de üst düzey pozisyonlarda bulundu."
 
 #: templates/litepaper/team.html:5
 msgid "Josh has been coding since he was 10 and has been involved in crypto since 2011. He founded the web optimization company Torbit which was acquired by Walmart Labs. Matt received his bachelors and masters in engineering from Stanford and was the third product manager at YouTube. Matt participated in the Ethereum crowdsale and has been involved in crypto since 2014."
-msgstr ""
+msgstr "Josh, 10 yaşından bu yana kodlama ile uğraşıyor ve 2011'den beri kripto para sektörü ile ilgileniyor. Josh, Walmart Labs tarafından satın alınan web optimizasyon şirketi Torbit'i kurdu. Matt, mühendislik alanındaki lisans ve yüksek lisans derecelerini Stanford'dan aldı ve YouTube'da üçüncü ürün müdürü olarak görev aldı. Matt, Ethereum kitle satışına katıldı ve 2014'ten beri kripto parayla ilgileniyor."
 
 #: templates/litepaper/team.html:6
 msgid "Origin’s lead investor is Pantera Capital, the world’s oldest cryptocurrency fund. Other notable investors include Foundation Capital, Blocktower, Blockchain.com, KBW Ventures, Spartan Capital, PreAngel Fund, Hashed, Kenetic Capital, FBG, QCP Capital, and Smart Contract Japan. Well known angel investors include Steve Chen, founder of YouTube, Alexis Ohanian, founder of Reddit, Garry Tan, partner at Y Combinator, and Randall Kaplan, founder of Akamai."
-msgstr ""
+msgstr "Origin'in ana yatırımcısı, dünyanın en eski kripto para fonu olan Pantera Capital'dir. Diğer önemli yatırımcılar arasında Foundation Capital, Blocktower, Blockchain.com, KBW Ventures, Spartan Capital, PreAngel Fund, Hashed, Kenetic Capital, FBG, QCP Capital ve Smart Contract Japan bulunmaktadır. Ünlü melek yatırımcılar arasında YouTube'un kurucusu Steve Chen, Reddit'in kurucusu Alexis Ohanian, Y Combinator'un ortağı Garry Tan ve Akamai'nin kurucusu Randall Kaplan yer alıyor."
 
 #: templates/vc-firms/china.html:2
 msgid "China"
@@ -3405,25 +3342,21 @@ msgid "Blocktower Capital"
 msgstr "Blocktower Capital"
 
 #: templates/whitepaper/disclaimer.html:4
-msgid ""
-"Certain statements in this whitepaper constitute forward-looking statements. Such forward-looking statements, including the intended actions and\n"
+msgid "Certain statements in this whitepaper constitute forward-looking statements. Such forward-looking statements, including the intended actions and\n"
 "    performance objectives of the Company, involve known and unknown risks, uncertainties, and other important factors that could cause the actual results of\n"
 "    the Company to differ materially from any future results expressed or implied by such forward-looking statements. Accordingly, readers should not place\n"
 "    undue reliance on forward-looking statements. No representation or warranty is made as to future performance or such forward-looking statements."
-msgstr ""
-"Bu teknik incelemedeki bazı ifadeler ileriye dönük ifadeler oluşturmaktadır. Amaçlanan eylem ve içine alan söz konusu ileriye dönük ifadeler,\n"
+msgstr "Bu teknik incelemedeki bazı ifadeler ileriye dönük ifadeler oluşturmaktadır. Amaçlanan eylem ve içine alan söz konusu ileriye dönük ifadeler,\n"
 "    Şirketin performans hedeflerinin, gerçek sonuçlara neden olabilir bilinen ve bilinmeyen riskleri, belirsizlikleri ve diğer faktörleri içermektedir\n"
 "    açık veya zımni herhangi bir gelecekte sonuç ölçüde farklı olmasına Şirket böyle ileriye dönük ifadelerle. Buna göre, okuyucular yerleştirilmemesi gerektiği\n"
 "    ileriye dönük ifadelere dayanarak işlem. Gelecekteki performans veya bu tür ileriye dönük beyanlar konusunda hiçbir beyan veya garanti verilmez."
 
 #: templates/whitepaper/disclaimer.html:11
-msgid ""
-"This whitepaper was first published in September 2017, before the Origin Platform was built and deployed on the Ethereum Mainnet in October of 2018. For\n"
+msgid "This whitepaper was first published in September 2017, before the Origin Platform was built and deployed on the Ethereum Mainnet in October of 2018. For\n"
 "    the most up to date information on our product development and business strategy, please refer to our website at <a href='https://www.originprotocol.com'>originprotocol.com</a>. For the latest technical\n"
 "    information, please reference <a href='https://github.com/OriginProtocol' target='_blank' rel='noreferrer noopener'>Origin's Github account</a>. To use our flagship marketplace application, please download our <a href='https://www.originprotocol.com/mobile' target='_blank'>mobile apps</a> or visit our <a href='https://www.shoporigin.com' target='_blank' rel='noreferrer noopener'>DApp</a> with a web3-enabled DApp browser.\n"
 "    To use our decentralized Shopify alternative, visit <a href='https://originswag.eth.link' target='_blank' rel='noreferrer noopener'>originswag.eth.link</a>."
-msgstr ""
-"Kökeni Platformu için 2018 Ekim ayında Ethereum Mainnet üzerine inşa edilmiş ve kullanıma sunulduğundan önce ilk olarak Eylül 2017 yılında yayınlanan içerik broşürü Bu\n"
+msgstr "Kökeni Platformu için 2018 Ekim ayında Ethereum Mainnet üzerine inşa edilmiş ve kullanıma sunulduğundan önce ilk olarak Eylül 2017 yılında yayınlanan içerik broşürü Bu\n"
 "    ürün geliştirme ve iş stratejisi üzerinde güncel bilgiler en yukarı, originprotocol adresindeki web sitesine bakın. com. En son teknik\n"
 "    bilgileri için lütfen <a href='https://github.com/OriginProtocol' target='_blank' rel='noreferrer noopener'>www.github.com/OriginProtocol</a>adresindeki Github hesabımıza bakın. Bizim amiral gemisi pazar uygulaması kullanmak için, bizim mobil uygulamalar indirin\n"
 "    (<a href='https://www.originprotocol.com/mobile' target='_blank'>www.originprotocol.com/mobile</a>) ya da bizim Dapp ((ziyaret<a href='https://www.shoporigin.com' target='_blank' rel='noreferrer noopener'>www.shoporigin.com</a>Dapp tarayıcısını web3 özellikli bir birlikte).\n"
@@ -3435,17 +3368,15 @@ msgstr "Bu teknik inceleme en son 2 Haziran 2020'de güncellenmiştir."
 
 #: templates/whitepaper/exec-summary.html:7
 msgid "View litepaper"
-msgstr ""
+msgstr "Belgeyi görüntüle"
 
 #: templates/whitepaper/exec-summary.html:13
-msgid ""
-"Origin is an open-source platform that enables the creation of peer-to-peer marketplaces and e-commerce applications. The Origin Platform initially targets the global sharing economy, allowing buyers and sellers of\n"
+msgid "Origin is an open-source platform that enables the creation of peer-to-peer marketplaces and e-commerce applications. The Origin Platform initially targets the global sharing economy, allowing buyers and sellers of\n"
 "    fractional use goods and services (car-sharing, service-based tasks, home-sharing, etc.) to transact on\n"
 "    the distributed, open web. Using the Ethereum blockchain and Interplanetary File System (IPFS), the\n"
 "    platform and its community participants can interact in a peer-to-peer fashion, allowing for the creation and booking of\n"
 "    services and goods without traditional intermediaries. "
-msgstr ""
-"Origin, eşler arası pazar yerleri ve e-ticaret uygulamaları oluşturulmasını sağlayan açık kaynaklı bir platformdur. Başlangıç Platformu başlangıçta küresel paylaşım ekonomisini hedefleyerek,\n"
+msgstr "Origin, eşler arası pazar yerleri ve e-ticaret uygulamaları oluşturulmasını sağlayan açık kaynaklı bir platformdur. Başlangıç Platformu başlangıçta küresel paylaşım ekonomisini hedefleyerek,\n"
 "    kısmi kullanım mal ve hizmetinin (araba paylaşımı, hizmet tabanlı görevler, ev paylaşımı vb.) Alıcı ve satıcılarının dağıtılmış, açık web'de\n"
 "    işlem yapmalarına izin verir. Ethereum blok zinciri ve Gezegenlerarası Dosya Sistemi'ni (IPFS) kullanarak,\n"
 "    platform ve topluluk katılımcıları, geleneksel aracılar olmadan\n"
@@ -3929,8 +3860,7 @@ msgid "Co-founder"
 msgstr "Kurucu"
 
 #: templates/whitepaper/team.html:22
-msgid ""
-"Matthew Liu is co-founder of Origin Protocol and is an\n"
+msgid "Matthew Liu is co-founder of Origin Protocol and is an\n"
 "      experienced product and business executive and full-stack software\n"
 "      engineer. He became interested in cryptocurrency after investing in the\n"
 "      Ethereum crowdsale, and has been investing in blockchain and token\n"
@@ -3938,16 +3868,14 @@ msgid ""
 msgstr "Matthew Liu, Origin Protocol şirketinin kurucu ortağıdır ve deneyimli bir ürün ve iş yürütme ve tam yığın yazılım mühendisidir. Ethereum crowdsale'ye yatırım yaptıktan sonra kripto para birimiyle ilgilenmeye başladı ve o zamandan beri blockchain ve token projelerine yatırım yapıyor."
 
 #: templates/whitepaper/team.html:29
-msgid ""
-"Liu was one of the earliest product managers/25th employee at\n"
+msgid "Liu was one of the earliest product managers/25th employee at\n"
 "      YouTube (acquired by Google), and was a founding member of YouTube’s\n"
 "      monetization team that eventually built a multi-billion dollar advertising\n"
 "      business."
 msgstr "Liu, YouTube'daki (Google tarafından satın alınan) en eski ürün yöneticilerinden / 25. çalışanlarından biriydi ve YouTube'un sonunda milyarlarca dolarlık bir reklam işi kuran para kazanma ekibinin kurucu bir üyesiydi."
 
 #: templates/whitepaper/team.html:35
-msgid ""
-"He later served as Vice President of Product at Qwiki (acquired\n"
+msgid "He later served as Vice President of Product at Qwiki (acquired\n"
 "      by Yahoo) and Vice President of Product at Bonobos (acquired by Walmart).\n"
 "      Together, Liu and Fraser have founded several profitable bootstrapped\n"
 "      Internet businesses in the growth marketing (7-figure annual recurring\n"
@@ -3956,8 +3884,7 @@ msgid ""
 msgstr "Daha sonra Qwiki'de (Yahoo tarafından satın alındı) Ürün Başkan Yardımcısı ve Bonobos'ta (Walmart tarafından satın alındı) Ürün Başkan Yardımcısı olarak görev yaptı. Liu ve Fraser birlikte, son üç yılda büyüme pazarlaması (7 rakamlı yıllık tekrar eden gelir) ve kişisel finans (edinilen) alanlarında birkaç karlı önyüklemeli İnternet işletmesi kurdu."
 
 #: templates/whitepaper/team.html:43
-msgid ""
-"In 2014, as CEO of Unicycle Labs, Liu built a real-time\n"
+msgid "In 2014, as CEO of Unicycle Labs, Liu built a real-time\n"
 "      comparison tool for ride-sharing that was widely adopted and then promptly\n"
 "      given a cease and desist by Uber for scraping their data and using their\n"
 "      trademarks. This was one of his first inspirations to fight for open data,\n"
@@ -3966,8 +3893,7 @@ msgid ""
 msgstr "2014 yılında, Unicycle Labs CEO'su olarak, Liu, sürüş paylaşımı için yaygın olarak benimsenen ve daha sonra Uber tarafından verilerini kazıyarak ve ticari markalarını kullanması için derhal durduruldu ve bırakıldı. Bu, açık veriler, fiyatlandırma şeffaflığı ve paylaşım ekonomisindeki adil tüketici uygulamaları için mücadele eden ilk ilhamlarından biriydi."
 
 #: templates/whitepaper/team.html:66
-msgid ""
-"Joshua Fraser is co-founder of Origin Protocol and is a serial\n"
+msgid "Joshua Fraser is co-founder of Origin Protocol and is a serial\n"
 "      entrepreneur and experienced technical executive. He mined his first\n"
 "      bitcoin in 2010 and is an active member of the cryptocurrency community.\n"
 "      He has contributed and led several open-source projects as well as\n"
@@ -3975,8 +3901,7 @@ msgid ""
 msgstr "Joshua Fraser, Origin Protocol şirketinin kurucu ortağıdır ve bir seri girişimci ve deneyimli bir teknik yöneticidir. 2010 yılında ilk bitcoinini çıkardı ve kripto para topluluğunun aktif bir üyesidir. PubSubHubbub gibi yenilikçi protokollerin yanı sıra çeşitli açık kaynaklı projelere katkıda bulundu. "
 
 #: templates/whitepaper/team.html:73
-msgid ""
-"He previously served as founder and CTO of Eventvue (social\n"
+msgid "He previously served as founder and CTO of Eventvue (social\n"
 "      networking for events) and Forage/Din (healthy gourmet meal kits). Fraser\n"
 "      was also founder and CEO of Torbit where he developed an expertise in\n"
 "      networking infrastructure, web performance and internet security before\n"
@@ -3984,8 +3909,7 @@ msgid ""
 msgstr "Daha önce Eventvue (etkinlikler için sosyal ağ) ve Forage / Din (sağlıklı gurme yemek kitleri) kurucusu ve CTO'su olarak hizmet vermiştir. Fraser ayrıca, şirketi Walmart Labs'a satmadan önce ağ altyapısı, web performansı ve internet güvenliği konusunda uzmanlık geliştirdiği Torbit'in kurucusu ve CEO'suydu."
 
 #: templates/whitepaper/team.html:80
-msgid ""
-"Fraser has founded several bootstrapped, profitable businesses\n"
+msgid "Fraser has founded several bootstrapped, profitable businesses\n"
 "      with Liu, one of which was PriceSlash (acquired by BillShark). As a former\n"
 "      Airbnb host, he has experienced first-hand the downsides of marketplace\n"
 "      intermediaries (large fees, arbitrary rules, and government\n"
@@ -3997,137 +3921,114 @@ msgid "Core <span>team</span>"
 msgstr "Çekirdek <span>takım</span>"
 
 #: templates/whitepaper/team.html:92
-msgid ""
-"Origin’s headquarters are in San Francisco, CA, USA. However,\n"
+msgid "Origin’s headquarters are in San Francisco, CA, USA. However,\n"
 "      we have team members across the globe and run an efficient and open\n"
 "      distributed company. Our full-time staff of 16 is currently situated\n"
 "      across 4 continents."
 msgstr "Origin'in merkezi ABD'nin San Francisco kentindedir. Bununla birlikte, dünya çapında ekip üyelerimiz var ve verimli ve açık bir dağıtım şirketi işletiyoruz. 16 kişilik tam zamanlı personelimiz şu anda 4 kıtada bulunmaktadır."
 
 #: templates/whitepaper/team.html:113
-msgid ""
-"Yu Pan was one of the 6 founding team members of PayPal\n"
+msgid "Yu Pan was one of the 6 founding team members of PayPal\n"
 "            and was the 1st employee at YouTube. He is a former Google employee\n"
 "            and co-founder of Kiwi Crate."
 msgstr "Yu Pan, PayPal'ın 6 kurucu ekibinden biriydi ve YouTube'da 1 çalışanıydı. Eski bir Google çalışanı ve Kiwi Crate'in kurucularından."
 
 #: templates/whitepaper/team.html:134
-msgid ""
-"Franck has had a successful career as an early employee\n"
+msgid "Franck has had a successful career as an early employee\n"
 "            at numerous high-profile companies. He previously led engineering\n"
 "            teams at Inktomi, Paypal, YouTube, Google and Dropbox."
 msgstr "Franck, birçok yüksek profilli şirkette erken çalışan olarak başarılı bir kariyere sahip. Daha önce Inktomi, Paypal, YouTube, Google ve Dropbox'ta mühendislik ekipleri yönetti."
 
 #: templates/whitepaper/team.html:155
-msgid ""
-"Micah was the technical co-founder of WellAttended, a\n"
+msgid "Micah was the technical co-founder of WellAttended, a\n"
 "            bootstrapped box office management platform. He worked as a\n"
 "            commercial real estate broker while learning to code."
 msgstr "Micah, bootstrapped gişe yönetim platformu WellAttended'in teknik kurucu ortağıydı. Kodlamayı öğrenirken ticari emlak komisyoncusu olarak çalıştı."
 
 #: templates/whitepaper/team.html:176
-msgid ""
-"Kay is a Chartered Professional Accountant (CPA). She\n"
+msgid "Kay is a Chartered Professional Accountant (CPA). She\n"
 "            previously worked as a Senior Accountant and then as a Senior\n"
 "            Consultant at KPMG Canada."
-msgstr ""
-"Kay, Yeminli Mali Müşavirdir (EBM).\n"
+msgstr "Kay, Yeminli Mali Müşavirdir (EBM).\n"
 "                  O daha önce bir Kıdemli Muhasebeci olarak ve daha sonra olarak çalıştı\n"
 "                  KPMG Kanada Kıdemli Danışman."
 
 #: templates/whitepaper/team.html:197
-msgid ""
-"Coleman is an active cryptocurrency investor and real\n"
+msgid "Coleman is an active cryptocurrency investor and real\n"
 "            estate entrepreneur, owning and managing multiple Airbnb properties.\n"
 "            He studied mathematics at Berkeley."
 msgstr "Coleman, birden fazla Airbnb mülküne sahip ve yöneten aktif bir kripto-para birimi yatırımcısı ve gayrimenkul girişimcidir. Berkeley'de matematik okudu."
 
 #: templates/whitepaper/team.html:218
-msgid ""
-"Aure is a product designer with 10+ years of experience.\n"
+msgid "Aure is a product designer with 10+ years of experience.\n"
 "            Prior to joining Origin, Aure worked at multiple startups and\n"
 "            Fortune 500 companies. In a past life, he was also a software\n"
 "            engineer."
-msgstr ""
-"Aure, 10 yıldan fazla deneyime sahip bir ürün tasarımcısıdır.\n"
+msgstr "Aure, 10 yıldan fazla deneyime sahip bir ürün tasarımcısıdır.\n"
 "            Origin'e katılmadan önce, Aure birden çok startup ve\n"
 "            Fortune 500 şirketinde çalıştı. Geçmiş bir yaşamda, o da bir yazılım\n"
 "            mühendisiydi."
 
 #: templates/whitepaper/team.html:240
-msgid ""
-"Mila is leading our community efforts in South Korea.\n"
+msgid "Mila is leading our community efforts in South Korea.\n"
 "            She previously organized blockhain hackathons and has degrees from\n"
 "            Penn State and Erasmus University Rotterdam."
-msgstr ""
-"Mila Güney yılında toplum çabalara önderlik eden\n"
+msgstr "Mila Güney yılında toplum çabalara önderlik eden\n"
 "                  Kore. Daha önce blockhain hackathons organize etti ve Penn State ve Erasmus University Rotterdam'dan\n"
 "                  dereceye sahip."
 
 #: templates/whitepaper/team.html:261
-msgid ""
-"Before Origin, Tom had a successful career as a solo\n"
+msgid "Before Origin, Tom had a successful career as a solo\n"
 "            startup founder. He has two Masters degrees in Distributed Systems\n"
 "            from the Technical University of Berlin and KTH in Stockholm."
-msgstr ""
-"Origin'den önce Tom,                  solo başlangıç kurucusu olarak başarılı bir kariyere sahipti. Berlin\n"
+msgstr "Origin'den önce Tom,                  solo başlangıç kurucusu olarak başarılı bir kariyere sahipti. Berlin\n"
 "                  Teknik Üniversitesi'nden\n"
 "                  Dağıtılmış Sistemde ve Stockholm'de KTH'de iki yüksek lisans derecesi vardır."
 
 #: templates/whitepaper/team.html:282
-msgid ""
-"Nick studied Computer Science at the University of\n"
+msgid "Nick studied Computer Science at the University of\n"
 "            Warwick. Prior to joining Origin, he worked as an engineer at\n"
 "            Sencha, C3 Energy Network and Palo Alto Networks."
 msgstr "Nick, Warwick Üniversitesi'nde Bilgisayar Bilimleri okudu. Origin'e katılmadan önce Sencha, C3 Enerji Ağı ve Palo Alto Networks'te mühendis olarak çalıştı."
 
 #: templates/whitepaper/team.html:303
-msgid ""
-"Anna is leading our community efforts for Chinese\n"
+msgid "Anna is leading our community efforts for Chinese\n"
 "            speakers. Before Origin, Anna managed global social media at Exness,\n"
 "            a leading forex broker. She also co-founded a non-profit in\n"
 "            Australia."
-msgstr ""
-"Anna, Çince\n"
+msgstr "Anna, Çince\n"
 "                  konuşanlar için toplum çalışmalarımıza liderlik ediyor. Origin'den önce Anna, önde gelen bir forex brokeri olan\n"
 "                  Exness'te küresel sosyal medyayı yönetti. Ayrıca Avustralya'da\n"
 "                  kar amacı gütmeyen bir kuruluş kurdu."
 
 #: templates/whitepaper/team.html:325
-msgid ""
-"Domen co-founded and led a team developing a mobile\n"
+msgid "Domen co-founded and led a team developing a mobile\n"
 "            application with 2 chess Grandmasters. He previously had a\n"
 "            successful career at Cetra, Zemanta and Peerindex."
 msgstr "Domen, iki satranç Büyük Ustası ile mobil uygulama geliştiren bir ekip kurdu ve yönetti. Daha önce Cetra, Zemanta ve Peerindex'te başarılı bir kariyere sahipti."
 
 #: templates/whitepaper/team.html:346
-msgid ""
-"Shahul is a fullstack engineer who started programming\n"
+msgid "Shahul is a fullstack engineer who started programming\n"
 "            at age of 10. He previously worked as a freelancer and then joined\n"
 "            Zoho as a front-end developer."
-msgstr ""
-"Shahul, 10 yaşında\n"
+msgstr "Shahul, 10 yaşında\n"
 "                  programlamaya başlayan bir fullstack mühendisidir. Daha önce bir freelancer\n"
 "                  olarak çalıştı ve sonra Zoho'ya ön uç geliştirici olarak katıldı."
 
 #: templates/whitepaper/team.html:367
-msgid ""
-"Mike is a long-time contributor to open-source. He\n"
+msgid "Mike is a long-time contributor to open-source. He\n"
 "            created a dev toolkit for creating Ethereum smart contracts with\n"
 "            Python and previously worked with Ethereum and IPFS at Lunyr."
-msgstr ""
-"Mike açık kaynak koduna uzun zamandır katkıda bulunuyor.\n"
+msgstr "Mike açık kaynak koduna uzun zamandır katkıda bulunuyor.\n"
 "                  , Python ile Ethereum akıllı sözleşmeleri\n"
 "                  oluşturmak için bir dev araç seti yarattı ve daha önce\n"
 "                  Lunyr'de Ethereum ve IPFS ile çalıştı."
 
 #: templates/whitepaper/team.html:388
-msgid ""
-"Before joining Origin, Max helped build communities for\n"
+msgid "Before joining Origin, Max helped build communities for\n"
 "            notable blockchain companies like OKEx. He also worked with RedNova,\n"
 "            the marketing and incubation entity for Du Capital."
-msgstr ""
-"Origin'e katılmadan önce Max, OKEx gibi\n"
+msgstr "Origin'e katılmadan önce Max, OKEx gibi\n"
 "            önemli blok zinciri şirketi için topluluklar oluşturmaya yardımcı oldu. Du Capital'in pazarlama ve  kuruluşu olan RedNova\n"
 "            ile de çalıştı."
 
@@ -4136,8 +4037,7 @@ msgid "Developer <span>community</span>"
 msgstr "Geliştirici <span>topluluğu</span>"
 
 #: templates/whitepaper/team.html:518
-msgid ""
-"In addition to our full-time staff, Origin has a very active\n"
+msgid "In addition to our full-time staff, Origin has a very active\n"
 "      open-source developer community. Since the project’s inception, we’ve had\n"
 "      over 170 contributors to our Github repository. We anticipate the number\n"
 "      of developers and supporters to increase dramatically after our 1.0 launch\n"
@@ -4408,349 +4308,4 @@ msgstr "Abonelikten ayrıldınız"
 #: views/web_views.py:336
 msgid "Ooops, something went wrong"
 msgstr "Ooops, bir şeyler ters gitti"
-
-#~ msgid "Total number of locked tokens"
-#~ msgstr "Toplam kilitli token sayısı"
-
-#~ msgid "Investors, team members & others with locked tokens"
-#~ msgstr "Yatırımcılar, ekip üyeleri ve kilitli tokenlı diğerleri"
-
-#~ msgid ""
-#~ "Centralized intermediaries often charge 20-30%% in\n"
-#~ "          transaction fees. Airbnb grossed $2.6B in fees in 2017, while Uber\n"
-#~ "          took home a monumental $11.8B in fees in 2018. Total sharing economy\n"
-#~ "          fees are expected to cross $40B by 2020."
-#~ msgstr ""
-#~ "Merkezi aracılar genellikle\n"
-#~ "          20-30%% işlem ücreti alır. Airbnb 2017'de 2,6 milyar dolar hasılat elde ederken, Uber\n"
-#~ "          2018'de 11,8 milyar dolarlık muazzam bir ücret aldı. Toplam paylaşım ekonomisi\n"
-#~ "          ücretinin 2020'ye kadar 40 milyar doları geçmesi bekleniyor."
-
-#~ msgid "Investors & team members with locked tokens"
-#~ msgstr ""
-
-#~ msgid "Marketplace DApp"
-#~ msgstr "Marketplace DApp"
-
-#~ msgid "Docs"
-#~ msgstr "Dokümanlar"
-
-#~ msgid "Product"
-#~ msgstr "Ürün"
-
-#~ msgid "Learn More"
-#~ msgstr "Daha fazla bilgi edin"
-
-#~ msgid "Check out our updated whitepaper"
-#~ msgstr "Güncellenmiş tanıtım yazımıza (whitepaper) göz atın"
-
-#~ msgid "Read our whitepaper"
-#~ msgstr "Tanıtım belgemizi (whitepaper) okuyun"
-
-#~ msgid "Milestones"
-#~ msgstr "Kilometre taşları"
-
-#~ msgid "May 2017"
-#~ msgstr "Mayıs 2017"
-
-#~ msgid "Began initial development"
-#~ msgstr "İlk geliştirmeye başladı"
-
-#~ msgid "September 2017"
-#~ msgstr "Eylül 2017"
-
-#~ msgid "Released initial whitepaper"
-#~ msgstr "İlk teknik inceleme yayınlandı"
-
-#~ msgid "December 2017"
-#~ msgstr "Aralık 2017"
-
-#~ msgid "Launched Alpha on Ethereum testnet"
-#~ msgstr "Alpha, Ethereum testnet üzerinde başlatıldı"
-
-#~ msgid "October 2018"
-#~ msgstr "Ekim 2018"
-
-#~ msgid "Launched Beta on Ethereum mainnet"
-#~ msgstr "Ethereum ana ağında Beta başlatıldı"
-
-#~ msgid "February 2019"
-#~ msgstr "Şubat 2019"
-
-#~ msgid "Launched Marketplace Creator 1.0 and our first mobile apps"
-#~ msgstr "Marketplace Creator 1.0'ı ve ilk mobil uygulamalarımızı kullanıma sundu"
-
-#~ msgid "Supported first partner app launches"
-#~ msgstr "Desteklenen ilk iş ortağı uygulaması lansmanları"
-
-#~ msgid "April 2019"
-#~ msgstr "2019 Nisan"
-
-#~ msgid "Launched Origin Rewards"
-#~ msgstr "Başlatılan Origin Ödülleri"
-
-#~ msgid "Launched stablecoin payments"
-#~ msgstr "Stabilcoin ödemeleri başlatıldı"
-
-#~ msgid "July 2019"
-#~ msgstr "Temmuz 2019"
-
-#~ msgid "Launched shoporigin.com and new mobile apps"
-#~ msgstr "Shoporigin.com ve yeni mobil uygulamalar kullanıma sunuldu"
-
-#~ msgid "Launched Meta Transactions"
-#~ msgstr "Başlatılan Meta İşlemleri"
-
-#~ msgid "September 2019"
-#~ msgstr "Eylül 2019"
-
-#~ msgid "Launched OGN Commissions"
-#~ msgstr "OGN Komisyonları başlatıldı"
-
-#~ msgid "Q4 2019"
-#~ msgstr "Q4 2019"
-
-#~ msgid "Distributed investor OGN tokens"
-#~ msgstr "Dağıtılmış yatırımcı OGN tokenleri"
-
-#~ msgid "Launched Dshop"
-#~ msgstr "Dshop başlatıldı"
-
-#~ msgid "Q1 2020"
-#~ msgstr "Çeyrek1 2020"
-
-#~ msgid "Launched Mainnet 1.0"
-#~ msgstr "Mainnet 1.0 piyasaya sürüldü"
-
-#~ msgid "Listed on Binance"
-#~ msgstr "Binance'de listelenmiştir"
-
-#~ msgid "Launched OGN as payment token"
-#~ msgstr "OGN, ödeme tokenı olarak başlatıldı"
-
-#~ msgid "Added to Samsung Blockchain Wallet"
-#~ msgstr "Samsung Blockchain Cüzdanına eklendi"
-
-#~ msgid "Q2 2020"
-#~ msgstr "Çeyrek2 2020"
-
-#~ msgid "Listed on additional exchanges"
-#~ msgstr "Ek borsalarda listelenmiştir"
-
-#~ msgid "Support Dshop partner launches"
-#~ msgstr "Dshop iş ortağı lansmanlarını destekleyin"
-
-#~ msgid "Launch OGN staking model"
-#~ msgstr "OGN bahis modelini başlat"
-
-#~ msgid "Q3 2020"
-#~ msgstr "Ç3 2020"
-
-#~ msgid "Launch new developer tools and expand developer adoption"
-#~ msgstr "Yeni geliştirici araçlarını başlatın ve geliştirici uyarlamasını genişletin"
-
-#~ msgid "Expand Dshop partnerships and store types"
-#~ msgstr "Dshop ortaklıklarını ve mağaza türlerini genişletin"
-
-#~ msgid "Q4 2020"
-#~ msgstr "Q4 2020"
-
-#~ msgid "Launch OGN as a governance token"
-#~ msgstr "Bir yönetim jetonu olarak OGN'yi başlatın"
-
-#~ msgid "R&D Engineer"
-#~ msgstr "Ar-Ge Mühendisi"
-
-#~ msgid "Product Manager/Engineer"
-#~ msgstr "Ürün Müdürü/Mühendis"
-
-#~ msgid "Amy Hockings"
-#~ msgstr "Amy Hockings"
-
-#~ msgid "Customer Support"
-#~ msgstr "Müşteri desteği"
-
-#~ msgid "Amy has a decade of experience in customer service, sales and administration, and led recruitment for one of Australia’s largest charities. She studied International Business and Linguistics at Griffith University."
-#~ msgstr "Amy, müşteri hizmetleri, satış ve idare alanlarında on yıllık bir deneyime sahiptir ve Avustralya'nın en büyük hayır kurumlarından biri için işe alım sürecini yönetmiştir. Griffith Üniversitesi'nde Uluslararası İşletme ve Dilbilim okudu."
-
-#~ msgid "Spyros Kekos"
-#~ msgstr "Spyros Kekos"
-
-#~ msgid "Leslie Song"
-#~ msgstr "Leslie Song"
-
-#~ msgid "Roadmap & milestones"
-#~ msgstr "Yol Haritası ve Kilometre Taşları"
-
-#~ msgid "November 2017"
-#~ msgstr "Kasım 2017"
-
-#~ msgid "Raised $3M of funding (Advisor Round)"
-#~ msgstr "3 milyon dolarlık fon sağladı (Danışman Turu)"
-
-#~ msgid "April 2018"
-#~ msgstr "2018 Nisan"
-
-#~ msgid "Raised $28.5M of funding (Strategic Round)"
-#~ msgstr "28,5 milyon dolarlık fon sağladı (Stratejik Tur)"
-
-#~ msgid "August 2018"
-#~ msgstr "Ağustos 2018"
-
-#~ msgid "Raised $6.6M of funding (CoinList Round)"
-#~ msgstr "6.6 milyon dolarlık fon yarattı (CoinList Round)"
-
-#~ msgid "Launched upgraded meta-transactions infrastructure"
-#~ msgstr "Yükseltilmiş meta işlemler altyapısı başlatıldı"
-
-#~ msgid "Launched gift card and video streaming marketplace apps"
-#~ msgstr "Hediye kartı ve video akışı pazar uygulaması başlattı"
-
-#~ msgid "November 2019"
-#~ msgstr "Kasım 2019"
-
-#~ msgid "Launched Origin Commissions"
-#~ msgstr "Başlatılan Menşe Komisyonları"
-
-#~ msgid "Launched decentralized e-commerce store platform"
-#~ msgstr "Merkezi olmayan e-ticaret mağazası platformu başlatıldı"
-
-#~ msgid "Launched off-chain payments"
-#~ msgstr "Zincir dışı ödemeler başlatıldı"
-
-#~ msgid "Listed OGN on Binance"
-#~ msgstr "Binance'de listelenmiştir"
-
-#~ msgid "Launch additional marketplace and e-commerce apps"
-#~ msgstr "Ek iç pazar ve e-ticaret uygulamaları başlatın"
-
-#~ msgid "Support partner launches of decentralized e-commerce stores"
-#~ msgstr "Destek ortağı, merkezi olmayan e-ticaret mağazalarını başlattı"
-
-#~ msgid "Roadmap and milestones"
-#~ msgstr "Yol Haritası ve Kilometre Taşları"
-
-#~ msgid "Throughout 2020, we built and iterated upon Origin’s flagship commerce platform, <a href='/dshop'></a>Dshop. Dshop is a completely open-source alternative to Shopify, and all its core features are free to use. Today, we’ve had hundreds of merchants sign up to use Dshop, including dozens of name brand cryptocurrency companies such as Brave, Solana, and Kyber Network."
-#~ msgstr ""
-
-#~ msgid "Further, we announced marquee partnerships with <a href='https://medium.com/google-cloud/origin-launches-decentralized-commerce-on-google-cloud-marketplace-b74fb46be7d9'>Google Cloud</a> and <a href='https://aws.amazon.com/blogs/awsmarketplace/launch-a-blockchain-powered-ecommerce-store-with-dshop-in-aws-marketplace/'>Amazon</a> to enable our merchant partners to launch completely decentralized storefronts on these iconic cloud computing platforms. We are working with both companies to promote Dshop to additional merchants with co-marketing initiatives. We are also working with the Google team to make Dshop’s blockchain commerce data more readily accessible in Google Data Studio."
-#~ msgstr ""
-
-#~ msgid "In January of 2021, NFTs accounted for a record <a href='https://decrypt.co/56998/crypto-art-sales-on-ethereum-reach-a-record-80-million'>$80M of transaction volume</a>. It is clear that NFT sales are growing at an exponential rate and represent the fastest growing opportunity for crypto-centric commerce."
-#~ msgstr ""
-
-#~ msgid "All three aforementioned NFT-powered commerce opportunities are already supported by our platform. These use cases were highlighted in our recent NFT successful Dshop NFT Launchpad collaboration with world-famous DJ and crypto-currency influencer 3LAU who is ranked #93 on CoinTelegraph’s list of most influential people in cryptocurrency in 2020. Almost $11.7M of gross sales were generated using Origin’s commerce platform in our inaugural campaign, a sum that smashed the previous record for a single NFT collection. Coverage of this record breaking event reached mainstream media outlets like the New York Times and Forbes."
-#~ msgstr ""
-
-#~ msgid "OUSD is a superior DeFi product for the masses. By removing all the complexities normally associated with earning fees through lending or supplying liquidity to automated market makers (AMMs), OUSD is highly accessible to users who are new to cryptocurrency technologies. Today, users need only to purchase OUSD on centralized exchanges or decentralized swap sites like Uniswap/Sushiswap to begin earning yield at staggering rates immediately. Alternatively, users can mint OUSD with their existing stablecoins (DAI, USDT, USDC currently) on the OUSD DApp."
-#~ msgstr ""
-
-#~ msgid "Current APYs and circulating supply are published transparently on the OUSD dashboard. "
-#~ msgstr ""
-
-#~ msgid "Readers can learn more about the technical details of OUSD on our documentation."
-#~ msgstr ""
-
-#~ msgid "Origin was founded by Josh Fraser and Matthew Liu, two successful entrepreneurs who have built multiple venture backed companies that saw successful exits and who have worked together on multiple businesses in the past. They were joined by founding engineer Yu Pan. Yu Pan was one of the co-founders of PayPal alongside Elon Musk, Peter Thiel, Max Levchin, Ken Howery, and Luke Nosek. Yu Pan was also the first employee at YouTube and held senior positions at Google and Affirm."
-#~ msgstr ""
-
-#~ msgid "It’s time to cut out traditional intermediaries"
-#~ msgstr "Geleneksel aracıları ortadan kaldırmanın zamanı geldi"
-
-#~ msgid "Origin enables true peer-to-peer commerce"
-#~ msgstr "Origin, gerçek eşler arası ticareti mümkün kılar"
-
-#~ msgid ""
-#~ "Origin is a startup headquartered in San Francisco, but we also\n"
-#~ "      have team members in China, Korea, Russia, India, New Zealand, and even\n"
-#~ "      Slovenia. Our 800+ investors include top venture capitalists and\n"
-#~ "      cryptocurrency funds all over the world."
-#~ msgstr ""
-#~ "Origin, merkezi San Francisco'da bulunan bir girişimdir, ancak Çin, Kore, Rusya, Hindistan, Yeni Zelanda ve hatta\n"
-#~ "      Slovenya'da da\n"
-#~ "      ekip üyemiz var. 800'den fazla yatırımcımız, dünyanın her yerindeki en iyi risk sermayedarlarını ve\n"
-#~ "      kripto para birimi fonunu içerir."
-
-#~ msgid "Origin Tokens (OGN) are held by over 25,000"
-#~ msgstr "Origin Tokenları (OGN) 25.000'den fazla tarafından tutulur"
-
-#~ msgid ""
-#~ "Centralized intermediaries often charge 20-30%% in\n"
-#~ "          transaction fees. Airbnb grossed $2.6B in fees in 2017, while Uber\n"
-#~ "          took home a monumental $11.8B in fees in 2018."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "By removing the middlemen, Origin removes these fees.\n"
-#~ "          Buyers and sellers can now share the savings from the fees that are no\n"
-#~ "          longer paid to traditional marketplace operators."
-#~ msgstr ""
-#~ "Aracıları kaldırarak, Origin bu ücretleri ortadan kaldırır.\n"
-#~ "          Alıcılar ve satıcılar artık\n"
-#~ "          artık geleneksel pazar yeri operatörlerine ödenmeyen ücretlerden tasarrufları paylaşabilir."
-
-#~ msgid ""
-#~ "Uber and Lyft recently IPOed. WeWork and Airbnb are soon to\n"
-#~ "          follow suit. None of the early participants on these platforms\n"
-#~ "          benefited despite being critical to their success."
-#~ msgstr ""
-#~ "Uber ve Lyft kısa süre önce halka arz edildi. WeWork ve Airbnb yakında\n"
-#~ "          takip edecek. Bu platformların\n"
-#~ "          ilk katılımcılarının hiçbiri, başarıları için kritik olmasına rağmen fayda sağlamadı."
-
-#~ msgid ""
-#~ "In contrast, Origin enables everyone to own a piece of the\n"
-#~ "          network. Buyers and sellers can earn Origin Tokens (OGN) simply by\n"
-#~ "          using Origin-enabled applications to transact with one another.\n"
-#~ "          Developers, affiliates, and marketplace operators can earn OGN by\n"
-#~ "          promoting and marketing sellers' listings. When everyone owns a piece\n"
-#~ "          of the network, ecosystem participants are incentivized to promote the\n"
-#~ "          health and growth of Origin. "
-#~ msgstr ""
-#~ "Buna karşılık, Origin, herkesin\n"
-#~ "          ağının bir parçasına sahip olmasını sağlar. Alıcılar ve satıcılar, birbirleriyle işlem yapmak için Origin özellikli uygulamaları kullanarak yalnızca\n"
-#~ "          Origin Token (OGN) kazanabilir.\n"
-#~ "          Geliştiriciler, bağlı kuruluşlar ve pazar yeri operatörleri, satıcıların listelemelerini tanıtarak ve pazarlayarak\n"
-#~ "          OGN kazanabilir. Herkes ağın bir parçası\n"
-#~ "          sahip olduğunda, ekosistem katılımcıları, Origin'in sağlığını ve büyümesini\n"
-#~ "          teşvik etmeye teşvik edilir. "
-
-#~ msgid ""
-#~ "With the advent of cryptocurrencies and the proliferation\n"
-#~ "          of inexpensive smartphones, now is the time to enable the unbanked to\n"
-#~ "          participate in the new Internet economy. Users from all over the world\n"
-#~ "          are now able to transact with each other on Origin-powered\n"
-#~ "          marketplaces even if they do not have stable, local banking\n"
-#~ "          systems."
-#~ msgstr ""
-#~ "Cryptocurrencies gelişiyle ve çoğalması ile\n"
-#~ "          ucuz Akıllı telefonların, şu ana unbanked etkinleştirmek zamanı\n"
-#~ "          Yeni Internet ekonomisinde katılırlar. Dünyanın her yerinden kullanıcılar\n"
-#~ "          artık, istikrarlı, yerel bankacılık\n"
-#~ "          sistemlerine sahip olmasalar bile, Origin destekli\n"
-#~ "          pazaryerlerinde birbirleriyle işlem yapabilirler."
-
-#~ msgid ""
-#~ "Airbnb is heavily regulated or banned in cities like Paris,\n"
-#~ "          Berlin, Tokyo, New York, and even its home city of San Francisco."
-#~ msgstr ""
-#~ "Airbnb, Paris,\n"
-#~ "          Berlin, Tokyo, New York ve hatta memleketi San Francisco gibi şehirlerde yoğun bir şekilde düzenlenir veya yasaklanır."
-
-#~ msgid ""
-#~ "Decentralized marketplaces promote open and free commerce.\n"
-#~ "          Unlike centralized alternatives, they are not single points of failure\n"
-#~ "          and can't be banned or shut down. Decentralized commerce is more\n"
-#~ "          resilient and promotes efficient markets."
-#~ msgstr ""
-#~ "Merkezi olmayan pazar yerleri açık ve ücretsiz ticareti teşvik eder.\n"
-#~ "          Merkezi alternatiflerin aksine, bunlar tek hata noktaları değildir\n"
-#~ "          ve yasaklanamaz veya kapatılamaz. Merkezi olmayan ticaret fazlasıdır\n"
-#~ "          esnek ve verimli pazarlara teşvik etmektedir."
-
-#~ msgid "Be the first to hear when we launch new products, and announce important partnerships!"
-#~ msgstr "Yeni ürünler piyasaya sürdüğümüzde ilk duyan ve önemli ortaklıkları duyuran siz olun!"
-
-#~ msgid "Participate in the Origin Token (OGN) distribution"
-#~ msgstr "Origin Token (OGN) dağıtımına katılın"
 
